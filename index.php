@@ -324,60 +324,121 @@ v0.3rev5-github</p>
 	</tr>
 	<tr>
 		<td valign="top" class="auto-style51" style="width: 201px">
-		ServerInfo</td>
+		ServerInfo.Hardware</td>
 		<td valign="top" class="auto-style50" style="width: 443px">
-		&nbsp;Hardware<br><br>+ cpu: 2, cores: 1 pro cpu<br>+ local-hdd: 3,3tb<br>
-		+ extern-hdds: unlimited (~tb)<br><br>Software<br><br>+ os-name: debian 
-		10 (buster)<br>+ www-default-service: lampp (x64)<br>+ irc-service: <br>
-		<br>Cloud<br><br>+ file-cloud: onedrive, dropbox, google-drive<br>+ 
-		cloud: linux only, vserver, vnc, ssh, root-access<br><br>Backup<br><br>+ 
-		file-repository: ftp, git<br><br>Ports (Active)<br>
+		cpu: 2, cores: 1 pro cpu<br>local-hdd: 3,3tb<br>extern-hdds: unlimited 
+		(~tb)</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		ServerInfo.Software</td>
+		<td valign="top" class="auto-style50" style="width: 443px">
+		&nbsp;os-name: debian 10 (buster)<br>www-default-service: lampp (x64)<br>
+		irc-service: unrealircd (5.0.3)</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		ServerInfoCloud</td>
+		<td valign="top" class="auto-style50" style="width: 443px">
+		&nbsp;file-cloud: onedrive, dropbox, google-drive<br>cloud: linux only, 
+		vserver, vnc, ssh, root-access</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		ServerInfoBackup</td>
+		<td valign="top" class="auto-style50" style="width: 443px">
+		&nbsp;file-repository: ftp, git, extern-hdd</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		ServerInfoPorts<br><span class="auto-style45">(Active)</span></td>
+		<td valign="top" class="auto-style50" style="width: 443px">
 		<table cellpadding="0" cellspacing="0" style="width: 100%">
 			<tr>
-				<td>21 </td>
+				<td style="width: 57px">21 </td>
 				<td>FTP</td>
 			</tr>
 			<tr>
-				<td>80 </td>
+				<td style="width: 57px">80 </td>
 				<td>HyperTextTransfer-Protocol (NOSSL)</td>
 			</tr>
 			<tr>
-				<td>443 </td>
+				<td style="width: 57px">443 </td>
 				<td>HyperTextTransferProtocol-Secure (SSL)</td>
 			</tr>
 			<tr>
-				<td>3306 </td>
+				<td style="width: 57px">3306 </td>
 				<td>SQL (MariaDB)</td>
 			</tr>
 			<tr>
-				<td>6667 </td>
+				<td style="width: 57px">6667 </td>
 				<td>IRC (UnrealIRCd, NOSSL)</td>
 			</tr>
 			<tr>
-				<td>6697 </td>
+				<td style="width: 57px">6697 </td>
 				<td>IRC (UnrealIRCd, SSL)</td>
 			</tr>
 			<tr>
-				<td>6900 </td>
+				<td style="width: 57px">6900 </td>
 				<td>IRC (UnrealIRCd)</td>
 			</tr>
 			<tr>
-				<td>9000 </td>
+				<td style="width: 57px">9000 </td>
 				<td>IRC (WebClient,
 				<a href="irc://irc.openirc.xyz:6667/#openirc" target="_blank">
 				#openirc</a>)</td>
 			</tr>
 			<tr>
-				<td>9001</td>
+				<td style="width: 57px">9001</td>
 				<td>IRC (WebClient,
 				<a href="irc://prescene.openirc.xyz:6667/#prescene" target="_blank">
 				#prescene</a>)</td>
 			</tr>
 		</table>
-		<br><br></td>
+		</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		ServerInfoIP</td>
+		<td valign="top" class="auto-style50" style="width: 443px">
+		&nbsp;213.160.72.208 (IPv4)</td>
 		<td class="auto-style34" valign="top">
 <font class="auto-style33">
 		<a href="https://github.com/" target="_blank" title="&lt;&lt;&lt; Click here to open {Internet.ServiceName.Site.URL} on the left ;-)"><img align="top" height="16" src="index.html.data/png/link.png" width="16" class="auto-style35" style="float: none"></a></td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		ServerInfoDomains</td>
+		<td valign="top" class="auto-style50" style="width: 443px">
+		&nbsp;</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		Account</td>
+		<td valign="top" class="auto-style50" style="width: 443px">
+		&nbsp;</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style51" style="width: 201px">
+		Source</td>
+		<td valign="top" class="auto-style50" style="width: 443px">
+		Bing, DuckDuckGo, Google</td>
+		<td class="auto-style34" valign="top">
+		&nbsp;</td>
 	</tr>
 </table>
 <table align="center" cellpadding="8" cellspacing="0" style="width: 720px">
