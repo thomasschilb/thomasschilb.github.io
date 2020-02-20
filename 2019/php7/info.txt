@@ -1,0 +1,5 @@
+die php skripte wurden direkt vom webserver genommen.
+bitte nach euren ansprüchen anpassen.
+
+the php scripts were directly taken from the webserver.
+please customize to your needs.
