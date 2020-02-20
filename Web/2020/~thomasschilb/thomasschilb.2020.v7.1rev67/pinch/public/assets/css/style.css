@@ -1,0 +1,16 @@
+#wrapper {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.alert {
+	padding: 20px;
+}
+
+.alert-danger {
+    background-color: #F55;
+}
+
+.alert-success {
+    background-color: #60B152;
+}
