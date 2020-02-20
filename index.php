@@ -86,10 +86,6 @@ a:hover {
 	font-family: Abel, sans-serif;
 	font-size: 15pt;
 }
-.auto-style32 {
-	font-family: Abel, sans-serif;
-	font-size: 18pt;
-}
 .auto-style33 {
 	font-size: 18pt;
 	font-family: "Abel; sans-serif";
@@ -141,6 +137,9 @@ a:hover {
 	color: #FFFFFF;
 	font-family: Abel, sans-serif;
 	font-size: 15pt;
+}
+.auto-style53 {
+	color: #808080;
 }
 </style>
 <title>TS | Git.Repository</title>
@@ -318,7 +317,7 @@ v0.3rev5-github</p>
 		<td valign="top" class="auto-style51" style="width: 201px">
 		VersionRevision-edition</td>
 		<td valign="top" class="auto-style50" style="width: 443px">
-		v1.0rev3-github</td>
+		v1.0rev5-github</td>
 		<td class="auto-style34">
 <font class="auto-style33">
 		<a href="https://github.com/" target="_blank" title="&lt;&lt;&lt; Click here to open {Internet.ServiceName.Site.URL} on the left ;-)"><img align="top" height="16" src="index.html.data/png/link.png" width="16" class="auto-style35" style="float: none"></a></td>
@@ -375,8 +374,8 @@ v0.3rev5-github</p>
 				#prescene</a>)</td>
 			</tr>
 		</table>
-		<br><br><br><br><br><br><br><br><br><br></td>
-		<td class="auto-style34">
+		<br><br></td>
+		<td class="auto-style34" valign="top">
 <font class="auto-style33">
 		<a href="https://github.com/" target="_blank" title="&lt;&lt;&lt; Click here to open {Internet.ServiceName.Site.URL} on the left ;-)"><img align="top" height="16" src="index.html.data/png/link.png" width="16" class="auto-style35" style="float: none"></a></td>
 	</tr>
@@ -384,10 +383,12 @@ v0.3rev5-github</p>
 <table align="center" cellpadding="8" cellspacing="0" style="width: 720px">
 	<tr>
 <td valign="top" class="auto-style52">
-		© 2020 TS. GitHub Pages.</td>
+		<span class="auto-style53">© 2020 </span>
+		<a href="https://thomasschilb.github.io/">TS.</a>
+		<a href="https://pages.github.com">GitHub Pages.</a><span class="auto-style53"> 
+		All Rights Reserved.</span></td>
 	</tr>
 </table>
 <p>&nbsp;</p>
-</span></font>
 </body>
 </html>
