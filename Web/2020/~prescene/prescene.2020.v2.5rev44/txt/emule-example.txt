@@ -1,0 +1,35 @@
+#
+# Emule Webservices.dat config-file example: 
+# -----------------------------------------
+
+# eMule Homepage,http://www.emule-project.net
+# Testservice,http://www.webservice.com/searchp=ed2k:#filesize:#hashid
+#
+# Comment lines begin with # or /
+#eMule Mods
+eMule AcKroNiC,http://www.ackronic.net/
+eMule beba,http://beba.emulefuture.de/
+eMule Magic Angel,http://forum.emule-project.net/index.php?showtopic=141833
+eMule Mephisto,http://mephisto.emule-web.de/
+eMule Morph,http://emulemorph.sourceforge.net/
+eMule OfFixed,http://forum.emule-project.net/index.php?showtopic=146845
+eMule Scarangel,http://scarangel.sourceforge.net/
+eMule SharkX,http://sharkx.emulefuture.de/
+eMule sivka,http://sivka.emule-web.de/
+eMule stulle,http://stulle.emule-web.de/
+eMule Tombstone,http://forum.emule-project.net/index.php?showtopic=149113
+eMule Xtreme,http://www.emule-mods.de/?mods=xtreme
+eMule ZZUL BastarD,http://forum.emule-project.net/index.php?showtopic=65063
+eMule ZZUL,http://forum.emule-project.net/index.php?showforum=75
+--,--
+#server list
+ServerList emule-security,http://www.emule-security.net/serverlist/
+ServerList gruk,http://gruk.org/list.php
+ServerList peerates,http://edk.peerates.net/servers.php
+ServerList shortypower,http://shortypower.org/
+#stats check report
+ed2k-stats shortypower,http://ed2k.shortypower.org/?hash=#hashid
+ed2k-check peerates,http://edk.peerates.net/check.php?lang=0&p=#hashid
+DF Check,http://donkeyfakes.net/fakes.php?referer=emule&hash=#hashid&size=#filesize&name=#filename 
+DF Report,http://donkeyfakes.net/report.php?hash=#hashid&size=#filesize&name=#filename
+Fake Check Bitzi,http://bitzi.com/lookup/ed2k:#hashid?ref=eMule

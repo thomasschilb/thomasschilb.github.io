@@ -1,0 +1,170 @@
+TS.
+
+action\Acrobat Mision\Acrobat Mission (J)
+action\Aero Fighters\Aero Fighters (U)
+action\Akumajou Dracular x\Akumajou Dracula (J) [!]
+action\Akumajou Dracular XX\Akumajou Dracula XX (J)
+action\Alien 3\ALIEN3
+action\Axelay\Axelay (E) [!]
+action\B.O.B\B.O.B. (E)
+action\Batman\Batman (Beta)
+action\Blackhawk\Blackhawk
+action\Castlevania - Vampire's Kiss\Castlevania - Vampire's Kiss (E)
+action\Darius Twin\Darius Twin (E)
+action\Demolution Man\Demolition Man (E)
+action\Doom\doom-e
+action\Dropzoan\Archer MacLean's Dropzone (E) [!]
+action\James Bond JR\James Bond Jr (E) [!]
+action\Jurassic Park 1\Jurassic Park (E)
+action\Jurassic Park 2\Jurassic Park 2 (Beta)
+action\Mega Man 7\MegaMan7
+action\Mega Man X\MegaManX
+action\Mega Man X 1\MegaManX
+action\Mega Man X 2\MegaManX2
+action\Mega Man X 3\MegaManX3
+action\Parod 2\PAROD2
+action\Robocop vs. Terminator\SNES-Robocop vs. The Terminator-(en)
+action\Srike Gunner\SNES-Strike Gunner-(en)
+action\Starfox\starfox
+action\Super Ghouls 'N Ghosts\Super Ghouls 'N Ghosts
+action\Super Metroid\Super Metroid
+action\Super Probotector - The Alien Rebels\Super Probotector - The Alien Rebels (E)
+action\Super Star Wars\sstarwar
+action\Super Star Wars - Return of the Jedi\Super Star Wars - Return of the Jedi (E)
+action\Terminator\SNES-Terminator-(en)
+action\Terminator 2-Judgment Day\SNES-Terminator 2 - Judgment Day-(en)
+action\Zombies\Zombies (E)
+fight\Act Raiser 2\Act Raiser 2 (E)
+fight\Adventures of Batman und Robin\Adventures of Batman & Robin, The (E)
+fight\Alien VS. Predator\Aliens Vs Predator (J)
+fight\Art of Figheting\Art of Fighting (E) [!]
+fight\Astral Bout 2\Astral Bout 2, Sougou Kakutougi (J)
+fight\Astral Bout 3\Astral Bout 3, RINGS (J)
+fight\Batman Forever\Batman Forever (E) [!]
+fight\Batman Returns\Batman Returns (E)
+fight\Batman Revenge of the Joker\Batman Revenge of the Joker (U)
+fight\Battletoads in Battlemaniacs\Battletoads in Battlemaniacs (E)
+fight\Best of the Best\Best of the Best (U)
+fight\Brutal Paws of Fury\Brutal Paws of Fury
+fight\Doubel Dragon 5\double dragon v
+fight\Doubell Dragon-Battledoads\battletoadsdd
+fight\Doubell Dragon-Battledods\battletoadsdd
+fight\Dragon Ball-Hyperdimesion\dbzhypdm
+fight\Dragon-The Bruce Lee Story\Dragon - The Bruce Lee Story (E) [!]
+fight\Final Fight 1\Final Fight (E)
+fight\Final Fight 2\Final Fight 2 (E)
+fight\Hiro Turtels\Turtles In Time
+fight\Hiro Turtels Battel\Teenage Mutant Hero Turtles - Tournament Fighters (E)
+fight\Killer Instinct\Killer Instinct (E) [!]
+fight\Legend\Legend (E)
+fight\Mortal Kombat 1\mortal kombat
+fight\Mortal Kombat 2\Mortal Kombat II (Anthrox Beta Hack)
+fight\Mortal Kombat 3\Mortal Kombat 3 (E) [!]
+fight\Mortel Kombat Ultimate 3\SNES-Ultimate Mortal Kombat 3-(en)
+fight\Power Rangers F.E\Mighty Morphin Power Rangers - Fighting Edition (E)
+fight\Power Rangers Movie Edition\Mighty Morphin Power Rangers - Movie Edition (U)
+fight\Ranma\Ranma_Nibunnoichi_-_Hard_Battle_(U)_[!]
+fight\Samurai Shadown\Samurai Shadown
+fight\Sreet Fighter 2 Championship\Street Fighter 2 Championship Edition
+fight\Street Fighter 2 Turbo\Street Fighter 2 Turbo - Version 1.0 (E)
+fight\Street Fighter 2 World Warrior\Street Fighter 2 World Warrior (E)
+fight\Super Double Dragon\Super Double Dragon (US)
+fight\Super Street Fighters 2\Super Street Fighter 2 (E)
+fight\Super Street Fighters 2 New Challangers\Super Street Fighter 2 (E)
+fight\The King of Dragons\King of Dragons, The (US)
+fight\WWF\WWF
+fight\WwfRaw\Wwfraw
+jumpandrun\3 Ninjas Kick Back\3 Ninjas Kick Back (U)
+jumpandrun\AAAHH Real Monster\AAAHH!!! Real Monsters (U)
+jumpandrun\Addams Family 1\Addams Family, The - Pugsley's Scavenger Hunt (U)
+jumpandrun\Addams Family 2\Addams Family, The (E)
+jumpandrun\Aladdin\Aladdin (Beta)
+jumpandrun\Aladdin Deutsch\1Aladdin
+jumpandrun\Alfred Chiken\Alfred Chicken (E)(4285)
+jumpandrun\Animaniacs\Animaniacs (E)
+jumpandrun\Ardy Lightfoot\Ardy Lightfoot (E)
+jumpandrun\Asterix\Asterix (E) [!]
+jumpandrun\Asterix & Obelix\Asterix & Obelix (E)
+jumpandrun\Astral Bout 3\Astral Bout 3, RINGS (J)
+jumpandrun\Baby T-Rex\Baby T-Rex (Beta)
+jumpandrun\Barbie Super Model\Barbie Super Model (U)
+jumpandrun\Bonkers\bonkers
+jumpandrun\Bugs Bunny in Rabbit Rampage\Bugs Bunny in Rabbit Rampage (E)
+jumpandrun\Casper\casper
+jumpandrun\Daffy Duck-The Marvin\Daffy_Duck_-_The_Marvin_Missions_(U)
+jumpandrun\Das Jungel Buch\Jungle Book, The (E) [!]
+jumpandrun\Dennis\Dennis (E) [!]
+jumpandrun\Die Schlümpfe 2\Die Schluempfe 2 (D, F, E)
+jumpandrun\Donald Duck\Donald Duck - Maui Mallard (E)
+jumpandrun\Donald Duck-Cold Shadow\SNES-Donald Duck - Maui Mallard in Cold Shadow-(en)
+jumpandrun\Donkey Kong Country 2\Donkey Kong Country 2
+jumpandrun\Donkey Kong Country 3\Donkey Kong Country 3
+jumpandrun\Dr.Frankenstein\Adventures of Dr. Franken, The (E)
+jumpandrun\Dragon Ball Super Saiya Jen\Dragon Ball Z - Super Saiya Densetsu (V1.1) (J)
+jumpandrun\Fiefel im Wilden Westen\An American Tale - Fievel Goes West (E)
+jumpandrun\Gadget\gadget
+jumpandrun\Incredible Crash Dummies\Incredible Crash Dummies, The (E)
+jumpandrun\Indiana Jones\SNES-Indiana Jones-(en)
+jumpandrun\Itchy\ITCHY
+jumpandrun\Joe and Mac\Joe and Mac
+jumpandrun\Kevin allein zu Haus\Home Alone (E) [!]
+jumpandrun\Kid Klets the footballer\Adventures of Kid Kleets, The (U)
+jumpandrun\Kirby's Dream Land 3\Kirby's Dream Land 3 (US)
+jumpandrun\König der Löwen\Lion King, The (E)
+jumpandrun\Lethal Weapond\Lethal Weapon (E)
+jumpandrun\Lucky Luke\Lucky Luke (E) (M4)
+jumpandrun\Michael Jorden-Chaos in the  City\Michael Jordan - Chaos in the Windy City (E) [!]
+jumpandrun\Mystical Ninja\Legend of The Mystical Ninja, The (G) [!]
+jumpandrun\Oscar\Oscar
+jumpandrun\Plok\Plok
+jumpandrun\Ren and Stimpy Show, The - Time Warp\Ren and Stimpy Show, The - Time Warp (E)
+jumpandrun\Rocky Bullwinkell\Adventures of Rocky & Bullwinkle (U)
+jumpandrun\Scooby Doo\Scooby Doo (US)
+jumpandrun\Sonic\sonic
+jumpandrun\Starfisch\Starfish (E)
+jumpandrun\Super Mario\SMARIOWD
+jumpandrun\Super Mario All Stars & World\Super Mario All Stars & World (US)
+jumpandrun\Super Mario RPG\Super Mario RPG
+jumpandrun\The Ren and Stimpy Show - Veediots\Ren and Stimpy Show, The - Veediots (E)
+jumpandrun\Tiny Toons Adventures\Tiny Toons Adventures - Buster Busts Loose (E)
+jumpandrun\Virtuel Bart\Bart Simpson (E)
+jumpandrun\Yogi Bear\Yogi Bear (E)
+jumpandrun\Yoshi's Island\yoshi's island
+sport\ABC Monday Nighte Football\ABC Monday Night Football (U)
+sport\American Championchip Football\All-American Championship Football (E) [!]
+sport\American Gladiator\American Gladiators (U)
+sport\Andre Agassi Tennis\Andre Agassi Tennis (J)
+sport\Barkleys Power Dunk\Barkley's Power Dunk (J)
+sport\Bulls vs. Blazers\Bulls Vs. Blazers and the NBA Playoffs (V1.0) (E)
+sport\F-Zero\F-Zero
+sport\Fifa 98\SNES-FIFA 98-(eu)
+sport\International Superstar Soccer\International Superstar Soccer
+sport\International Superstar Soccer Deluxe\International Superstar Soccer Deluxe
+sport\International Tennis\International Tennis Tour (U)
+sport\Lamboghini American Challeng\Lamborghini - American Challenge (E)
+sport\Looney Tunes Basketball\Looney Tunes Basketball (PAL) (23891)
+sport\Muhammmed Ali-Boxen\Muhammad Ali Boxing (Beta)
+sport\NBA All Star Challeng\NBA All-Star Challenge (E)
+sport\NBA Hang Time\NBA Hang Time (E)
+sport\NBA Jam\NBA Jam (Beta)
+sport\Road to the Top\Al Unser Jr's Road to the Top (E)
+sport\Street Racer\Street Racer
+sport\Super Mario Kart\Super Mario Kart (US)
+sport\Super Punch Out\Super Punch-Out
+sport\Super Soccer\SNES-Super Soccer-(en)
+sport\Super Tennis\SNES-Super Tennis-(en)
+sport\World Soccer\World Soccer (E)
+sport\WWF Wrestlemania\SNES-WWF Super Wrestlemania-(en)
+strategy\Another World\Another World (E) [!]
+strategy\Breath of Fire 2\Breath of Fire II (E)
+strategy\Herr der Ringe\JRR Tolkien's The Lord of the Rings - Volume One (G)
+strategy\Illusion of time\illusion of time [dt]
+strategy\Okunen Monoge\46 Okunen Monogatari (J)
+strategy\Pacman\PACMAN
+strategy\Secret of Mana\Secret of Mana (deutsch)
+strategy\Terranigma\TERRA
+strategy\Tetris und Dr.Mario\SNES-Tetris & Dr. Mario-(en)
+strategy\The Fireman\The Firemen
+strategy\The Legend of Zelda 3\Zelda 3 (Deutsch)
+strategy\Timi und Strupie\Adventures of Tintin, The - Prisoners of the Sun (E)
+strategy\Young Merlin\Young Merlin (U)
