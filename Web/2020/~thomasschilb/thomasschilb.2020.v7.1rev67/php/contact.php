@@ -145,12 +145,22 @@ a:hover {
   border-collapse: collapse;
 }
 
+.auto-style2 {
+	border-width: 0px;
+	margin-bottom: 0px;
+}
+
+.auto-style3 {
+	text-align: left;
+	font-weight: normal;
+}
+
 </style>
 <base target="_self">
 </head>
 
 <body style="margin: 0; color: #808080; background-color: #000000">
-<p class="text-underline">C O N T A C T&nbsp; |&nbsp; 9</p>
+<p class="text-underline">C O N T A C T&nbsp; |&nbsp; 1 1</p>
 <p class="table-footer-center">Social-Media [3]</p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
@@ -166,7 +176,7 @@ a:hover {
 		<td valign="top">Social-Service</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://www.facebook.com/thomas.schilb">
-		<img align="top" class="picture-border-null" height="16" src="/img/contact-facebook.png" width="16"></a></td>
+		<img align="top" class="picture-border-null" height="16" src="img/contact-facebook.png" width="16"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">INSTAGRAM</td>
@@ -175,7 +185,7 @@ a:hover {
 		<td valign="top">Social-Network</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://www.instagram.com/thomasschilb/">
-		<img align="top" class="picture-border-null" height="16" src="/img/contact-instagram.png" width="16"></a></td>
+		<img align="top" class="picture-border-null" height="16" src="img/contact-instagram.png" width="16"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">TWITTER</td>
@@ -183,7 +193,7 @@ a:hover {
 		<td valign="top">Social-Network</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://twitter.com/schilbthomas">
-		<img align="top" class="picture-border-null" height="16" src="/img/contact-twitter.png" width="16"></a></td>
+		<img align="top" class="picture-border-null" height="16" src="img/contact-twitter.png" width="16"></a></td>
 	</tr>
 	</table>
 <p class="text-align-center"><font size="2"><em>
@@ -191,7 +201,7 @@ a:hover {
 some Feedback on all Platforms 
 above, follow me!"</em></font></p>
 <p class="text-align-center">&nbsp;</p>
-<p class="table-footer-center">Creative-Media [3]</p>
+<p class="table-footer-center">Creative-Media [5]</p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
 		<th><span class="font-normal">Name</span></th>
@@ -201,11 +211,21 @@ above, follow me!"</em></font></p>
 	</tr>
 	<tr>
 		<td valign="top">DEVIANTART</td>
-		<td valign="top">Discover The Largest Online Art Gallery and Community</td>
+		<td valign="top">Discover The Largest Online Art Gallery and Community | 
+		DeviantArt</td>
 		<td valign="top">Art-Gallery</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://www.deviantart.com/schilb">
-		<img align="top" class="picture-border-null" height="16" src="/img/contact-deviantart.png" width="16"></a></td>
+		<img align="top" class="auto-style2" height="16" src="img/contact-deviantart.png" width="16"></a></td>
+	</tr>
+	<tr>
+		<td valign="top">GITHUB</td>
+		<td valign="top">Git repository hosting service, code hosting platform 
+		for version control and collaboration&nbsp; | GitHub</td>
+		<td valign="top">Code-Platform</td>
+		<td valign="top" class="auto-style1">
+		<a href="https://thomasschilb.github.io" target="_blank">
+		<img align="top" class="auto-style2" height="16" src="img/contact-github.png" width="16"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">MIXCLOUD</td>
@@ -213,15 +233,24 @@ above, follow me!"</em></font></p>
 		<td valign="top">Podcast</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://www.mixcloud.com/thomasschilb/">
-		<img align="top" class="picture-border-null" height="16" src="/img/contact-mixcloud.png" width="16"></a></td>
+		<img align="top" class="picture-border-null" height="16" src="img/contact-mixcloud.png" width="16"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">SOUNDCLOUD</td>
-		<td valign="top">Listen to free music and podcasts on SoundCloud</td>
+		<td valign="top">Listen to free music and podcasts on | SoundCloud</td>
 		<td valign="top">Podcast, Tracks</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://soundcloud.com/schilbthomas">
-		<img align="top" class="picture-border-null" height="16" src="/img/contact-soundcloud.png" width="16"></a></td>
+		<img align="top" class="picture-border-null" height="16" src="img/contact-soundcloud.png" width="16"></a></td>
+	</tr>
+	<tr>
+		<td valign="top">YOUTUBE</td>
+		<td valign="top">Video Sharing Service where users can watch, like, 
+		share, comment and upload their own Videos | YouTube</td>
+		<td valign="top">Video-Platform</td>
+		<td valign="top" class="auto-style1">
+		<a href="https://www.youtube.com/channel/UCi1VCoKxngXVwGqyVVHIEqA" target="_blank">
+		<img align="top" class="picture-border-null" height="16" src="img/contact-youtube.png" width="16"></a></td>
 	</tr>
 	</table>
 <p class="text-align-center"><font size="2"><em>
@@ -242,32 +271,40 @@ free!"</em></font></p>
 		<td valign="top">MS-Outlook</td>
 		<td valign="top" class="auto-style1">
 		<a href="mailto:thomas.schilb@live.de">
-		<img align="top" class="picture-border-null" height="16" src="/img/contact-email.png" width="16"></a></td>
+		<img align="top" class="picture-border-null" height="16" src="img/contact-email.png" width="16"></a></td>
 	</tr>
 	</table>
 <p class="text-align-center"><font size="2"><em>
 		Comment: "Feel free to contact me."</em></font></p>
 <p class="text-align-center">&nbsp;</p>
-<p class="table-footer-center">Location [2]</p>
+<p class="table-footer-center">Webcam [2]</p>
 <table cellspacing="0" id="tstable-privacy" width="100%">
 	<tr>
-		<th class="text-align-left"><span class="font-normal">Name</span></th>
-		<th class="text-align-left"><span class="font-normal">Webcam</span></th>
+		<th class="auto-style3">Name</th>
+		<th class="auto-style3">Preview</th>
+		<th class="auto-style3">FileFormat</th>
+		<th class="auto-style3">ScreenSize</th>
 		<th><span class="font-normal"></span></th>
 	</tr>
 	<tr>
-		<td valign="top">skylinecam.de</td>
+		<td valign="top">SKYLINECAM</td>
 		<td valign="top"><a href="https://skylinecam.de/picture/current.jpg">
 		<img alt="skylinecam.de" class="picture-border-null" height="180" longdesc="skylinecam.de" src="https://skylinecam.de/picture/current.jpg" width="320"></a></td>
+		<td valign="top">JPG</td>
+		<td valign="top">1280x720px</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://skylinecam.de">
 		<img align="top" class="picture-border-null" height="16" src="img/www.png" width="16" alt="skylinecam.de" longdesc="skylinecam.de"></a></td>
 	</tr>
 	<tr>
-		<td valign="top">mainhattan-webcam.de</td>
+		<td valign="top">MAINHATTAN-WEBCAM</td>
 		<td valign="top">
 		<a href="https://www.mainhattan-webcam.de/live/frankfurt01_1920.JPG">
 		<img alt="mainhattan-webcam.de" class="picture-border-null" height="213" longdesc="mainhattan-webcam.de" src="https://www.mainhattan-webcam.de/live/frankfurt01_1920.JPG" width="320"></a></td>
+		<td valign="top">
+		JPG</td>
+		<td valign="top">
+		1920x1280px</td>
 		<td valign="top" class="auto-style1">
 		<a href="https://www.mainhattan-webcam.de">
 		<img align="top" class="picture-border-null" height="16" src="img/www.png" width="16" alt="mainhattan-webcam.de" longdesc="mainhattan-webcam.de"></a>&nbsp;</td>
