@@ -1,0 +1,23 @@
+Hosts-Datei finden und editieren
+
+ hosts-Datei im Windows Explorer hosts-Datei im Windows Explorer Folgendes Vorgehen
+funktioniert unter Windows 7 und neueren Windows-Versionen; wichtig dabei:
+Sie brauchen auf Ihrem PC Admin-Rechte. Falls dies nicht der Fall sein sollte und
+Sie eine Fehlermeldung beim Öffnen der hosts-Datei erhalten, gehen Sie vor wie in
+diesem Tipp beschrieben.
+
+Kopieren sie im Windows-Explorer folgenden Datei-Pfad in die Eingabezeile oben: 
+C:\Windows\System32\drivers\etc
+
+Nun sollte als oberster Eintrag in der rechten Fensterhälfte "hosts" angezeigt werden.
+Rechtsklicken oder doppelklicken Sie nun darauf und wählen Sie im "Öffnen mit"-Fenster
+den Editor.
+Beispielhafte hosts-Datei mit auskommentierten Einträgen Beispielhafte hosts-Datei mit
+auskommentierten Einträgen
+Nun können Sie das Textfile editieren. Eine IP/Hostname-Kombination tragen Sie nach dem
+Muster "123.23.123.12 www.abcdef.de" (ohne Anführungszeichen) einfach in eine neue Zeile
+ein und speichern die Datei dann ab.
+Mit einer vorgestellten Raute (#) können Sie einzelne Einträge auch ganz einfach wieder
+auskommentieren.
+
+//since

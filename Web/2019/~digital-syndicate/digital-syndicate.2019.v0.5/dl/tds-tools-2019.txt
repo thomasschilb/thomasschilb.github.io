@@ -1,0 +1,114 @@
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+                                __ __            __
+          .-----.--.--.-----.--|  |__.----.---.-|  |_.-----.
+          |__ --|  |  |     |  _  |  |  __|  _  |   _|  -__|
+          |_____|___  |__|__|_____|__|____|___._|____|_____|
+          -ts---|_____|-------------------------------------
+
+                       - The Digital Syndicate -
+
+
+          Tools, Scripts, etc.
+
+              (c)2019 | tds-anontools.txt | version: 0.1
+
+
+Aircrack-ng
+802.11 WEP and WPA-PSK keys cracking program
+
+
+burpsuite
+integrated platform for performing security testing of web applications
+
+cain & abel
+password recovery tool for microsoft operating systems
+
+cintruder
+an automatic pentesting tool to bypass captchas
+
+cmsexplorer
+is designed to reveal the the specific modules, plugins, components
+and themes that various CMS driven web sites are running
+
+dsniff
+is a collection of tools for network auditing and penetration testing
+
+ettercap
+suite for man in the middle attacks on lan. it features sniffing of live connections,
+content filtering on the fly and many other interesting tricks
+
+hashcatplus
+a GPGPU-based multi-hash cracker
+
+hashid
+identifies the different types of hashes used to encrypt data
+
+inSSIDer
+wireless network scanner for windows, os x, and android
+
+johntheripper
+a fast password cracker
+
+kismet
+console (ncurses) based 802.11 layer-2 wireless network detector, sniffer,
+and intrusion detection system
+
+maltego
+an open source intelligence and forensics application
+
+netstumbler
+tool for finding open wireless access points
+
+networkmine
+a Network Forensic Analysis Tool (NFAT) for Windows
+
+nikto
+tests web servers for dangerous files/cgis, outdated server software
+and other problems
+
+nipper
+used to make observations about the security configurations of
+many different device types such as routers, firewalls, and switches
+
+nmap
+open source utility for network discovery and security auditing
+
+sqlmap
+an open source penetration testing tool that automates the process of
+detecting and exploiting SQL injection flaws
+
+uniscan
+a simple Remote File Include, Local File Include and
+Remote Command Execution vulnerability scanner
+
+unix-privesc-checker
+tries to find misconfigurations that could allow local unprivilged
+users to escalate privileges to other users
+
+vega
+free and open source web security scanner and web security
+testing platform to test the security of web applications
+
+v3n0m
+The official adoption of darkd0rker heavily recoded, updated,
+expanded and improved upon
+
+w3af
+web application attack and audit framework
+
+wireshark
+open source multi-platform network protocol analyzer (tcpdump)
+
+wpscan
+a black box WordPress vulnerability scanner
+
+xsser
+an automatic -framework- to detect, exploit and
+report XSS vulnerabilities in web-based applications
+
+zap
+automatically find security vulnerabilities in your web applications
+while you are developing and testing your applications

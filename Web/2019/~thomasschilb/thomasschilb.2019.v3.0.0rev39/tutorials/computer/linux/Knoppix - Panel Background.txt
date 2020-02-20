@@ -1,0 +1,1 @@
+/usr/share/lxpanel/images/background.png

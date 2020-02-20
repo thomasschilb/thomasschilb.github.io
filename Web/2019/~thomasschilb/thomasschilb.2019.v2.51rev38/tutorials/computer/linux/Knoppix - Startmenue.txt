@@ -1,0 +1,5 @@
+Knoppix Startmenü Überarbeitung (alacarte):
+
+sudo apt-get update
+sudo apt-get -t testing install alacarte
+

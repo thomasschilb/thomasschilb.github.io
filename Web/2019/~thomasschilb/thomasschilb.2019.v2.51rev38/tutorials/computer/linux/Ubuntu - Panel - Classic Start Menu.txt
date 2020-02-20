@@ -1,0 +1,17 @@
+Ubuntu - Classic Start Menu
+
+
+1. How to install a classic Start Menu in Linux?
+
+ClassicMenu Indicator is a classic GNOME-style application menu for Ubuntu.
+
+sudo add-apt-repository ppa:diesch/testing
+sudo apt-get update
+sudo apt-get install classicmenu-indicator1
+
+
+2. How to change position of panel indicator?
+
+mkdir -p ~/.local/share/indicators/application
+cp /usr/share/indicator-application/ordering-override.keyfile ~/.local/share/indicators/application/
+gedit ~/.local/share/indicators/application/ordering-override.keyfile

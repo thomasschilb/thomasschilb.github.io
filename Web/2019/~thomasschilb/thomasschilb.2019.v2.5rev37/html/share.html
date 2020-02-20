@@ -1,0 +1,432 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="author" content="Thomas Schilb">
+<meta name="publisher" content="Thomas Schilb">
+<meta name="copyright" content="(c)2015-2019">
+<meta name="description" content="Code, Design, Music & #More">
+<meta name="keywords" content="code, css, dotnet, html, javascript, mysqli, php, qb64, visual basic, design, pictures, photshop, winamp, fonts, music, techno, industrial, minimal, electronic, hardstyle, mp3, zip, thomas, schilb, projects, knowledge, contact, scenemusic">
+<meta name="page-topic" content="Thomas Schilb | TSC">
+<meta name="page-type" content="Private Homepage">
+<meta name="audience" content="all">
+<meta name="robots" content="index, follow"> 
+<meta name="googlebot" content="index, follow"> 
+<meta name="pagerank" content="10"> 
+<meta name="msnbot" content="index,follow"> 
+<meta name="revisit" content="2 Days"> 
+<meta name="revisit-after" content="2 Days"> 
+<meta name="alexa" content="100">
+<title>TSC | Thomas Schilb</title>
+<style type="text/css">
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	-webkit-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+}
+a:visited {
+	color: #FFFFFF;
+}
+a:active {
+	color: #FFFFFF;
+}
+a:hover {
+	color: #31C8F9;
+}
+.text-align-center {
+	text-align: center;
+}
+.table-border-1px-blue {
+	border: 1px solid #31C8F9;
+}
+.background-color-blue {
+	background-color: #31C8F9;
+}
+.table-1px-font-12pt {
+	border: 1px solid #31C8F9;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12pt;
+}
+.font-23pt-color-white {
+	color: #FFFFFF;
+	text-align: center;
+	background-image: url('img/tab-bg.png');
+	font-size: 23pt;
+}
+.tab-font-12pt-border-1 {
+	border: 1px solid #31C8F9;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12pt;
+	background-image: url('img/tab-bg.png');
+}
+.border-color-333 {
+	border-color: #333333;
+	border-width: 0;
+}
+.font-left-color-ffffff {
+	text-align: left;
+	color: #FFFFFF;
+}
+.font-23pt-color-white1 {
+	color: #31C8F9;
+}
+.font-23pt-color-white2 {
+	color: #FFFFFF;
+}
+.font-23pt-color-white5 {
+	color: #31C8F9;
+	font-size: 14pt;
+}
+.icons {
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+
+}
+.align-left {
+	text-align: left;
+}
+.font-14pt-color-31C8F9 {
+	color: #31C8F9;
+	font-size: 14pt;
+}
+.font-14pt-color-31C8F9 {
+	color: #31C8F9;
+	font-size: 14pt;
+}
+.color-white {
+	color: #FFFFFF;
+}
+.color-white {
+	color: #FFFFFF;
+}
+.align-left-bg-202020 {
+	text-align: left;
+	background-color: #202020;
+}
+.align-right-bgcolor-202020 {
+	text-align: right;
+	background-color: #202020;
+}
+.align-right {
+	text-align: right;
+}
+.font-14pt {
+	font-size: 14pt;
+}
+.tab-bg-color-202020 {
+	background-color: #202020;
+}
+.font-right-797979 {
+	text-align: right;
+	color: #797979;
+	background-color: #202020;
+}
+.font-12pt-color-white {
+	font-size: 12pt;
+	color: #FFFFFF;
+}
+.text-align-right-color-797979 {
+	text-align: right;
+	color: #797979;
+}
+.caption {
+	text-align: left;
+	font-size: 23pt;
+	color: #FFFFFF;
+}
+.title-header-small {
+	text-align: left;
+	font-size: 9pt;
+	color: #818181;
+}
+.description {
+	color: #808080;
+}
+.description2 {
+	color: #818181;
+}
+.auto-style1 {
+	color: #818181;
+	text-align: left;
+}
+.tab-font-courier-monospace {
+	border-color: #333333;
+	border-width: 0;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 9pt;
+}
+.text-align-left {
+	text-align: left;
+}
+.text-description-333 {
+	color: #666666;
+}
+.tabcell-background-color2 {
+	background-color: #111111;
+	text-align: left;
+}
+.tab-channels {
+	color: #666666;
+	background-color: #111111;
+	text-align: left;
+}
+.auto-style2 {
+	color: #FFFFFF;
+	text-align: center;
+	background-image: url('img/tab-bg.png');
+	font-size: 12pt;
+}
+.auto-style3 {
+	color: #31C8F9;
+	font-size: 23pt;
+}
+.auto-style4 {
+	text-align: left;
+	font-size: 14pt;
+	}
+.auto-style5 {
+	font-size: 1.94582e-038;
+}
+.auto-style7 {
+	font-size: 1.0641e-038;
+}
+.auto-style9 {
+	color: #31C8F9;
+	text-align: left;
+}
+.auto-style14 {
+	color: #818181;
+	text-align: right;
+}
+.auto-style16 {
+	color: #31C8F9;
+	text-align: left;
+	font-size: 14pt;
+}
+.auto-style17 {
+	text-align: left;
+	color: #797979;
+}
+.auto-style18 {
+	border-color: #333333;
+	border-width: 0;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12pt;
+}
+.auto-style19 {
+	color: #666666;
+	background-color: #202020;
+}
+.auto-style20 {
+	color: #666666;
+	text-align: left;
+}
+.auto-style21 {
+	color: #797979;
+}
+</style>
+</head>
+
+<body style="color: #FFFFFF; margin: 0; background-color: #000000">
+
+<table align="center" cellspacing="0" class="tab-font-12pt-border-1" style="width: 666px" cellpadding="5">
+	<tr>
+		<td class="auto-style2">
+		<span class="auto-style3"><br>- Share -<br></span><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<table cellpadding="10" cellspacing="0" class="border-color-333" style="width: 100%">
+			<tr>
+				<td class="font-left-color-ffffff" valign="top">
+				<p class="auto-style9">
+				<span class="align-left"><span class="font-14pt">Usenet [14]</span></span><span class="font-left-color-ffffff"><span class="auto-style1"><br></span></span>
+				<span class="font-left-color-ffffff"><span class="auto-style1">
+				<br></span></span><span class="font-23pt-color-white2"><br>Search-Engine(s)</span><span class="description"> [5]</span><br><br><a href="http://binsearch.info">binsearch.info</a> 
+		*<br><a href="http://newzleech.com">newzleech.com</a><br>
+		<a href="http://nzbindex.nl">nzbindex.nl</a> *<br>
+		<a href="http://nzbking.com">nzbking.com</a> *<br><br><br>
+				<span class="font-23pt-color-white2">Reviews</span><span class="auto-style21"> 
+				[2]</span><br><br>
+				<a href="https://greycoder.com/">greycoder.com</a> *<br>
+		<a href="http://usenetreviewz.com">usenetreviewz.com</a> *<br><br><br>
+				<span class="font-23pt-color-white2">Provider</span><span class="description"> [6]</span><br><br>
+<font>
+				<a href="https://free-usenet.com/">free-usenet.com</a> *<br>
+<a href="http://gigaflat.com/">gigaflat.com</a><br>
+				<a href="http://iload-usenet.com/">iload-usenet.com</a> *<br>
+				<a href="https://greycoder.com/goto/newshosting">newshosting.com</a><br>
+				<a href="https://usenet.farm">usenet.farm</a> *<br>
+				<a href="https://www.usenext.com/">usenext.com</a></font><br><br><br>
+				<span class="font-23pt-color-white2">Software</span><span class="description"> [1]</span><br><br>
+		<a href="http://www.shemes.com">grabit</a> *</p>
+&nbsp;<p class="font-23pt-color-white1">
+				<span class="align-left"><span class="font-14pt"><br>XDCC [31]</span></span><span class="auto-style17"><span class="align-left"><em><br>
+				<br></em></span></span></p>
+				<p>
+				Network(s)<span class="auto-style21"> [20]</span><br>
+		<table cellspacing="0" class="auto-style18" style="width: 100%" cellpadding="0" align="center">
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.abandoned-irc.net">irc.abandoned-irc.net</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#porn-hq #zombie-warez #zw-chat<br>&nbsp;#sport-chat</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.abjects.net">irc.abjects.net</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#1warez #beast-xdcc #evil<br>&nbsp;#mexicanmafia #moviegods<br>&nbsp;#tmd-moviez #tmd-music #tmd-tvrips<br>&nbsp;#[rm]rolys-movies</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.criten.net">irc.criten.net</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#0day-mp3s #android #batcave 
+				#channel<br>&nbsp;#elitewarez #masterwarez #warezland</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.futureshell.org">irc.futureshell.org</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#the_pub</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.global-irc.org">irc.global-irc.org</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#holland-hardcore #software</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.greekirc.net">irc.greekirc.net</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#sex #downloads #mp3 #share</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.irchighway.net">irc.irchighway.net</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#survivor-central</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.irdsi.net">irc.irdsi.net</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#area51</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.mircphantom.net">irc.mircphantom.net</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#abstract #firestorm-mp3s<br>&nbsp;#oldskool-xdcc</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.oceanirc.net">irc.oceanirc.net</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#oce@n</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.oldskool-chatters.co.uk">irc.oldskool-chatters.co.uk</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#compu-xdcc</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.relaxedirc.net">irc.relaxedirc.net</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#bmxvids #freedom-zone 
+				#tv-caps</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.rizon.net">irc.rizon.net</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#1warez #elitewarez 
+				#gabbermp3<br>&nbsp;#highfidelity #infidel</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.scenep2p.net">irc.scenep2p.net</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#the.source</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description"><a href="irc://irc.subbus.host">irc.subbus.host</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#files</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description">
+				<a href="irc://irc.terrachat.cl">irc.terrachat.cl</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#mp3zone</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description">
+				<a href="irc://irc.undernet.org">irc.undernet.org</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#mp3-warez</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top">
+				<a href="irc://irc.unit3d-buddz.net">irc.unit3d-buddz.net</a></td>
+				<td class="auto-style20" valign="top">&nbsp;#unit3d-xdcc&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="align-left-bg-202020" style="width: 211px" valign="top"><span class="description">
+				<a href="irc://irc.xerologic.net">irc.xerologic.net</a></span></td>
+				<td class="auto-style19" valign="top">&nbsp;#mp3 #warez 
+				#zuul-central-xdcc<br>&nbsp;#ultra-xero</td>
+			</tr>
+			<tr>
+				<td class="align-left" style="width: 211px" valign="top"><span class="description">
+				<a href="irc://irc.xeromem.com">irc.xeromem.com</a></span></td>
+				<td class="auto-style20" valign="top">&nbsp;#porn-hq #latinwarez</td>
+			</tr>
+		</table>
+				<br>
+				<span class="auto-style21"><em>Port: 6667<br>SSL: No</em></span><br>
+				<br>
+				<br>Search-Engine(s)<span class="description"> [6]</span><br><br>
+		<a href="http://ixirc.com">ixirc.com</a> *<br>
+		<a href="http://packetfind.com">packetfind.com</a><br>
+		<a href="http://sunxdcc.com">sunxdcc.com</a><br>
+		<a href="http://xdcc.it">xdcc.it</a><br><a href="http://xdcc.eu">xdcc.eu</a><br><a href="http://xdcc.me">xdcc.me</a><br>
+		<br><br>
+				<span class="auto-style7">Software</span><span class="description"><span class="auto-style7"> [5]</span></span><br><br>
+		<a href="https://sourceforge.net/projects/xdccbrowser" target="_blank">
+		xdccbrowser</a><br><a href="http://xdcccatcher.net">xdcccatcher</a><br>
+		<a href="http://xdccfetch.sourceforge.net">xdccfetch</a><br>
+		<a href="http://xdccklipper.sourceforge.net">xdccklipper</a><br>
+		<a href="http://xweasel.org">xweasel</a> *﻿<br>
+
+
+
+				<p class="align-left">
+				<span class="auto-style4"><br>
+				<span class="font-23pt-color-white1"><br>Zer0day [14]</span></span><p>
+				<br>Search-Engine(s)<span class="description"> [5]</span><br><br><a href="http://pre.corrupt-net.org">pre.corrupt-net.org</a><br>
+		<a href="http://predb.me">predb.me</a> *<br><a href="http://predb.org">
+		predb.org</a> *<br><a href="http://predb.pw">predb.pw</a> *<br>
+		<a href="http://srrdb.com">srrdb.com</a><br><br><br>
+		DL<span class="description"> 
+		[2]</span><br><br>
+		<a href="http://scnlog.me/">scnlog.me</a> *<br>
+		<a href="http://scene-rls.net/">scene-rls.net</a><br><br><br>
+		<span class="auto-style5">Downloader</span><span class="description"><span class="auto-style5"> 
+		[1]</span></span><br>
+		<br><a href="http://jdownloader.org/">jdownloader</a> *<br><br><br>
+		Music<span class="description"> 
+		[6]</span><br>
+		<br><a href="http://0daymusic.org">0daymusic.org</a> *<br>
+		<a href="http://filemp3.info">filemp3.info</a><br>
+		<a href="http://freake.ru">freake.ru</a><br>
+		<a href="https://freemusicdl.club/">freemusicdl.club</a><br>
+		<a href="http://intmusic.net">intmusic.net</a><br>
+		<a href="http://musicrls.net">musicrls.net</a><p class="auto-style16">
+				<br>Notes</p>
+				<p class="auto-style9"><span class="font-23pt-color-white2">+ 
+				Usenet
+				<span class="align-left"><span class="auto-style17">binaries, news, provider, search-engine(s)</span></span><span class="font-left-color-ffffff"><span class="auto-style1"><br>
+				</span><span class="align-left">+ XDCC</span><span class="auto-style1"> <span class="align-left">
+				<span class="auto-style17">bots, channels, networks, packets, search-engine(s)<br></span></span></span><span class="align-left">
+				+ Zer0day<span class="auto-style17"><span class="auto-style1"> 0day-releases, web, search-engine(s), dl</span></span></span></span><br>+ 
+				Total of 59</span><span class="auto-style21"> finest urls</span><span class="font-23pt-color-white2"><br>
+				+ Add Site?</span><span class="auto-style21"> Send me your url to: </span><span class="font-23pt-color-white2"> 
+				<a href="mailto:thomas.schilb@live.de" class="auto-style21">
+				thomas.schilb{at}live.de</a><br class="auto-style21">
+				<span class="auto-style21">&nbsp; now or use the
+				</span>
+				<a href="?to=contact" target="_self" class="auto-style21">contact</a><span class="auto-style21">!&nbsp; </span> <br>
+				+ More sites to come</span><span class="auto-style21"> for soon!</span>&nbsp;</p>
+				<p class="auto-style14"><em>Powered 
+				by google.com</em>&nbsp;&nbsp; </p>
+
+
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	</table>
+
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+Ubuntu - Easy Root Access with Bash
+
+
+1. How to get access to the root in Linux?
+
+Press Ctrl+Alt+T to start the terminal, then type: sudo bash
+
+Enter your password
+
+Now you have root-access with only given your user-password ;-)

@@ -1,0 +1,67 @@
+Ubuntu - Webserver with Lampp
+
+How do I install LAMPP in Linux?
+
+
+1.
+
+
+a.
+
+Choose your flavor for your linux OS, the 32-bit or 64-bit version.
+
+
+b.
+
+Change the permissions to the installer
+
+chmod 755 xampp-linux-*-installer.run
+
+
+c.
+
+Run the installer
+
+sudo ./xampp-linux-*-installer.run
+
+That's all. XAMPP is now installed below the /opt/lampp directory.
+
+
+2.
+
+After I rebooted my Linux box XAMPP stopped running! How can I fix this?
+
+Correct. That's normal Linux behaviour (which applies to any other Unix-like system).
+It's the admin's job to make sure a particular application is started at bootup.
+
+There is no real standard way to configure the boot process of a Linux system,
+but most of them should allow you to start LAMPP at boot time using the following steps.
+
+Debian, Ubuntu.
+
+a.
+
+sudo ln -s /opt/lampp/lampp /etc/init.d/lampp
+
+
+b.
+
+sudo update-rc.d lampp start 80 2 3 4 5 . stop 30 0 1 6 .
+
+
+5.
+
+How do I enable access to phpMyAdmin from the outside?
+
+a.
+
+In the basic configuration of XAMPP, phpMyAdmin is accessible only from the same host
+that LAMPP is running on, at http://127.0.0.1 or http://localhost.
+
+To enable remote access to phpMyAdmin, follow these steps:
+Edit the etc/extra/httpd-xampp.conf file in your XAMPP installation directory.
+Within this file, find the line below and update it to remove 'phpmyadmin' from the list of locations.
+
+<LocationMatch "^/(?i:(?:xampp|security|licenses|phpmyadmin|webalizer|server-status|server-info))">
+
+Restart the Apache server using the XAMPP control panel.

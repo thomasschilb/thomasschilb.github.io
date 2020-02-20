@@ -1,0 +1,4 @@
+v0.1rev1 - Initalize Build
+           Add Bilder, Geburtstage, Emails
+v0.1rev3 - Add Herkunft
+v0.1rev5 - Add Title Background Image

@@ -1,0 +1,26 @@
+
+1. https://ubuntuforums.org/showthread.php?t=2325823
+
+$ apt-file --package-only search /lib/firmware/
+amd64-microcode
+atmel-firmware
+dahdi-firmware-nonfree
+firmware-crystalhd
+intel-microcode
+libsbigudrv2
+linux-firmware
+linux-image-4.4.0-23-generic
+linux-image-4.4.0-23-lowlatency
+nouveau-firmware
+prism2-usb-firmware-installer
+
+2. https://www.howtoinstall.co/en/ubuntu/xenial/linux-firmware-nonfree
+
+sudo apt-get update
+sudo apt-get install linux-firmware-nonfree
+
+3.
+
+sudo add-apt-repository 'deb http://cz.archive.ubuntu.com/ubuntu wily main multiverse'
+sudo apt-get update
+sudo apt-get install linux-firmware-nonfree

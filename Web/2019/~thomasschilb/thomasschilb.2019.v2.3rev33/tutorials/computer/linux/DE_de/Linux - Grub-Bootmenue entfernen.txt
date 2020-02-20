@@ -1,0 +1,9 @@
+﻿Grub Bootmenü entfernen:
+
+ vi /boot/grub/menu.lst 
+
+timeout 30 auf 0 setzen 
+
+und
+ 
+title umändern

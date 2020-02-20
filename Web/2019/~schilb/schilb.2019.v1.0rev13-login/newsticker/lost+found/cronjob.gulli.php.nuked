@@ -1,0 +1,51 @@
+<?php
+
+$rawdata = getHtml('http://ticker.gulli.com/feed/ticker/view/breaking/width/600/speed/1/newscount/20/target/_blank/');
+
+  function cleanWhitespace($string) { 
+    return trim( preg_replace('/\s+/', ' ', $string) ); 
+} 
+
+//truncate file to zero (for fresh news)
+$fp = fopen("gulli.html", "r+");
+ftruncate($fp, 0);
+fclose($fp);
+
+
+$datei = fopen("gulli.html","a");
+
+# filter content
+$lines_string_filtered1 = strip_tags($rawdata, '<a><p>'); // alle html tags ausser p und a entfernen
+$lines_string_filtered11 = substr($lines_string_filtered1, 16); // entfernen erste 190 zeichen 
+$lines_string_filtered2 = cleanWhitespace($lines_string_filtered11); // entfernen alle leerzeichen 
+$lines_string_filtered3 = str_replace("(","",$lines_string_filtered2); // klammer offen weg
+$lines_string_filtered4 = str_replace(")","",$lines_string_filtered3); // klammer zu weg
+$lines_string_filtered5 = str_replace(";document.write'","",$lines_string_filtered4); // javascript entfernen 1
+$lines_string_filtered51 = str_replace("document.write''","",$lines_string_filtered5); // javascript entfernen 2
+$lines_string_filtered52 = str_replace("'","",$lines_string_filtered51); // javascript entfernen 3
+$lines_string_filtered53 = str_replace(";","",$lines_string_filtered52); // javascript entfernen 4
+$lines_string_filtered54 = str_replace('class="gulli_rss_link" ','',$lines_string_filtered53); // gulli-tag entfernen
+$lines_string_filtered6 = str_replace("Uhr","Uhr<br><font color='red'><b>&bull;</b></font>&nbsp:&nbsp;",$lines_string_filtered54); // rote punkte
+
+
+
+fwrite($datei, $lines_string_filtered6); // filter content speichern
+include ("gulli.html"); // ausgabe des gespeicherten
+
+function getHtml($url, $post = null) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+    if(!empty($post)) {
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
+    } 
+    $result = curl_exec($ch);
+    curl_close($ch);
+    return $result;
+}
+
+?>

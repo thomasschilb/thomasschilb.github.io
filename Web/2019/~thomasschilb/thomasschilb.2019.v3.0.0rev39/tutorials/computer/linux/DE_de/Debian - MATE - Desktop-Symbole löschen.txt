@@ -1,0 +1,30 @@
+MATE Desktop-Symbole löschen
+
+
+1. 
+
+Viele Linux-Nutzer mögen einen "sauberen" Desktop ohne Symbole. Dem stimmen jedoch ehemalige Windows-Benutzer meist nicht zu. Möchte man die klassischen vier Symbole für "Eigene Dateien", "Arbeitsplatz", "Papierkorb" und "Netzwerkumgebung" aktivieren, so muss man den Konfigurationseditor dconf [2] starten und dort unter "org.mate.caja.desktop" die Optionen:
+
+    "home-icon-visible" (Persönlicher Ordner)
+
+    "computer-icon-visible" (Rechner)
+
+    "trash-icon-visible" (Müll)
+
+    "network-icon-visible" (Netzwerkserver)
+
+aktivieren.
+
+MATE zeigt außerdem in der Voreinstellung alle eingebundenen Laufwerke als Symbol auf dem Desktop an. D.h. selbst wenn man nie Dateien auf dem Desktop ablegt, sieht man eventuell doch Symbole auf dem Desktop. Möchte man nur diese Icons entfernen, so muss man den Konfigurationseditor dconf [2] starten und dort die Option "volumes_visible" unter "org.mate.caja.desktop" deaktivieren. Allerdings werden dann auch keine Wechseldatenträger wie USB-Sticks oder USB-Festplatten mehr auf dem Desktop dargestellt. Diese erscheinen dann nur noch innerhalb des Dateimanagers Caja. Eine grafische Konfigurationsalternative bietet MATE Tweak.
+
+
+2.
+
+Schneller und einfacher geht es mit MATE Tweak:
+
+
+sudo add-apt-repository ppa:ubuntu-mate-dev/trusty-mate
+
+sudo apt-get update
+
+sudo apt-get install mate-tweak

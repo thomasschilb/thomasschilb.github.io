@@ -1,0 +1,55 @@
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+	    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#picturefade{transition:all .5s;-webkit-transition:all .5s}
+#picturefade:hover{opacity:.5}
+
+#logo{transition:all .5s;-webkit-transition:all .5s}
+#logo:hover{opacity:.5}
+
+
+#graycol:hover {
+-webkit-filter: grayscale(0%);
+-webkit-transition: .5s ease-in-out;
+-moz-filter: grayscale(0%);
+-moz-transition: .5s ease-in-out;
+-o-filter: grayscale(0%);
+-o-transition: .5s ease-in-out;
+}
+#graycol {
+-webkit-filter: grayscale(100%);
+-webkit-transition: .5s ease-in-out;
+-moz-filter: grayscale(100%);
+-moz-transition: .5s ease-in-out;
+-o-filter: grayscale(100%);
+-o-transition: .5s ease-in-out;
+}
+
+.fade {
+   opacity: 0.5;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .fade:hover {
+      opacity: 1;
+      }

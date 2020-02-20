@@ -1,0 +1,13 @@
+<?php
+
+$db_location = "sql210.epizy.com"; //Ort der Datenbank (normalerweise "localhost")
+$db_username = "epiz_23680525"; //Benutzername für DB-Zugriff
+$db_passwort = "2Iw5Sqrk"; //Passwort für DB-Zugriff
+$db_name = "epiz_23680525_counter"; //Name der Datenbank
+
+# 0.2
+
+$con = mysqli_connect($db_location, $db_username, $db_passwort) or die ('OFFLINE'); 
+mysqli_select_db($con, $db_name) or die ('DATABASE DOES NOT EXISTS'); 
+
+?>

@@ -1,0 +1,37 @@
+Add Repositories in Debian (Fedora, OpenSuse, Mandriva)
+
+Installing software in Linux is different from Windows in that it is done via repositories.
+It can help to think of package managers as the equivalent of an advanced version of Add/Remove Programs in Control Panel in Windows. This way programs can be virus checked before the user installs them.
+
+
+Command-line
+
+1.
+
+In OpenSuse - zypper addrepo
+In Mandriva - urpmi.addmedia
+In Debian or Ubuntu - open and edit "/etc/apt/sources.list"
+In Fedora -"/etc/yum.repos.d/".
+
+2.
+
+Enter the root password to save it
+
+In Debian
+su nano /etc/apt/sources.list
+
+In Ubuntu
+sudo nano /etc/apt/sources.list
+
+In Fedora
+su nano /etc/yum.repos.d
+
+In OpenSuse
+su zypper addrepo In Mandriva - su urpmi.addmedia
+
+3.
+
+Graphical (Adept)
+Graphical (Synaptic)
+
+

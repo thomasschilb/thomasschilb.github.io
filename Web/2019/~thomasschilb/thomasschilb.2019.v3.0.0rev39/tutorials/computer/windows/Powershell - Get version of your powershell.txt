@@ -1,0 +1,28 @@
+1. To get the version of your Powershell just enter:
+
+echo $PSVersionTable
+
+
+2. Your screen should look like this:
+
+Windows PowerShell
+Copyright (C) 2016 Microsoft Corporation. Alle Rechte vorbehalten.
+
+PS C:\Windows\System32\WindowsPowerShell\v1.0> echo $PSVersionTable
+
+Name                           Value
+----                           -----
+PSVersion                      5.1.15063.0
+PSEdition                      Desktop
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
+BuildVersion                   10.0.15063.0
+CLRVersion                     4.0.30319.42000
+WSManStackVersion              3.0
+PSRemotingProtocolVersion      2.3
+SerializationVersion           1.1.0.1
+
+
+PS C:\Windows\System32\WindowsPowerShell\v1.0>
+
+
+3. That's all!

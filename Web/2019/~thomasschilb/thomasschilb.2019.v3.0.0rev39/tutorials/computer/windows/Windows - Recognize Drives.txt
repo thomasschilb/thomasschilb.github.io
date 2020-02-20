@@ -1,0 +1,12 @@
+Recognize Drives
+
+!Helps with the most usb-sticks that cant be read
+
+1. HKEY_LOCAL_MACHINE\SYSTEM\MountedDevices
+   delete all except of (Standard) REG_SZ
+
+2. reboot
+
+3. all drives must be recognized now again
+
+//tsc

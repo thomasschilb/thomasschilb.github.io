@@ -1,0 +1,15 @@
+Ubuntu - Software-Center
+
+
+1. How to install Software in Linux?
+
+Use Systemtools > Ubuntu Software to search and install your Software.
+It's easier than sudo apt-get install {Package-Name}
+
+sudo apt-get update
+sudo apt-get install software-center
+
+
+2. How to fix SC Error in Linux?
+
+sudo apt-get --purge --reinstall install software-center

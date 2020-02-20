@@ -1,0 +1,34 @@
+Ubuntu - Desktop Themes
+
+
+How to install Themes in Linux?
+
+To install themes in Linux, you can use Unity tweak tool or GNOME tweak tool.
+Unity and GNOME tweak tools are available in Software center.
+
+
+1.
+
+sudo apt-get install unity-tweak-tool
+
+or
+
+sudo apt-get install gnome-tweak-tool
+
+
+2.
+
+Extract the theme file that you want to install
+
+
+3.
+
+After extracting theme file, open terminal and move extracted folder to /usr/share/themes.
+
+sudo mv path-of-extracted-theme-folder /usr/share/themes
+
+
+4.
+
+Click 'Themes' in Unity tweak tool or 'Appearance' in GNOME Tweak tool and
+here you have the theme listed that you moved to themes directory.

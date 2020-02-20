@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="en-us" http-equiv="Content-Language">
+<link rel="icon" 
+      type="image/png" 
+      href="favicon.png">
+<!--<link rel="icon" href="http://scenebb.bplaced.com/scenemusic/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://scenebb.bplaced.com/scenemusic/favicon.ico" type="image/x-icon"> -->
+<meta name="author" content="Thomas S.">
+<meta name="publisher" content="Thomas S.">
+<meta name="copyright" content="© 2019 PRESOURCE.">
+<meta name="description" content="Music from the Scene!">
+<meta name="keywords" content="Modules, Music, Player, Skins, Compilation, Archive, AiO, All-in-One">
+<meta name="robots" content="all, index, follow"> 
+<meta name="googlebot" content="all, index, follow"> 
+<meta name="pagerank" content="10"> 
+<meta name="msnbot" content="all,index,follow"> 
+<meta name="revisit" content="2 Days"> 
+<meta name="revisit-after" content="2 Days"> 
+<meta name="alexa" content="100">
+<base target="_blank">
+<title>.presource</title>
+<style type="text/css">
+.prescene-title {
+	text-align: right;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 10pt;
+}
+.border-black {
+	border: 1px solid #000000;
+}
+.font-10pt {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 10pt;
+}
+.font-10pt-gray {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 10pt;
+	text-align: center;
+	color: #7B7B7B;
+}
+a {
+	text-decoration: none;
+	color: #7B7B7B;
+}
+a:hover {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.description {
+	color: #7B7B7B;
+}
+.font-courier-center-10pt {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 10pt;
+	text-align: center;
+}
+.font-color-darkred {
+	color: #7B7B7B;
+}
+.table-fixed-center {
+	background-position: 0% 0%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	}
+}
+.color-4F4F4F {
+	color: #7B7B7B;
+}
+.table-black {
+	background-color: #000000;
+}
+.color-palette1 {
+	background-color: #FF0000;
+}
+.color-palette2 {
+	background-color: #800080;
+}
+.color-palette3 {
+	background-color: #000080;
+}
+.color-palette4 {
+	background-color: #00FFFF;
+}
+.color-palette5 {
+	background-color: #00FF00;
+}
+.color-palette6 {
+	background-color: #FFFF00;
+}
+.color-palette7 {
+	background-color: #FF9900;
+}
+.version {
+	color: #333333;
+}
+.gatestyle1 {
+	background-position: 0% 0%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 10pt;
+}
+</style>
+</head>
+
+<body style="color: #7B7B7B; background-color: #000000; margin-left: 40px;">
+<table class="gatestyle1" align="center" cellpadding="0" cellspacing="0" align="center">
+<tr><td>
+
+<table align="center" cellpadding="0" cellspacing="0" style="width: 370px">
+	<tr>
+		<td class="color-palette1">&nbsp;</td>
+		<td class="color-palette2">&nbsp;</td>
+		<td class="color-palette3">&nbsp;</td>
+		<td class="color-palette4">&nbsp;</td>
+		<td class="color-palette5">&nbsp;</td>
+		<td class="color-palette6">&nbsp;</td>
+		<td class="color-palette7">&nbsp;</td>
+	</tr>
+</table>
+	</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+	<tr>
+		<td class="font-courier-center-10pt" style="width: 370px; height: 62px">
+		<em><span class="font-color-darkred"><table align="center" cellpadding="0" cellspacing="0" class="prescene-title" style="width: 370px; height: 62px">
+			<tr>
+				<td class="description" valign="bottom"><em>
+				gate.prepare.ready?</em></td>
+			</tr>
+		</table>
+		</span></em></td>
+	</tr>
+	<tr>
+		<td class="font-courier-center-10pt"><center><font face="Courier, Monospace" color="#7B7B7B" size="2">&nbsp;<br>
+		&lt;&lt;&lt;&lt;&lt;
+		<a href="?to=welcome" target="_self" title="ENTER THE SITE">ENTER</a> 
+		/ 
+		<a href="?to=gate-legal" target="_self" title="LEGAL INFO">§</a> 
+		/	
+		<a href="https://www.google.com" target="_self" title="LEAVE THE SITE">LEAVE</a> &gt;&gt;&gt;&gt;&gt;</font><br>
+		<br>
+		<span class="version">
+		<?php include('counter.php');?><font face='Courier, "Courier New", Monospace' color="#333333" size="2">[prescene.co.nf.2019.v0.5rev19]<br>&nbsp;<br>&nbsp;<br><a href="http://www.biz.nf" rel="nofollow" id="AL-2883-0" target="_blank" title="Get your free Domain .co.nf and Hosting today!"><img src="http://www.biz.nf/buts/biznf_freedomain_120x60.png" alt="web hosting"/></a>
+<script language="JavaScript" type="text/javascript" src="http://docs.biz.nf/set_aid.php?aid=MTkyNDE4MTgyNjI3MjI="></script></center></span></td>
+	</tr>
+	</table>
+
+</body>
+
+</html>

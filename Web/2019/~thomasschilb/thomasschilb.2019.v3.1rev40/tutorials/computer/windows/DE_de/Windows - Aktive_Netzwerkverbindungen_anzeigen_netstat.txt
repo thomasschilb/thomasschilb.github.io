@@ -1,0 +1,5 @@
+Aktive Netzwerkverbindungen anzeigen (netstat)
+
+netstat -a -b | more
+
+//since

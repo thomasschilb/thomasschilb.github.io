@@ -1,0 +1,55 @@
+FL Studio - Main settings for techno
+
+
+1. How to install on Linux?
+
+Use wine and this version: http://syndicate.cf/software/windows/audio/flstudio608.zip
+
+
+2. How to install on Windows?
+
+http://www.fcportables.com/fl-studio-producer-portable/
+
+
+3. Libraries (Samples & Loops):
+
+ArtyTorrent - Hardtechno vs. Schranz,
+DrumSamples.org,
+Cluster Sound,
+Sounds To Sample,
+Venegeance
+
+etc.
+
+
+4. BPM-Rate:
+
+120,club
+125,house
+128,minimal
+130-140,techno
+150,hardtechno
+
+etc.
+
+
+5. VST-Filter:
+
+Master
+
+Slot1   - Fruity Multiband Compressor (Techno Lift)
+Slot10  - Fruity Limiter (Drum Compression 3)
+
+Insert 1
+
+Slot1 - Fruity Reverb 2, specific tune WET for your samples or instruments
+
+1. Default, Default H.Cut 100% L.Cut 100%
+2. Cathedral, Cathedral H.Cut 100% L.Cut 100%
+
+(Insert 2: Fruity Parametic EQ 2)
+
+etc.
+
+
+tested under FL-Versions: 3.4, 6.0, 11.1, 12.x

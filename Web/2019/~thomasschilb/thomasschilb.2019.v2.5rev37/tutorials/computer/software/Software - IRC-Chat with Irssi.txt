@@ -1,0 +1,41 @@
+IRC-Chat with Irssi
+
+
+1a. How to install and setup Irssi on Linux?
+
+sudo apt-get install irssi
+
+
+1b. How to install and setup Irssi on Windows?
+
+https://github.com/q3aql/irssi-win
+
+
+2. Irssi - autoconnect, autoidentify, autojoinchannels
+
+There are loads of irssi scripts which do this, but the truth is irssi
+actually supports these things very well out of the box. Here’s how.
+
+
+3. Start up irssi, then:
+
+/connect irc.euirc.net
+/nick yournickname
+
+/SERVER ADD -auto -ssl -network euirc irc.euirc.net 6667 <password-if-needed>
+
+(you may have to shutdown and restart irssi at this point for it
+to recognize the network name “euirc” in the next step)
+
+
+4. Another method of auto-identifying is seen below. The above is generally preferred.
+
+/NETWORK ADD -autosendcmd "/^msg NickServ IDENTIFY password;wait 2000" euirc
+
+
+5. To add channels:
+
+/CHANNEL ADD -auto #thegreenresource euirc
+
+
+6. Now all should be done by run!

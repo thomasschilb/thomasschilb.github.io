@@ -1,0 +1,204 @@
+========================================================================
+
+       Software - P2P with eMule & Kad - 100% WORKING 2018/01/23
+
+========================================================================
+
+
+eMule ------------------------------------------------------------------
+
++++ Client(s)
+
+aMule (2016-09-17)
+https://sourceforge.net/projects/amule/files/aMule/
+
+eMule (2010-04-07) *recommend*
+https://sourceforge.net/projects/emule/
+
+eMule0.50b BETA1 (2015-03-20)
+https://sourceforge.net/projects/emule/files/eMule%20Beta/0.50b%20BETA1/
+
+kMule (2016-02-11)
+https://sourceforge.net/projects/kmuleproject/
+
+------------------------------------------------------------------------
+
++++ Mods
+
+eMule 0.50a beba 2.72 *recommend*
+http://files.emule-security.org/emule/beba%202.72%20bin.7z
+
+eMule 0.50a Xtreme 8.1
+http://hostex.de/1301854475
+
+eMule 0.49c X-Ray v1.7
+http://hostex.de/1247933853
+
+eMule 0.50a MorphXT 12.7 (2012-11-24)
+https://sourceforge.net/projects/emulemorph/files/MorphXT/eMule%200.50a%20MorphXT%2012.7/
+
+More: http://www.emule-security.org/modb/
+
+------------------------------------------------------------------------
+
++++ Site(s)
+
+http://wiki.amule.org/wiki/Keep_a_safe_list_of_servers
+http://www.emule-security.org/
+http://emulefuture.de/
+http://www.emule-web.de/board/
+http://www.emule.nu/
+
+------------------------------------------------------------------------
+
++++ IP-filter(s)
+
+http://upd.emule-security.org/ipfilter.zip
+
+------------------------------------------------------------------------
+
++++ Serverlist(s)
+
+via list (copy&paste)
+
+https://edk.peerates.net/servers/online-servers-list
+
+via server.met
+
+http://upd.emule-security.org/server.met
+http://peerates.net/servers.php
+http://www.gruk.org/server.met
+http://www.gruk.org/server.met.gz
+http://shortypower.org/server.met
+http://serveurs.emule-french.org
+http://devel.archefire.org/tmp/server.met
+
+via ed2k-Link(s) (100% WORKING, last update: 2018-01-05)
+
+ed2k://|server|176.103.48.36|4184|/
+ed2k://|server|176.103.56.135|2442|/
+ed2k://|server|46.105.126.71|4661|/
+ed2k://|server|91.226.212.11|2442|/
+ed2k://|server|176.103.56.98|2442|/
+ed2k://|server|80.208.228.241|8369|/
+ed2k://|server|213.183.51.211|8569|/
+ed2k://|server|193.124.182.62|64242|/
+ed2k://|server|139.219.233.252|13015|/
+ed2k://|server|114.55.28.216|10032|/
+ed2k://|server|14.23.162.173|4122|/
+ed2k://|server|178.32.190.10|4661|/
+ed2k://|server|14.105.93.213|4249|/
+ed2k://|server|47.152.162.186|28288|/
+
+Total of 14 ed2k-servers online
+
+
+Copy all of them, paste them in your server list.
+
+You can use almost all the ports between 1 and 65535.
+
+
+You can obtain high id if:
+
+1) your ISP gives you a (real) public IP.
+
+2) you set up correctly the port forwarding in your router settings.
+
+3) you set up correctly your firewall.
+
+4) your ip doesn't end with a 0 (nought): always low id on servers.
+
+5) there aren't malware/spyware/virus in your system
+   (can cause low id on kad).
+   
+6) you avoid poorly configured servers (some servers will give only
+low id because of this, even if everything is/was correctly set up).
+
+At this time, for example, 8BBS eD2K server 92.248.128.222:4661 doesn't
+allow an obfuscated connection: I have to disable obfuscation support to
+get a normal connection.
+153.125.234.211:31493 instead ignore the obfuscation support
+and it allows a normal connection.
+
+------------------------------------------------------------------------
+
++++ Webservices.dat
+
+http://ed2k.shortypower.org/webservices.dat
+
+#########################################
+# Webservices Configuration File 
+# input one service per line 
+# 
+# Format: Name,URL
+#
+# Placeholders
+# ------------
+# #filename       -> name of the file
+# #cleanfilename  -> cleaned up name of the file
+# #name           -> name of the file without extension
+# #cleanname      -> cleaned up name of the file without extension
+# #hashid         -> hashid of the file
+# #filesize       -> size of the file
+#
+# Example 
+# -------
+# eMule Homepage,http://www.emule-project.net
+# Testservice,http://www.webservice.com/search?p=ed2k:#filesize:#hashid
+#
+# Comment lines begin with # or /
+#eMule Mods
+eMule AcKroNiC,http://www.ackronic.net/
+eMule beba,http://beba.emulefuture.de/
+eMule Magic Angel,http://forum.emule-project.net/index.php?showtopic=141833
+eMule Mephisto,http://mephisto.emule-web.de/
+eMule Morph,http://emulemorph.sourceforge.net/
+eMule OfFixed,http://forum.emule-project.net/index.php?showtopic=146845
+eMule Scarangel,http://scarangel.sourceforge.net/
+eMule SharkX,http://sharkx.emulefuture.de/
+eMule sivka,http://sivka.emule-web.de/
+eMule stulle,http://stulle.emule-web.de/
+eMule Tombstone,http://forum.emule-project.net/index.php?showtopic=149113
+eMule Xtreme,http://www.emule-mods.de/?mods=xtreme
+eMule ZZUL BastarD,http://forum.emule-project.net/index.php?showtopic=65063
+eMule ZZUL,http://forum.emule-project.net/index.php?showforum=75
+--,--
+#server list
+ServerList emule-security,http://www.emule-security.net/serverlist/
+ServerList gruk,http://gruk.org/list.php
+ServerList peerates,http://edk.peerates.net/servers.php
+ServerList shortypower,http://shortypower.org/
+#stats check report
+ed2k-stats shortypower,http://ed2k.shortypower.org/?hash=#hashid
+ed2k-check peerates,http://edk.peerates.net/check.php?lang=0&p=#hashid
+DF Check,http://donkeyfakes.net/fakes.php?referer=emule&hash=#hashid&size=#filesize&name=#filename 
+DF Report,http://donkeyfakes.net/report.php?hash=#hashid&size=#filesize&name=#filename
+Fake Check Bitzi,http://bitzi.com/lookup/ed2k:#hashid?ref=eMule
+
+Kad --------------------------------------------------------------------
+
++++ Nodes.dat (100% WORKING, last update: 2018-01-05)
+
+But at least you just need only one emule-server
+for searching with kad:
+
+http://upd.emule-security.org/nodes.dat
+http://www.nodes-dat.com/
+http://server-met.emulefuture.de/download.php?file=nodes.dat
+
+------------------------------------------------------------------------
+
+This tutorial was last updated on 2018-01-05 @ 04:14 and
+was successfully tested under Windows 10 Enterprise x64 +Updated
+
+Have pHun!
+
+#edonkey #emule #kad #kademlia #shareordie
+
+========================================================================
+
+File:	Software - P2P with eMule & Kad.txt
+WWW:	http://help.thomasschilb.com
+Email:	thomas.schilb@live.de
+
+========================================================================

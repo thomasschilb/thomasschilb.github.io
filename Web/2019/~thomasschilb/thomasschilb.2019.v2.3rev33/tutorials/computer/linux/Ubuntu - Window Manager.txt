@@ -1,0 +1,26 @@
+Ubuntu - Window Manager
+
+
+1. How to install and use Window Manager Control in Linux?
+
+sudo apt-get install wmctrl
+
+
+2. Show information about the window manager and about the environment?
+
+wmctrl -m
+
+
+3. Show which window manager you are running at your actual session?
+
+ls /usr/bin/*session
+
+-> in GNOME returns /usr/bin/gnome-session (and more)
+
+-> in MATE returns /usr/bin/mate-session (and more)
+
+-> in LXDE returns /usr/bin/lxsession (and more)
+
+-> in JWM returns /usr/bin/icewm-session (should be jwm-session, not?!)
+
+-> etc.

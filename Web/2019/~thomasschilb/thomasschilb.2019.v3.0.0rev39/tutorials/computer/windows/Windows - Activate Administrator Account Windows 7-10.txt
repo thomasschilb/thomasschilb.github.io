@@ -1,0 +1,12 @@
+Activate Administrator Account (Windows 7-10)
+
+activate:
+net user Administrator /active:yes
+
+set password:
+net user Administrator ‹Passwort›
+
+deactivate:
+net user Administrator /active:no
+
+//tsc

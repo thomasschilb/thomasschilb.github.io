@@ -1,0 +1,27 @@
+Windows Media Player deinstallieren
+
+
+Bei Windows ist der Media Player bereits vorinstalliert.
+Wenn Sie jedoch einen anderen Player benutzen und den Media Player deinstallieren möchten,
+zeigen wir Ihnen, wie es funktioniert.
+
+
+So deinstallieren Sie den Windows Media Player:
+
+Folgen Sie diesen fünf Schritten, um den Windows Media Player aus Ihrem System zu entfernen.
+
+1. Unter "Start" > "Systemsteuerung" > "Programme" öffnen Sie "Programme und Funktionen".
+
+2. In der linken Seitenleiste finden Sie die Option "Windows-Funktionen aktivieren oder deaktivieren".
+Wählen Sie diese aus – es öffnet sich dann ein neues Fenster.
+
+3. Erweitern Sie die Ansicht unter "Medienfunktionen".
+
+4. Dort deaktiveren Sie das Häkchen bei "Windows Media Player". Es öffnet sich ein Fenster,
+das Sie mit "Ja" bestätigen müssen.
+
+5. Anschließend bestätigen Sie das Fenster mit OK und starten Ihren Computer neu.
+Danach ist der Windows Media Player deinstalliert.
+
+
+//tsc

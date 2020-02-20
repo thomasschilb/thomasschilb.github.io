@@ -1,0 +1,67 @@
+http://forum.kompozer-web.de/viewtopic.php?f=13&t=39
+
+Installation auf Ubuntu ab 14.04
+
+Beitrag von Admin » Di 19. Aug 2014, 11:46
+
+Auch auf der LTS-Version Ubuntu 14.04 lässt sich KompoZer installieren.
+Allerdings ist es diesmal nicht mit einem einzigen Klick getan.
+
+Auf Ubuntuusers.de gibt es hierzu eine ausführliche Anleitung,
+die ich hier in aller Kürze wiedergeben möchte.
+
+Zunächst müssen einige Pakete aus den Quellen nachinstalliert werden.
+
+[col]libatk1.0-0
+libc6
+libcairo2
+libfontconfig1
+libfreetype6
+libgdk-pixbuf2.0-0
+libglib2.0-0
+libgtk2.0-0
+libidl0
+libnspr4
+libnss3|libpango1.0-0
+libpng12-0
+libstdc++6
+libx11-6
+libxft2
+libxinerama1
+libxrender1
+libxt6
+zlib1g[/col]
+
+1. Die Paketliste zum kopieren und im Terminal einzugeben:
+
+Code: Alles auswählen
+
+sudo apt-get install libatk1.0-0 libc6 libcairo2 libfontconfig1 libfreetype6 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk2.0-0 libidl0 libnspr4 libnss3 libpango1.0-0 libpng12-0 libstdc++6 libx11-6 libxft2 libxinerama1 libxrender1 libxt6 zlib1g 
+
+2. Anschließend installierst du den KompoZer
+
+auf 32-Bit Systemen:
+
+Code: Alles auswählen
+
+wget https://launchpad.net/ubuntu/+archive/primary/+files/kompozer-data_0.8%7Eb3.dfsg.1-0.1ubuntu2_all.deb
+wget https://launchpad.net/ubuntu/+archive/primary/+files/kompozer_0.8%7Eb3.dfsg.1-0.1ubuntu2_i386.deb
+sudo dpkg -i kompozer-data_0.8~b3.dfsg.1-0.1ubuntu2_all.deb
+sudo dpkg -i kompozer_0.8~b3.dfsg.1-0.1ubuntu2_i386.deb 
+
+und auf 64-Bit Systemen:
+
+Code: Alles auswählen
+
+wget https://launchpad.net/ubuntu/+archive/primary/+files/kompozer-data_0.8%7Eb3.dfsg.1-0.1ubuntu2_all.deb
+wget https://launchpad.net/ubuntu/+archive/primary/+files/kompozer_0.8%7Eb3.dfsg.1-0.1ubuntu2_amd64.deb
+sudo dpkg -i kompozer-data_0.8~b3.dfsg.1-0.1ubuntu2_all.deb
+sudo dpkg -i kompozer_0.8~b3.dfsg.1-0.1ubuntu2_amd64.deb 
+
+3. Anschließend lädst du noch das deutsche Sprachpaket herunter Deutsches Sprachpaket
+und installierst es über Tools - Addons
+
+Viel Spaß auch weiterhin mit KompoZer!
+
+
+http://wiki.ubuntuusers.de/KompoZer

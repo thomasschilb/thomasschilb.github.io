@@ -1,0 +1,18 @@
+System Monitor Indicator display CPU, memory and more usage on panel.
+
+
+1. Install
+
+sudo add-apt-repository ppa:fossfreedom/indicator-sysmonitor
+sudo apt-get update
+sudo apt-get install indicator-sysmonitor
+
+
+2. Start
+
+Click on Menu > Accessories > System Monitor Indicator > Preferences
+
+General > Run on startup
+
+
+3. Then Advanced > Customize output: cpu: {cpu} mem: {mem} net: {net}

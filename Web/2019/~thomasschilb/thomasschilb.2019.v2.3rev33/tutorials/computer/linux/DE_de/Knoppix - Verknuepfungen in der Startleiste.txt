@@ -1,0 +1,10 @@
+﻿Symbole aus der Taskleiste entfernen/hinzufügen:
+
+
+
+Mit der rechten Maustaste auf eine leeren Bereich der Taskleiste klicken.
+
+"Paneleinträge hinzufügen/entfernen" auswählen.
+
+
+Karteikarte "Panel-Erweiterungen" -> "Anwendungsstartleiste" auswählen -> Schaltfläche "Edit" anklicken.

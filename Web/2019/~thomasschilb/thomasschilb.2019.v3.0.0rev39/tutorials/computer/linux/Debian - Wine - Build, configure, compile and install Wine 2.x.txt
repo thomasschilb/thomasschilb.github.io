@@ -1,0 +1,59 @@
+Debian - Wine - Build, configure, compile and install Wine 2.x
+
+
+1. Download source package with Wget
+
+Get
+
+wget http://dl.winehq.org/wine/source/2.x/wine-2.1.tar.xz
+
+Extract
+
+tar -xJf wine-2.1.tar.xz
+
+
+2. Download via GitHub, Configure for 32-Bit and 64-Bit, Compile, Install & Run
+
+a.
+
+mkdir wine-source
+
+b.
+
+git clone git://source.winehq.org/git/wine.git wine-source/
+
+c.
+
+apt-get install libx11-dev
+apt-get install libx11-dev:i386
+apt-get install libfreetype6-dev
+apt-get install libfreetype6-dev:i386
+apt-get install xorg-dev
+
+
+
+
+
+
+
+
+
+
+3. Goto Folder
+
+cd wine-2.1
+
+
+4. Configure Compile
+
+sudo ./configure
+sudo ./configure --enable-win64
+
+4a.
+
+sudo apt-get install libx11-dev
+
+
+5. Compile & Install
+
+sudo make && sudo make install

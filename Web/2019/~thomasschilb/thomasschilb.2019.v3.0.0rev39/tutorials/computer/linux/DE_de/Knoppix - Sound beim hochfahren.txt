@@ -1,0 +1,9 @@
+Knoppix Sound beim Hochfahren:
+
+/etc/init.d/kdm (bei start):
+S="/usr/share/sounds/startup.ogg" ; [ -x /usr/bin/ogg123 -a -f $S ] && ogg123 -q $S &
+und (bei stop):
+S="/usr/share/sounds/shutdown.ogg" ; [ -x /usr/bin/ogg123 -a -f $S ] && ogg123 -q $S & 
+
+________________
+since.tipido.net

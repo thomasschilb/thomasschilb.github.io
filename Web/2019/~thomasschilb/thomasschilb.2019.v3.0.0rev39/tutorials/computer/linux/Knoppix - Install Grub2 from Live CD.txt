@@ -1,0 +1,29 @@
+Install Grub2 from Live CD (Knoppix)
+
+
+1. HDD Analyse
+
+sudo mount /dev/sda2 /media
+sudo mount -o bind /sys /media/sys
+sudo mount -o bind /proc /media/proc
+sudo cp /proc/mounts /media/etc/mtab
+
+
+2. Change to »chroot« Environment
+
+sudo chroot /media /bin/bash
+
+
+3. Grub2 new install:
+
+grub-mkconfig -o /boot/grub/grub.cfg
+grub-install /dev/sda
+reboot
+
+
+4. Grub2 Complete reinstall Packets
+
+aptitude update
+aptitude reinstall grub-common grub-pc os-prober # grub-gfxpayload-lists
+
+//tsc

@@ -1,0 +1,416 @@
+ 
+            .-----.----.-----.-----.----.-----.-----.-----.             
+            |  _  |   _|  -__|__ --|  __|  -__|     |  -__|
+            |   __|__| |_____|_____|____|_____|__|__|_____|
+            |__|--ts------------------------ prescene.co.nf
+
+                    -  PRESCENE LISTS 2019 TEXTFILE -                   
+
+                                V0.3Rev5                                
+
+
+        <<<<< INFO / EMULE / TORRENT / USENET / WEB / XDCC >>>>>        
+
+
+
+
+ __         ___
+|__|.-----.'  _|.-----.
+|  ||     |   _||  _  |
+|__||__|__|__|  |_____|
+
+------------------------------------------------------------------------
+          
++ Caution! Read & agree to this Info
+  before any act(s) of usage
+
++ You'll need the font Courier New or
+  compatible mscorefonts package (apt-get)
+
++ Content is taken with the utmost care
+  of actuality, quality and uptime from
+  legal sources like:
+
+  Search Engines (most rated/used)
+  Google, Bing, Yahoo, etc.
+
+  News (latest)
+  BBS, Usenet, Newsticker, etc.
+
+  Textfiles (urls/knowhow)
+  Pastebin, etc.
+
++ Email us for query or comment you'll be
+  answered as soon as possible
+
++ Don't give this site(s) in false hands!
+  Only for private use NOT commercial, etc.
+  We don't sell our links!
+
++ No violations were evident to us at the
+  time of linking. Should any legal
+  infringement become known to us, we will
+  remove the respective link immediately. 
+
++ We are accordingly not obliged to monitor
+  merely the transmitted or saved
+  information of third parties
+
++ Don't penetration testing this site
+  otherwise it must be closed
+    
+Copyright-Flags
+
+#Non-Profit #Non-Commercial #NoCopy!
+#AllRightsReserved #AllRightsReversed
+#Imprint #LegalDisclosure #LegalInfo
+
+
+
+                       __
+.-----.--------.--.--.|  |.-----.
+|  -__|        |  |  ||  ||  -__|
+|_____|__|__|__|_____||__||_____|
+
+------------------------------------------------------------------------
+
+eMule-Client [4]
+
+aMule (2016-09-17)
+sourceforge.net
+
+eMule (2010-04-07) *recommend*
+sourceforge.net
+
+eMule0.50b BETA1 (2015-03-20)
+sourceforge.net
+
+kMule (2016-02-11)
+sourceforge.net 
+
+
+Mods [4]
+
+eMule 0.50a beba 2.72 *recommend*
+files.emule-security.org
+
+eMule 0.50a Xtreme 8.1
+hostex.de
+
+eMule 0.49c X-Ray v1.7
+hostex.de
+
+eMule 0.50a MorphXT 12.7 (2012-11-24)
+sourceforge.net
+
+More: emule-security.org
+
+
+Site(s) [5]
+
+wiki.amule.org
+emule-security.org
+emulefuture.de
+emule-web.de/board
+emule.nu
+
+
+IP-filter(s) [1]
+
+upd.emule-security.org
+
+
+Serverlist(s) [4]
+
+via list (copy&paste)
+
+edk.peerates.net
+
+via server.met
+
+upd.emule-security.org
+peerates.net
+gruk.org gzip 
+shortypower.org
+serveurs.emule-french.org 
+devel.archefire.org
+
+via ed2k-Link(s)
+
+ed2k://|server|176.103.48.36|4184|/
+ed2k://|server|176.103.56.135|2442|/
+ed2k://|server|46.105.126.71|4661|/
+ed2k://|server|91.226.212.11|2442|/
+ed2k://|server|176.103.56.98|2442|/
+ed2k://|server|80.208.228.241|8369|/
+ed2k://|server|213.183.51.211|8569|/
+ed2k://|server|193.124.182.62|64242|/
+ed2k://|server|139.219.233.252|13015|/
+ed2k://|server|114.55.28.216|10032|/
+ed2k://|server|14.23.162.173|4122|/
+ed2k://|server|178.32.190.10|4661|/
+ed2k://|server|14.105.93.213|4249|/
+ed2k://|server|47.152.162.186|28288|/
+
+Total of 14 ed2k-servers online
+
+
+Copy all of them, paste them in your
+server list.
+
+You can use almost all the ports
+between 1 and 65535.
+
+
+You can obtain high id if:
+
+1) your ISP gives you a (real) public IP.
+
+2) you set up correctly the port forwarding
+in your router settings.
+
+3) you set up correctly your firewall.
+
+4) your ip doesn't end with a 0 (nought):
+always low id on servers.
+
+5) there aren't malware/spyware/virus
+in your system (can cause low id on kad).
+
+6) you avoid poorly configured servers
+(some servers will give only low id
+because of this, even if everything
+is/was correctly set up).
+
+At this time, for example,
+8BBS eD2K server 92.248.128.222:4661
+doesn't allow an obfuscated connection:
+I have to disable obfuscation support to
+get a normal connection.
+153.125.234.211:31493 instead ignore
+the obfuscation support
+and it allows a normal connection.
+
+
+Webservices.dat [1]
+
+ed2k.shortypower.org
+
+#########################################
+# Webservices Configuration File 
+# input one service per line 
+# 
+# Format: Name,URL
+#
+# Placeholders
+# ------------
+# #filename -> name of the file
+# #cleanfilename -> cleaned up
+name of the file
+# #name -> name of the file without
+extension
+# #cleanname -> cleaned up name of
+the file without extension
+# #hashid -> hashid of the file
+# #filesize -> size of the file
+#
+
+Example:
+
+http://prescene.bplaced.net/txt/emule-example.txt
+
+
+Kad / Nodes.dat [3]
+
+But at least you just need only one emule-server for searching with kad:
+
+upd.emule-security.org
+nodes-dat.com
+server-met.emulefuture.de
+
+
+
+ __                                __
+|  |_.-----.----.----.-----.-----.|  |_
+|   _|  _  |   _|   _|  -__|     ||   _|
+|____|_____|__| |__| |_____|__|__||____|
+
+------------------------------------------------------------------------
+
+Search-Engine(s) [12]
+
+1337x.unblocked.mx
+bitcq.com
+extra.cx
+isohunts.to
+katcr.party
+limetorrents3.top
+magnetdl.com
+unblocked.mx
+skytorrents.lol
+thepiratebay.org
+toorgle.com
+tparser.org
+
+
+Software [3]
+
+bitlord.com
+bittorrent.com
+utorrent.com
+
+
+Tracker [4]
+
+openbittorrent.com
+opentrackers.org
+publicbt.com
+tracker.btarena.org
+
+
+News [1]
+
+torrentfreak.com
+
+
+Check Legality [2]
+
+torrenttags.com
+vpnmentor.com
+
+
+Anonymity [1]
+
+torguard.net
+
+
+
+                                __
+.--.--.-----.-----.-----.-----.|  |_
+|  |  |__ --|  -__|     |  -__||   _|
+|_____|_____|_____|__|__|_____||____|
+
+------------------------------------------------------------------------
+
+Search-Engine(s) [5]
+
+binsearch.info
+newzleech.com
+nzbindex.nl
+nzbking.com
+usenetreviewz.com
+
+
+Provider [4]
+
+gigaflat.com
+giganews.com
+iload-usenet.com
+usenetserver.com
+
+
+Software [1]
+
+grabit
+
+
+
+                 __
+.--.--.--.-----.|  |--.
+|  |  |  |  -__||  _  |
+|________|_____||_____|
+
+------------------------------------------------------------------------
+
+Search-Engine(s) [5]
+
+pre.corrupt-net.org
+predb.me
+predb.org
+predb.pw
+srrdb.com
+
+
+DL [2]
+
+scnlog.me
+scene-rls.net
+
+
+Software [1]
+
+jdownloader
+
+
+Music [6]
+
+0daymusic.org
+filemp3.info
+freake.ru
+freemusicdl.club
+intmusic.net
+musicrls.net
+
+
+
+          __
+.--.--.--|  |.----.----.
+|_   _|  _  ||  __|  __|
+|__.__|_____||____|____|
+
+------------------------------------------------------------------------
+
+Search-Engine(s) [6]
+
+ixirc.com
+packetfind.com
+sunxdcc.com
+xdcc.it
+xdcc.eu
+xdcc.me
+
+
+Software [5]
+
+xdccbrowser
+xdcccatcher
+xdccfetch
+xdccklipper
+xweasel
+
+
+Serverlist [23]
+
+URL                         Channel(s)
+
+irc.abandoned-irc.net       #porn-hq #sport-chat #warez #zombie-warez #zw-chat
+irc.abjects.net             #1warez #beast-xdcc #evil #mexicanmafia #moviegods #tmd-moviez #tmd-music #tmd-tvrips #[rm]rolys-movies
+irc.alphairc.com            #masterwarez 
+irc.amspanama.com           #monsterfilez 
+irc.criten.net              #0day-mp3s #android #batcave #channel #elitewarez #masterwarez #warezland
+irc.frozyn.net              #the-future 
+irc.futureshell.org         #the_pub
+irc.global-irc.org          #holland-hardcore #software
+irc.greekirc.net            #sex #downloads #mp3 #share
+irc.irchighway.net          #survivor-central
+irc.irdsi.net               #area51
+irc.mircphantom.net         #abstract #firestorm-mp3s #oldskool-xdcc
+irc.oceanirc.net            #oce@n
+irc.oldskool-chatters.co.uk #compu-xdcc
+irc.relaxedirc.net #bmxvids #freedom-zone #tv-caps
+irc.rizon.net               #1warez #batcave #elitewarez #gabbermp3 #highfidelity #housepackz #infidel
+irc.scenep2p.net #0day-mp3s #the.source
+irc.subbus.host             #files
+irc.terrachat.cl            #mp3zone #all-metal
+irc.undernet.org            #mp3-warez
+irc.unit3d-buddz.net        #unit3d-xdcc 
+irc.xerologic.net           #mp3 #warez #zuul-central-xdcc #ultra-xero
+irc.xeromem.com             #crackerjack #porn-hq #latinwarez
+
+------------------------------------------------------------------------
+                             - END OF FILE -                            
+
+Filename: prescene-lists-2019.nfo
+Last Update: 2019-07-12
+Email: prescene@gmx.at
+Site: http://prescene.co.nf

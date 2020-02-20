@@ -1,0 +1,139 @@
+Ubuntu - Panel Bar Indicator Applets
+
+
+1. How to install Panel Bar Indicators in Linux?
+
+These are 14 x Indicators: Brightness Indicator, Classic Menu Indicator, My-Weather Indicator, Search Files Indicator,
+System Monitor Indicator, Touchpad Indicator and Sticky Notes Indicator on Ubuntu system.
+
+
+a. Brightness Indicator
+
+Brightness indicator allows you to control your laptop display brightness with indicator.
+
+ sudo add-apt-repository ppa:indicator-brightness/ppa
+ sudo apt-get update
+ sudo apt-get install indicator-brightness
+ 
+
+b. Classic Menu Indicator
+
+ClassicMenu Indicator is a classic GNOME-style application menu for Ubuntu.
+
+ sudo add-apt-repository ppa:diesch/testing
+ sudo apt-get update
+ sudo apt-get install classicmenu-indicator
+
+
+c. Touchpad Indicator
+
+An easy way to enable or disable your laptop touchpad.
+
+ sudo add-apt-repository ppa:atareao/atareao
+ sudo apt-get update
+ sudo apt-get install touchpad-indicator
+
+
+d. Keylock Indicator
+
+Keylock Indicator displayes/indicate that Num/Caps/Scroll keys are turned on/off.
+
+ sudo add-apt-repository ppa:tsbarnes/indicator-keylock
+ sudo apt-get update
+ sudo apt-get install indicator-keylock
+
+
+e. System Monitor Indicator
+
+System Monitor Indicator display CPU and memory usage on panel.
+
+ sudo add-apt-repository ppa:fossfreedom/indicator-sysmonitor
+ sudo apt-get update
+ sudo apt-get install indicator-sysmonitor
+
+
+f. My-Weather Indicator
+
+My-Weather indicator is an application that informs you of current weather and the weather forecast.
+
+ sudo add-apt-repository ppa:atareao/atareao
+ sudo apt-get update
+ sudo apt-get install my-weather-indicator
+
+
+g. Feed Indicator
+
+Feed indicator can show RSS feed updates in the Panel via its indicator
+
+
+ sudo add-apt-repository ppa:noobslab/indicators
+ sudo apt-get update
+ sudo apt-get install feedindicator
+
+
+h. Calendar Indicator
+
+Calendar indicator is Google Calendar for Panel bar.
+
+ sudo add-apt-repository ppa:atareao/atareao
+ sudo apt-get update
+ sudo apt-get install calendar-indicator
+
+
+i. Reminder Indicator
+
+Remindor indicator is an indicator app specially designed for Ubuntu to set schedule reminders.
+
+ sudo add-apt-repository ppa:bhdouglass/indicator-remindor
+ sudo apt-get update
+ sudo apt-get install indicator-remindor
+
+
+j. Sticky Notes Indicator
+
+Sticky Notes Indicator ia an important note taking app for Ubuntu. You can track to-do things for yourself.
+
+ sudo add-apt-repository ppa:umang/indicator-stickynotes
+ sudo apt-get update
+ sudo apt-get install indicator-stickynotes
+
+
+k. Synapse Indicator
+
+Synapse Indicator is a search indicator for Panel bar. It searches and creates virtual index of files and items installed on the system. It also searches from Web.
+
+ sudo add-apt-repository ppa:noobslab/indicators
+ sudo apt-get update
+ sudo apt-get install indicator-synapse
+
+
+l. Tomboy Notes Indicator
+
+Tomboy Notes Indicator is a desktop note taking indicator.
+
+ sudo apt-get install tomboy
+
+
+m. Windows-List Indicator
+
+Windows-List Indicator is an application indicator to display a list of all current open windows. Each window can be activated or deactivated from the list.
+
+ sudo add-apt-repository ppa:noobslab/indicators
+ sudo apt-get update
+ sudo apt-get install window-list
+
+
+n. Google Tasks Indicator
+
+Google Tasks indicator displays the most recent Google tasks from account on the Panel.
+
+ sudo add-apt-repository ppa:atareao/atareao
+ sudo apt-get update
+ sudo apt-get install google-tasks-indicator
+
+
+2. How to change position of panel indicators?
+
+mkdir -p ~/.local/share/indicators/application
+cp /usr/share/indicator-application/ordering-override.keyfile ~/.local/share/indicators/application/
+gedit ~/.local/share/indicators/application/ordering-override.keyfile

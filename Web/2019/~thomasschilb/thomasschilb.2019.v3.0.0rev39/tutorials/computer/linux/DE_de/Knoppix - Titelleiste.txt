@@ -1,0 +1,10 @@
+Zum wiederherstellen der Titelleiste genügt folgendes
+
+Compiz deaktivieren: metacity --replace &
+Compiz aktivieren: compiz &
+
+Emerald: emerald --replace &
+
+Systemwerkzeuge > Compiz Fusion Icon
+_______________________
+http://since.tipido.net
