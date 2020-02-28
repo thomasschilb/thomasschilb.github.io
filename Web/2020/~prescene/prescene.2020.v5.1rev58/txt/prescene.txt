@@ -1,0 +1,28 @@
+PRESCENE://
+
+: CLEARNET
+
+prescene.us.to
+prescene.xyz
+prescene.eu
+
+: CONTENT
+
+Latest Quality Links in 10 Sections
+Indexer
+IRC
+
+: SECTION
+
+ANONYM!ZE, BBS, DC, Emule, FTP, Onion,
+Torrent, Usenet, WEB, XDCC     
+
+: SUPPORT
+
+DC, FTP, HTTP, HTTPS, IRC, ONION, TELNET
+
+: EMAIL
+
+prescene{at}gmx.at
+
+//:PS
