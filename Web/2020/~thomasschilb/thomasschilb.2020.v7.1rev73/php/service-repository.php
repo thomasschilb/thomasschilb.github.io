@@ -97,11 +97,6 @@ a:hover {
 }
 
 
-.auto-style10 {
-	font-size: 10pt;
-}
-
-
 .auto-style11 {
 	color: #FFFFFF;
 	font-weight: normal;
@@ -148,16 +143,21 @@ a:hover {
 }
 
 
+.auto-style13 {
+	text-align: left;
+}
+
+
 </style>
 </head>
 
 <body style="margin: 0; color: #808080; background-color: #000000">
 <p class="table-footer-center">S E R V I C E : R E P O S I T O R Y&nbsp; |&nbsp; 
-6</p>
-<p><font color="#31C8F9">Directory</font></p>
+7</p>
+<p><font color="#31C8F9">Index of /opt/lampp/htdocs/</font></p>
 <table id="tstable" cellpadding="15" cellspacing="0" style="width: 100%" class="auto-style12">
 	<tr>
-		<th class="auto-style11" style="width: 184px">Index of /</th>
+		<th class="auto-style11" style="width: 184px">Directory</th>
 		<th class="auto-style11">Description</th>
 		<th class="auto-style11">Category</th>
 		<th class="auto-style11">&nbsp;</th>
@@ -180,6 +180,16 @@ a:hover {
 		Clansite / Official</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~kukuxclan/">
+		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
+	</tr>
+	<tr>
+		<td style="width: 184px">~openftp</td>
+		<td>
+		OpenFTP</td>
+		<td>
+		File-Sharing / FTP</td>
+		<td>
+		<a href="ftp://repository:guest@ftp.thomasschilb.network/~openftp/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
 	</tr>
 	<tr>
@@ -224,82 +234,85 @@ a:hover {
 	</tr>
 	</table>
 <p class="auto-style1"><font size="2"><em>Comment: "Get the actual 
-Sourcecode &amp; Content of all 5 Sites<br>for free via FTP!"</em></font></p>
+Sourcecode &amp; Content of all 7 Sites<br>for free via your FTP-Client, 
+Anonymous, Active Mode, Port 21"</em></font></p>
 <p>&nbsp;</p>
-<p class="auto-style6">Connection Data</p>
+<p class="auto-style6">Connection Data [5]</p>
 <table id="tstable" cellpadding="15" cellspacing="0" style="width: 100%">
 	<tr>
 		<th class="auto-style11" style="width: 73px">Service</th>
-		<th class="auto-style11" style="width: 116px">User</th>
+		<th class="auto-style13" style="width: 116px">&nbsp;</th>
 		<th class="auto-style11" style="width: 87px">Password</th>
 		<th class="auto-style11">Permission</th>
 		<th class="auto-style11">Folder</th>
+		<th class="auto-style11">Port</th>
 		<th class="auto-style11">&nbsp;</th>
 	</tr>
 	<tr>
 		<td valign="top" class="auto-style12" style="width: 73px">FTP</td>
-		<td valign="top" class="auto-style12" style="width: 116px">repository</td>
+		<td valign="top" class="auto-style12" style="width: 116px">repository-sites</td>
 		<td valign="top" style="width: 87px">guest</td>
 		<td valign="top">Read-Only</td>
-		<td valign="top">/</td>
+		<td valign="top">/opt/lampp/htdocs</td>
 		<td valign="top">
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/">
+		21, Active Mode (Port)</td>
+		<td valign="top">
+		<a href="ftp://repository:guest@ftp.thomasschilb.network/" target="_blank">
 		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
 	<tr>
-		<td valign="top" class="auto-style12" style="width: 73px">Git</td>
-		<td valign="top" class="auto-style12" style="width: 116px">thomasschilb</td>
+		<td valign="top" class="auto-style12" style="width: 73px">HTTPS</td>
+		<td valign="top" class="auto-style12" style="width: 116px">repository-ts</td>
 		<td valign="top" style="width: 87px">-</td>
 		<td valign="top">Read-Only</td>
-		<td valign="top">/thomasschilb.github.io</td>
+		<td valign="top">/opt/lampp/htdocs/~thomasschilb/dl</td>
 		<td valign="top">
-		<a href="http://thomasschilb.github.io/">
+		80, 443</td>
+		<td valign="top">
+		<a href="https://dl.thomasschilb.network" target="_blank">
+		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style12" style="width: 73px">HTTPS</td>
+		<td valign="top" class="auto-style12" style="width: 116px">
+		repository-tds</td>
+		<td valign="top" style="width: 87px">-</td>
+		<td valign="top">Read-Only</td>
+		<td valign="top">/opt/lampp/htdocs/~syndicate/tds-releases</td>
+		<td valign="top">
+		80, 443</td>
+		<td valign="top">
+		<a href="https://rls.syndicate.live/" target="_blank">
+		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style12" style="width: 73px">GIT</td>
+		<td valign="top" class="auto-style12" style="width: 116px">repository-sites</td>
+		<td valign="top" style="width: 87px">-</td>
+		<td valign="top">Read-Only</td>
+		<td valign="top">/thomasschilb.github.io/tree/master/Web/2020</td>
+		<td valign="top">
+		80, 443, 9418, GitHub</td>
+		<td valign="top">
+		<a href="https://github.com/thomasschilb/thomasschilb.github.io/tree/master/Web/2020" target="_blank">
+		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style12" style="width: 73px">SSH/SCP</td>
+		<td valign="top" class="auto-style12" style="width: 116px">sshd-ts</td>
+		<td valign="top" style="width: 87px">-</td>
+		<td valign="top">RemoteRootAccess</td>
+		<td valign="top">/root</td>
+		<td valign="top">
+		22</td>
+		<td valign="top">
+		<a href="ssh://ssh.thomasschilb.network:22" target="_blank">
 		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
 	</table>
-<p class="auto-style1"><font size="2"><em>Comment: "Upload via FTP or contact me 
-on GitHub."</em></font></p>
+<p class="auto-style1"><font size="2"><em>Comment: "Upload or Download with the 
+followin' Services above."</em></font></p>
 <p>&nbsp;</p>
-<p class="auto-style6">Service Running</p>
-<table id="tstable-privacy" cellpadding="15" cellspacing="0" style="width: 100%">
-	<tr>
-		<th class="auto-style11">ServiceAppName</th>
-		<th class="auto-style11">ServiceAppType</th>
-		<th class="auto-style11">ConnectionProtocolType</th>
-		<th class="auto-style11">Port</th>
-	</tr>
-	<tr>
-		<td class="auto-style10"><font class="auto-style12" size="2">
-		<span class="auto-style12">
-		ProFTPd</span></font></td>
-		<td>FileServer</td>
-		<td>FTP / FileTransferProtocol</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td class="auto-style10"><font class="auto-style12" size="2">
-		<span class="auto-style12">
-		ProFTPd</span></font></td>
-		<td>FileIndexer</td>
-		<td><span class="auto-style10"><font class="auto-style12" size="2">
-		<span class="auto-style12">
-		HTTP / HyperTextTransferProtocol</span></font></span></td>
-		<td><span class="auto-style10"><font class="auto-style12" size="2">
-		<span class="auto-style12">
-		80</span></font></span></td>
-	</tr>
-	<tr>
-		<td class="auto-style10"><font class="auto-style12" size="2">
-		<span class="auto-style12">
-		GitHub</span></font></td>
-		<td>FileRepository</td>
-		<td>HTTPS / HyperTextTransferProtocolSecure</td>
-		<td>80, 443</td>
-	</tr>
-	</table>
-<p class="auto-style1"><font size="2"><em>Comment: "Details about the Service 
-who is running on."</em></font></p>
-<p class="auto-style6">&nbsp;</p>
 <p class="auto-style6">Legende</p>
 <table id="tstable-privacy" cellpadding="15" cellspacing="0" style="width: 100%">
 	<tr>

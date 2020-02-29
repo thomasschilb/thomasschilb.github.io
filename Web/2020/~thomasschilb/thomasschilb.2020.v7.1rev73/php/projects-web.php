@@ -132,10 +132,10 @@ a:hover {
 		Service, Linklist, Contact, About</em></span></td>
 		<td valign="top">Develope &amp; Network / Private Forge</td>
 		<td valign="top">2020.v7.1rev73</td>
-		<td class="text-align-right" valign="top"><a href="http://thomasschilb.net">
-		<img height="16" src="img/www.png" width="16" align="top">&nbsp;</a><a href="http://thomasschilb.network"><img height="16" src="img/www.png" width="16" align="top"></a><br>
-		<a href="http://thomasschilb.work">
-		<img height="16" src="img/www.png" width="16" align="top"></a><a href="http://thomasschilb.net">&nbsp;</a><a href="http://thomasschilb.de"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<td class="text-align-right" valign="top"><a href="https://thomasschilb.net">
+		<img height="16" src="img/www.png" width="16" align="top">&nbsp;</a><a href="https://thomasschilb.network"><img height="16" src="img/www.png" width="16" align="top"></a><br>
+		<a href="https://thomasschilb.work">
+		<img height="16" src="img/www.png" width="16" align="top"></a><a href="https://thomasschilb.net">&nbsp;</a><a href="https://thomasschilb.de"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -144,8 +144,8 @@ a:hover {
 		<td valign="top">About: Family<br><br><span class="auto-style5"><em>Informations &amp; Media</em></span><br></td>
 		<td valign="top">Family / Private</td>
 		<td valign="top">2020.v0.1rev3</td>
-		<td class="text-align-right" valign="top"><a href="http://schilb.xyz/">
-		<img height="16" src="img/www.png" width="16" align="top">&nbsp;</a><a href="http://schilb.eu/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<td class="text-align-right" valign="top"><a href="https://schilb.xyz/">
+		<img height="16" src="img/www.png" width="16" align="top">&nbsp;</a><a href="https://schilb.eu/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -154,7 +154,7 @@ a:hover {
 		<td valign="top">Open FTP Server: Anonymous</td>
 		<td valign="top">File-Sharing / FTP</td>
 		<td valign="top">2020.v0.1rev0</td>
-		<td class="text-align-right" valign="top"><a href="http://openftp.xyz/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<td class="text-align-right" valign="top"><a href="https://openftp.xyz/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -164,7 +164,7 @@ a:hover {
 		<em>SSL / NOSSL</em></span></td>
 		<td valign="top">Chat / IRC</td>
 		<td valign="top">2020.v1.3rev11</td>
-		<td class="text-align-right" valign="top"><a href="http://openirc.xyz/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<td class="text-align-right" valign="top"><a href="https://openirc.xyz/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	</table>
 <p class="auto-style1"><em><font size="2">Comment: "My official sites which can 
@@ -189,10 +189,10 @@ be visited without any reservation!"</font></em></p>
 		Club, Hitler, Illuminati, Ku-Klux-Klan &amp; UNO</em></span></td>
 		<td class="auto-style3" valign="top">Clansite / Official</td>
 		<td class="auto-style3" valign="top">2019.v2.1.1</td>
-		<td class="text-align-right" valign="top"><a href="http://kukuxclan.xyz/">
+		<td class="text-align-right" valign="top"><a href="https://kukuxclan.xyz/">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"><font size="3">
 		</font>
-		</a><a href="http://kukuxclan.de/">
+		</a><a href="https://kukuxclan.de/">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"></a></td>
 	</tr>
 	<tr>
@@ -205,10 +205,10 @@ be visited without any reservation!"</font></em></p>
 		WEB, XDCC</em></span></td>
 		<td class="auto-style3" valign="top">Linklist</td>
 		<td class="auto-style3" valign="top">2020.v5.1rev57</td>
-		<td class="text-align-right" valign="top"><a href="http://prescene.xyz/">
+		<td class="text-align-right" valign="top"><a href="https://prescene.xyz/">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"><font size="3">
 		</font>
-		</a><a href="http://prescene.eu/">
+		</a><a href="https://prescene.eu/">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"></a></td>
 	</tr>
 	<tr>
@@ -220,10 +220,12 @@ be visited without any reservation!"</font></em></p>
 		Games, Tools, Tutorials &amp; IRC Chat</em></span></td>
 		<td class="auto-style3" valign="top">Underground / Scene</td>
 		<td class="auto-style3" valign="top">2020.v2.1rev23</td>
-		<td class="text-align-right" valign="top"><a href="http://digital-syndicate.xyz">
+		<td class="text-align-right" valign="top"><a href="https://digital-syndicate.xyz">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"><font size="3">
 		</font>
-		</a><a href="http://digital-syndicate.net">
+		</a><a href="https://digital-syndicate.net">
+		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"></a><br>
+		<a href="https://syndicate.live/" target="_blank">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"></a></td>
 	</tr>
 	</table>

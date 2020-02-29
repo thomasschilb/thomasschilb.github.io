@@ -4,7 +4,7 @@
 <head>
 <meta content="de" http-equiv="Content-Language">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<title>TS | Projects</title>
+<title>TS | Money</title>
 <style>
 
 /* BODY */
@@ -137,7 +137,7 @@ a:hover {
 		<td valign="top">EUR/WME/..</td>
 		<td class="auto-style1"> 
 <a href="https://passport.wmtransfer.com/asp/certview.asp?wmid=188169697117" target="_blank">
-<img border="0" src="https://cdn.web.money/passport/atstimg/88x31_user/88x31_wm_v_blue_on_white_en.png" alt="webmoney" height="31" longdesc="webmoney" width="88" align="middle"/></a></td>
+<img border="0" src="img/money-webmoney.png" alt="webmoney" longdesc="webmoney" align="middle"/></a></td>
 	</tr>
 	</table>
 <p class="auto-style1"><em><font size="2">Comment: "My official Partners in 
