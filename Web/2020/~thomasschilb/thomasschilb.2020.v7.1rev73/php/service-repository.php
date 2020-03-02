@@ -153,91 +153,8 @@ a:hover {
 
 <body style="margin: 0; color: #808080; background-color: #000000">
 <p class="table-footer-center">S E R V I C E : R E P O S I T O R Y&nbsp; |&nbsp; 
-7</p>
-<p><font color="#31C8F9">Index of /opt/lampp/htdocs/</font></p>
-<table id="tstable" cellpadding="15" cellspacing="0" style="width: 100%" class="auto-style12">
-	<tr>
-		<th class="auto-style11" style="width: 184px">Directory</th>
-		<th class="auto-style11">Description</th>
-		<th class="auto-style11">Category</th>
-		<th class="auto-style11">&nbsp;</th>
-	</tr>
-	<tr>
-		<td style="width: 184px">~syndicate</td>
-		<td>
-		The Digital Syndicate | TDS</td>
-		<td>
-		Underground / SCENE / Computer</td>
-		<td>
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/~syndicate/">
-		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
-	</tr>
-	<tr>
-		<td style="width: 184px">~kukuxclan</td>
-		<td>
-		Ku Kux Clan | KKC</td>
-		<td>
-		Clansite / OFFICIAL / Media</td>
-		<td>
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/~kukuxclan/">
-		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
-	</tr>
-	<tr>
-		<td style="width: 184px">~openftp</td>
-		<td>
-		Open | FTP</td>
-		<td>
-		File-Sharing / FTP / Anonymous</td>
-		<td>
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/~openftp/">
-		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
-	</tr>
-	<tr>
-		<td style="width: 184px">~openirc</td>
-		<td>
-		Open | IRC</td>
-		<td>
-		Chat / IRC / Daemon &amp; Webclient</td>
-		<td>
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/~openirc/">
-		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
-	</tr>
-	<tr>
-		<td style="width: 184px">~prescene</td>
-		<td>
-		PRESCENE | PS</td>
-		<td>
-		Linklist / PRE / Site Indexer</td>
-		<td>
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/~prescene/">
-		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
-	</tr>
-	<tr>
-		<td style="width: 184px">~schilb</td>
-		<td>
-		Family | Schilb</td>
-		<td>
-		Family / PRIVATE / Media</td>
-		<td>
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/~schilb/">
-		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
-	</tr>
-	<tr>
-		<td style="width: 184px">~thomasschilb</td>
-		<td>
-		Thomas Schilb | TS</td>
-		<td>
-		Develope &amp; Network / PRIVATE / Forge</td>
-		<td>
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/~thomasschilb/">
-		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
-	</tr>
-	</table>
-<p class="auto-style1"><font size="2"><em>Comment: "Get the actual 
-Sourcecode &amp; Content of all 7 Sites<br>for free via your FTP-Client, 
-Anonymous, Active Mode, Port 21"</em></font></p>
-<p>&nbsp;</p>
-<p class="auto-style6">Connection Data [5]</p>
+3</p>
+<p class="auto-style6">Connection Data [3]</p>
 <table id="tstable" cellpadding="15" cellspacing="0" style="width: 100%">
 	<tr>
 		<th class="auto-style11" style="width: 73px">Service</th>
@@ -247,18 +164,6 @@ Anonymous, Active Mode, Port 21"</em></font></p>
 		<th class="auto-style11">Folder</th>
 		<th class="auto-style11">Port</th>
 		<th class="auto-style11">&nbsp;</th>
-	</tr>
-	<tr>
-		<td valign="top" class="auto-style12" style="width: 73px">FTP</td>
-		<td valign="top" class="auto-style12" style="width: 116px">repository-sites</td>
-		<td valign="top" style="width: 87px">guest</td>
-		<td valign="top">Read-Only</td>
-		<td valign="top">/opt/lampp/htdocs</td>
-		<td valign="top">
-		21, Active Mode (Port)</td>
-		<td valign="top">
-		<a href="ftp://repository:guest@ftp.thomasschilb.network/" target="_blank">
-		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
 	<tr>
 		<td valign="top" class="auto-style12" style="width: 73px">HTTPS</td>
@@ -297,21 +202,9 @@ Anonymous, Active Mode, Port 21"</em></font></p>
 		<a href="https://github.com/thomasschilb/thomasschilb.github.io/tree/master/Web/2020" target="_blank">
 		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
-	<tr>
-		<td valign="top" class="auto-style12" style="width: 73px">SSH/SCP</td>
-		<td valign="top" class="auto-style12" style="width: 116px">sshd-ts</td>
-		<td valign="top" style="width: 87px">-</td>
-		<td valign="top">RemoteRootAccess</td>
-		<td valign="top">/root</td>
-		<td valign="top">
-		22</td>
-		<td valign="top">
-		<a href="ssh://ssh.thomasschilb.network:22" target="_blank">
-		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
-	</tr>
 	</table>
-<p class="auto-style1"><font size="2"><em>Comment: "Upload or Download with the 
-followin' Services above."</em></font></p>
+<p class="auto-style1"><font size="2"><em>Comment: "Upload to Git. Download of 
+Sites."</em></font></p>
 <p>&nbsp;</p>
 <p class="auto-style6">Legende</p>
 <table id="tstable-privacy" cellpadding="15" cellspacing="0" style="width: 100%">

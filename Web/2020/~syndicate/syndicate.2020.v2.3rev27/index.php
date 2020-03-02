@@ -300,9 +300,9 @@ li.dropdown {
     <li class="dropdown">
     <a target="_self" href="javascript:void(0)" class="dropbtn">Services</a>
     <div class="dropdown-content">
-		<a target="_self" href="?to=syndicate:ftp">AddFiles@Ftp</a>
-		<a target="_self" href="?to=syndicate:irc">Chat@Irc</a>
-		<a target="_self" href="?to=syndicate:api:whatsapp">SendMessage@WhatsApp</a>
+		<a target="_self" href="?to=syndicate:ftp">FTP.AddFiles</a>
+		<a target="_self" href="?to=syndicate:irc">IRC.Chat</a>
+		<a target="_self" href="?to=syndicate:api:whatsapp">WHATSAPP.SendMessage</a>
     </div>
   </li>
   
