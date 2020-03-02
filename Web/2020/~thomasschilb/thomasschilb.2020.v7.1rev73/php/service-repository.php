@@ -165,9 +165,9 @@ a:hover {
 	<tr>
 		<td style="width: 184px">~syndicate</td>
 		<td>
-		The Digital Syndicate</td>
+		The Digital Syndicate | TDS</td>
 		<td>
-		Underground / Scene</td>
+		Underground / SCENE / Computer</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~syndicate/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
@@ -175,9 +175,9 @@ a:hover {
 	<tr>
 		<td style="width: 184px">~kukuxclan</td>
 		<td>
-		Ku Kux Clan</td>
+		Ku Kux Clan | KKC</td>
 		<td>
-		Clansite / Official</td>
+		Clansite / OFFICIAL / Media</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~kukuxclan/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
@@ -185,9 +185,9 @@ a:hover {
 	<tr>
 		<td style="width: 184px">~openftp</td>
 		<td>
-		OpenFTP</td>
+		Open | FTP</td>
 		<td>
-		File-Sharing / FTP</td>
+		File-Sharing / FTP / Anonymous</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~openftp/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
@@ -195,9 +195,9 @@ a:hover {
 	<tr>
 		<td style="width: 184px">~openirc</td>
 		<td>
-		OpenIRC</td>
+		Open | IRC</td>
 		<td>
-		Chat / IRC</td>
+		Chat / IRC / Daemon &amp; Webclient</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~openirc/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
@@ -205,9 +205,9 @@ a:hover {
 	<tr>
 		<td style="width: 184px">~prescene</td>
 		<td>
-		PRESCENE</td>
+		PRESCENE | PS</td>
 		<td>
-		Linklist</td>
+		Linklist / PRE / Site Indexer</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~prescene/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
@@ -215,9 +215,9 @@ a:hover {
 	<tr>
 		<td style="width: 184px">~schilb</td>
 		<td>
-		Family Schilb</td>
+		Family | Schilb</td>
 		<td>
-		Family / Private</td>
+		Family / PRIVATE / Media</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~schilb/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
@@ -225,9 +225,9 @@ a:hover {
 	<tr>
 		<td style="width: 184px">~thomasschilb</td>
 		<td>
-		TS</td>
+		Thomas Schilb | TS</td>
 		<td>
-		Develope &amp; Network / Private Forge</td>
+		Develope &amp; Network / PRIVATE / Forge</td>
 		<td>
 		<a href="ftp://repository:guest@ftp.thomasschilb.network/~thomasschilb/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>

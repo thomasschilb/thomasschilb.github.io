@@ -113,7 +113,7 @@ a:hover {
 
 <body style="margin: 0; color: #808080; background-color: #000000">
 <p class="table-footer-center">P R O J E C T S : W E B&nbsp; |&nbsp; 7</p>
-<p><font color="#31C8F9">Official [3]</font></p>
+<p><font color="#31C8F9">Official [4]</font></p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
 		<th class="auto-style4">i</th>
@@ -150,16 +150,19 @@ a:hover {
 	<tr>
 		<td valign="top">
 		<img height="16" src="favicons/openirc-favicon.png" width="16" align="top"></td>
-		<td valign="top">OPENFTP</td>
-		<td valign="top">Open FTP Server: Anonymous</td>
+		<td valign="top">Open | FTPd</td>
+		<td valign="top">Open FTP Server: Anonymous<br><br>
+		<span class="auto-style5"><em>HttpsFileIndexer / FtpFileServer</em></span></td>
 		<td valign="top">File-Sharing / FTP</td>
 		<td valign="top">2020.v0.1rev0</td>
-		<td class="text-align-right" valign="top"><a href="https://openftp.xyz/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<td class="text-align-right" valign="top">
+		<a href="https://openftp.xyz/">
+		<img height="16" src="img/www.png" width="16" align="top"></a><a href="https://schilb.xyz/">&nbsp;</a><a href="ftp://ftp.openftp.xyz/"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
 		<img height="16" src="favicons/openirc-favicon.png" width="16" align="top"></td>
-		<td valign="top">OPENIRC</td>
+		<td valign="top">Open | IRCd</td>
 		<td valign="top">Open IRC Server: Chat<br><br><span class="auto-style5">
 		<em>SSL / NOSSL</em></span></td>
 		<td valign="top">Chat / IRC</td>
@@ -188,7 +191,7 @@ be visited without any reservation!"</font></em></p>
 		Media<br><br><span class="auto-style5"><em>We are Legions of Anonymous, Chaos Computer 
 		Club, Hitler, Illuminati, Ku-Klux-Klan &amp; UNO</em></span></td>
 		<td class="auto-style3" valign="top">Clansite / Official</td>
-		<td class="auto-style3" valign="top">2019.v2.1.1</td>
+		<td class="auto-style3" valign="top">2020.v0.1rev0</td>
 		<td class="text-align-right" valign="top"><a href="https://kukuxclan.xyz/">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"><font size="3">
 		</font>
@@ -219,7 +222,7 @@ be visited without any reservation!"</font></em></p>
 		Underground Site, since 2012<br><br><span class="auto-style5"><em>IT-News, Links, Software, 
 		Games, Tools, Tutorials &amp; IRC Chat</em></span></td>
 		<td class="auto-style3" valign="top">Underground / Scene</td>
-		<td class="auto-style3" valign="top">2020.v2.1rev23</td>
+		<td class="auto-style3" valign="top">2020.v2.1rev27</td>
 		<td class="text-align-right" valign="top"><a href="https://digital-syndicate.xyz">
 		<img height="16" src="img/www.png" width="16" align="top" class="auto-style3"><font size="3">
 		</font>
