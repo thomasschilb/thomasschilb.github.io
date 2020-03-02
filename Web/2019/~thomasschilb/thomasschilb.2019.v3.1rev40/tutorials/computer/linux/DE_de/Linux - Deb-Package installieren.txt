@@ -1,3 +1,0 @@
-Debian Packages installieren
-
- dpkg --install --force-all packetname

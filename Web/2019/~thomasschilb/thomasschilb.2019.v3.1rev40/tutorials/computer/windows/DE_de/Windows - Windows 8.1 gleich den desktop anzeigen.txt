@@ -1,7 +1,0 @@
-Windows 8.1 gleich den desktop anzeigen:
-
-1. Rechtsklick auf "Eigenschaften" der Startleiste
-2. Unter dem tab "Navigation" ersten Haken unter Startseite
-   mit "Beim Anmelden oder schließen....."
-
-//since

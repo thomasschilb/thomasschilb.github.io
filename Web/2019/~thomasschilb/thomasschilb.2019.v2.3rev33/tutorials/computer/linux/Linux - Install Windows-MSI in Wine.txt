@@ -1,3 +1,0 @@
-Install Windows-MSI in Wine:
-
-wine msiexec /i *.msi

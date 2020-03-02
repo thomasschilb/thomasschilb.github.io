@@ -1,6 +1,0 @@
-sudo apt-get install wine
-
-Vorgeschlagene Pakete:
-
-opus-tools ttf-mscorefonts-installer
-winbind avscan klamav clamav

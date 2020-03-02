@@ -1,7 +1,0 @@
-Change Environment Variables
-
-1. System Controls > All System Control Elements > System
-2. Extended Systemoptions
-3. Evironmentvariables (at best PATH to change Systemvariables)
-
-//tsc

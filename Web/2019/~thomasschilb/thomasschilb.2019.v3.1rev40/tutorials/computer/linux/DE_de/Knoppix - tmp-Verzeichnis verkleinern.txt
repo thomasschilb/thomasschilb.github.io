@@ -1,8 +1,0 @@
-Knoppix-Debian /tmp Verzeichnis
-
-How to decrease the size of tmpfs (/tmp)?
-
-(512M,1G,..)
-
-view: df -v
-remount and give size: mount -t tmpfs -o remount,size=512M tmpfs /tmp

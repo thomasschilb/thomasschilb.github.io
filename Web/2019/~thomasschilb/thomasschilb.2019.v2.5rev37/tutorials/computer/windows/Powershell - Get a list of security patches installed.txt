@@ -1,6 +1,0 @@
-Get a list of security patches installed in the last 90 days just enter:
-
-PS C:\> Get-CimInstance -Class win32_quickfixengineering | Where-Object { $_.InstalledOn -gt (Get-Date).AddMonths(-3) }
-
-
-So 90 days are -3

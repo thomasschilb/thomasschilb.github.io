@@ -1,8 +1,0 @@
-Just use the Show-Command cmdlet with any PowerShell cmdlet to get a GUI interface:
-
-PS C:\> Show-Command ls
-
-
-or standalone for a list of all cmdlets
-
-PS C:\> Show-Command

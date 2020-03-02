@@ -1,6 +1,0 @@
-To download a file via console just enter:
-
-PS C:\users\tsc\desktop> wget http://thomasschilb.com/filename.7z -OutFile filename.7z
-
-
-The file should download to your desktop now.

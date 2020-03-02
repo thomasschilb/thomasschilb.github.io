@@ -1,7 +1,0 @@
-Umgebungsvariablen ändern
-
-1. Systemsteuerung\Alle Systemsteuerungselemente\System
-2. Erweiterte Systemeinstellungen
-3. Umgebungsvariablen (am besten PATH in Systemvariablen ändern)
-
-//since

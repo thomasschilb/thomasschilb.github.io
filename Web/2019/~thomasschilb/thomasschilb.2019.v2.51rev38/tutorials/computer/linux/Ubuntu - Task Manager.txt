@@ -1,7 +1,0 @@
-Ubuntu - Task Manager
-
-
-1. How to install a Task-Manager in Linux?
-
-gnome-system-monitor
-sudo apt-get install gnome-system-monitor

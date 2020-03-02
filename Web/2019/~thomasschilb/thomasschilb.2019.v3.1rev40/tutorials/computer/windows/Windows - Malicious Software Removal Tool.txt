@@ -1,8 +1,0 @@
-Malicious Software Removal Tool manuell starten:
-
-1) Klick auf Start, Ausführen
-2) Schreibe MRT und drücke Enter
-3) Klick auf die Weiter Button und wähle eine Scanmethode aus
-
-Unter jedem Windows XP SP3 - 10 gibt es ein monatliches Update.
-Es entfernt Viren und Malware.
