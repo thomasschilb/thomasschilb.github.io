@@ -5,7 +5,7 @@
 <meta content="de" http-equiv="Content-Language">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
-<title>TDS | Tools</title>
+<title>TDS | About Us</title>
 <style>
 /* BODY */
 
@@ -93,6 +93,13 @@ a:hover {
   border-collapse: collapse;
 }
 
+.auto-style12 {
+	color: #00FF00;
+}
+.auto-style13 {
+	color: #FF0000;
+}
+
 #tstable0 {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -113,21 +120,77 @@ a:hover {
 
 <body style="margin: 0; color: #808080; background-color: #000000">
 <p class="auto-style8">
-W H A T S A P P</p>
+A B O U T&nbsp;&nbsp; U S</p>
 <p class="auto-style7">
 &nbsp;</p>
 <p class="auto-style2">
 <table id="tstable-privacy" align="center" cellpadding="15" cellspacing="0" style="width: 100%">
 	<tr>
-		<th class="auto-style5">Send Message</th>
+		<th class="auto-style5" colspan="2">Site</th>
 	</tr>
 	<tr>
 		<td class="auto-style11" valign="top">
-		<form action="https://api.whatsapp.com/send?phone={phoneNumber}&amp;text={message}" enctype="utf-8" method="post" name="api.whatsapp" target="_blank">
-		<input name="api.whatsapp.text" type="text" size="80" /> <br><br>
-		<input name="api.whatsapp.submit" type="submit" value="send" /></form>
+		Bandwidth<br><span class="auto-style15">[max.]</span></td>
+		<td class="auto-style11" valign="top">
+		~100mb/s = 800mbit/s</td>
+	</tr>
+	<tr>
+		<td class="auto-style11" valign="top">
+
+		Domains</td>
+		<td class="auto-style11" valign="top">
+
+		<span class="auto-style12">Primary: <a href="https://syndicate.live">
+		syndicate.live</a></span><span class="auto-style13"><br>Secondary:
+		<a href="https://digital-syndicate.us.to">digital-syndicate.us.to</a></span></td>
+	</tr>
+	<tr>
+		<td class="auto-style11" valign="top">
 		
-		</td>
+
+
+		Founded</td>
+		<td class="auto-style11" valign="top">
+		
+
+
+		2012-05-05</td>
+	</tr>
+	<tr>
+		<td class="auto-style11" valign="top">
+		
+		Last Update<br><span class="auto-style15">[12:10pm]</span></td>
+		<td class="auto-style11" valign="top">
+		
+		2020-MARCH-07</td>
+	</tr>
+	<tr>
+		<td class="auto-style11" valign="top">
+		
+		Screensize</td>
+		<td class="auto-style11" valign="top">
+		
+		800x600px or above</td>
+	</tr>
+	<tr>
+		<td class="auto-style11" valign="top">
+		
+
+
+		Traffic<br><span class="auto-style15">[ALL]</span></td>
+		<td class="auto-style11" valign="top">
+		
+
+
+		Unlimited</td>
+	</tr>
+	<tr>
+		<td class="auto-style11" valign="top">
+		
+		Version</td>
+		<td class="auto-style11" valign="top">
+		
+		2020.v2.3rev27</td>
 	</tr>
 	</table>
 </p>
@@ -142,7 +205,7 @@ W H A T S A P P</p>
 		<td class="auto-style11" valign="top">
 		Large<br><span class="auto-style15">[468x60px]</span></td>
 		<td class="auto-style11">
-		<a href="http://syndicate.live" title=".TDS">
+		<a href="https://syndicate.live/" target="_blank" title=".TDS">
 		<img height="60" src="img/syndicate-banner-large.png" width="468"></a></td>
 	</tr>
 	<tr>
@@ -151,7 +214,7 @@ W H A T S A P P</p>
 		Small<br><span class="auto-style15">[88x31px]</span></td>
 		<td class="auto-style11">
 
-		<a href="http://syndicate.live" title=".TDS">
+		<a href="https://syndicate.live/" target="_blank" title=".TDS">
 
 		<img height="31" src="img/syndicate-banner-small.png" width="88"></a></td>
 	</tr>

@@ -273,13 +273,13 @@ G A M E S</p>
 	<tr>
 		<td>
 		
-		Age of Empires: Definitive Edition</td>
+		Anno 2205</td>
 		<td colspan="2">
-		17.17gb</td>
+		11.9gb</td>
 		<td>
 		Strategy</td>
 		<td>
-		<a href="magnet:?xt=urn:btih:5a6db048b5af396cc703cc3fc93413ed58aadcd6&amp;dn=Age+of+Empires+Definitive+Edition-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969">
+		<a href="magnet:?xt=urn:btih:12F47A625D21D28227374735DFA6A941689108A5&amp;dn=Anno+2205-CODEX&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=http%3A%2F%2Ftracker.pubt.net%3A2710%2Fannounce&amp;tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&amp;tr=udp%3A%2F%2Ftracker4.piratux.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2F11.rarbg.com%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.pomf.se%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce">
 		<img height="16" src="img/ml.png" style="float: right" width="16"></a></td>
 	</tr>
 	<tr>

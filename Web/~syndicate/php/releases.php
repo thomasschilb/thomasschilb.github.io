@@ -254,7 +254,7 @@ Pre-Releases and NonPre-Releases."</em></p>
 		<td><a href="https://www.7-zip.org/">7-Zip Archives</a></td>
 		<td>80, 443</td>
 		<td>
-		<a href="https://rls.syndicate.live/" target="_blank">
+		<a href="https://syndicate.live/tds-releases" target="_blank">
 		<img height="16" src="img/dl.png" width="16" style="float: right" class="auto-style13"></a></td>
 	</tr>
 </table>

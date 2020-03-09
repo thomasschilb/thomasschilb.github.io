@@ -349,11 +349,11 @@ with..."</em></p>
 		<td valign="top" style="width: 148px">Banner<br>
 		<span class="font-small">[88x31px]</span></td>
 		<td valign="top">
-		<a href="https://thomasschilb.net" target="_blank" title=".ts">
+		<a href="https://thomasschilb.network" target="_blank" title=".ts">
 		<img class="picture-border-null" height="31" src="img/ts-banner.png" width="88" align="top"></a></td>
 	</tr>
 	<tr>
-		<td valign="top" style="width: 148px">Domain [5]<br>
+		<td valign="top" style="width: 148px">Domain [2]<br>
 		<span class="font-small">[DNS]</span></td>
 		<td valign="top" class="auto-style4">
 		<span class="font-10pt"><span class="font-small">
@@ -369,7 +369,7 @@ with..."</em></p>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 148px">Last Update</td>
-		<td valign="top">2020-MARCH-07, 09:45am</td>
+		<td valign="top">2020-MARCH-08, 01:03am</td>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 148px">Optimized for</td>
