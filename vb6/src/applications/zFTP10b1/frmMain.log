@@ -1,0 +1,11 @@
+Line 24: Class MSWinsockLib.Winsock of control sckData was not a loaded control class.
+Line 32: Class MSWinsockLib.Winsock of control sckConn was not a loaded control class.
+Line 49: Class MSComctlLib.ImageCombo of control cboRemote was not a loaded control class.
+Line 80: Class MSComctlLib.ListView of control lstRemote was not a loaded control class.
+Line 169: Class MSComctlLib.ImageList of control ImgGeneral was not a loaded control class.
+Line 187: Class MSComctlLib.ImageList of control ImgFileSys was not a loaded control class.
+Line 229: Class MSComctlLib.ImageList of control ImgTools was not a loaded control class.
+Line 279: Class MSComctlLib.ImageCombo of control cboLookInLocal was not a loaded control class.
+Line 301: Class MSComctlLib.ListView of control lstLocal was not a loaded control class.
+Line 367: Class MSComctlLib.ListView of control lstQueue was not a loaded control class.
+Line 417: Class MSComctlLib.Toolbar of control tbTools was not a loaded control class.
