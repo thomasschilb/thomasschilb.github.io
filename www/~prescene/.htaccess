@@ -1,0 +1,13 @@
+DirectoryIndex index.php .load
+
+Options All
+
+IndexOptions FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=*
+
+#<IfModule mod_rewrite.c>
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+#</IfModule>
+
