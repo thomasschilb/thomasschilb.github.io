@@ -28,8 +28,7 @@ body {
 			font-family: 'Open Sans', sans-serif;
 			margin: 0;
 			color: #000000;
-			background-color: #FFFFFF;
-}
+			}
 
 font {
 				font-family: 'Open Sans', sans-serif;
@@ -191,10 +190,21 @@ hr {
 .auto-style4 {
 	font-size: 20pt;
 }
+.auto-style5 {
+	background-color: #666666;
+	text-align: center;
+	color: #FFFFFF;
+}
+.auto-style6 {
+	background-color: #666666;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 30pt;
+}
 </style>
 </head>
 
-<body>
+<body style="background-color: #333333">
 
 <table cellpadding="10" cellspacing="0" style="width: 100%">
 	<tr>
@@ -275,7 +285,7 @@ connect!</span><br>&nbsp;<br></p>
 		&nbsp;</span><br class="auto-style1">
 		<span class="openirc-style23">IRCd<br><br></span><span class="text-grey">
 		<span class="openirc-style20">UnrealIRCd 5.x</span></span><br <br class="openirc-style20">
-		<span class="auto-style1">&nbsp;</span><br class="openirc-style20"><span class="openirc-style23">Version<br><br></span><span class="text-grey"><span class="openirc-style20">openirc.*.2020.v1.3rev11</span><br class="openirc-style20">
+		<span class="auto-style1">&nbsp;</span><br class="openirc-style20"><span class="openirc-style23">Version<br><br></span><span class="text-grey"><span class="openirc-style20">openirc.*.2020.v1.3rev12</span><br class="openirc-style20">
 		<span class="auto-style1">&nbsp;&nbsp;<br class="openirc-style20">
 		<span class="openirc-style23">Contact<br><br></span>
 		<span class="openirc-style20"><a href="mailto:thomas.schilb@live.de">
@@ -283,9 +293,19 @@ connect!</span><br>&nbsp;<br></p>
 		&nbsp;</span></span></td>
 	</tr>
 	<tr>
+		<td class="auto-style5"></td>
+</tr>
+	<tr>
+		<td class="auto-style6">
+		© 2020 OpenIRCd</td>
+</tr>
+	<tr>
 		<td class="openirc-style11">
-<p class="openirc-style7">© 2020 Open | IRCd | No.&nbsp; <? include ("c.php");?></p>
+<p class="openirc-style7">No.&nbsp; <? include ("c.php");?></p>
 </td>
+</tr>
+	<tr>
+		<td class="openirc-style11"></td>
 </tr>
 </table>
 

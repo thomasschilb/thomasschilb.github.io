@@ -133,7 +133,7 @@ a:hover {
 		<td valign="top">Develope &amp; Network / Private Forge</td>
 		<td valign="top">2020.v7.1rev73</td>
 		<td class="text-align-right" valign="top">
-		<a href="http://thomasschilb.network" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<a href="https://thomasschilb.network/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -143,7 +143,7 @@ a:hover {
 		<td valign="top">Family / Private</td>
 		<td valign="top">2020.v0.1rev3</td>
 		<td class="text-align-right" valign="top">
-		<a href="http://schilb.xyz" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<a href="https://schilb.family" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	</table>
 <p class="auto-style1"><em><font size="2">Comment: "My official sites which can 
@@ -180,7 +180,7 @@ be visited without any reservation!"</font></em></p>
 		<td class="auto-style3" valign="top">File-Sharing / FTP</td>
 		<td class="auto-style3" valign="top">2020.v0.1rev2</td>
 		<td class="text-align-right" valign="top">
-		<a href="http://openftpd.com" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<a href="https://openftpd.com/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -191,7 +191,7 @@ be visited without any reservation!"</font></em></p>
 		<td class="auto-style3" valign="top">Chat / IRC</td>
 		<td class="auto-style3" valign="top">2020.v1.3rev11</td>
 		<td class="text-align-right" valign="top">
-		<a href="http://openircd.com" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<a href="https://openircd.com/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -204,7 +204,7 @@ be visited without any reservation!"</font></em></p>
 		<td class="auto-style3" valign="top">Linklist</td>
 		<td class="auto-style3" valign="top">2020.v5.1rev57</td>
 		<td class="text-align-right" valign="top">
-		<a href="http://prescene.xyz" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<a href="https://prescene.xyz" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -216,7 +216,7 @@ be visited without any reservation!"</font></em></p>
 		<td class="auto-style3" valign="top">Underground / Scene</td>
 		<td class="auto-style3" valign="top">2020.v2.1rev27</td>
 		<td class="text-align-right" valign="top">
-		<a href="http://syndicate.live" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<a href="https://syndicate.live/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	</table>
 <p class="auto-style1"><font size="2"><em>Comment: "My unofficial sites with 
