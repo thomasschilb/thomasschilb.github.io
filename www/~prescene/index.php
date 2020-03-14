@@ -227,7 +227,7 @@ a:hover {
 		<strong>XDCC</strong></a></span><br>&nbsp;<br></td>
 	</tr>
 	<tr><td style="height: 23px; width: 679px;" class="text-align-left-grey-13pt">
-		384 Entries</td><td style="height: 23px;" class="header">
+		385 Entries</td><td style="height: 23px;" class="header">
 		<font>
 		No. <?php include("c.php"); ?>
 		</td></tr>
