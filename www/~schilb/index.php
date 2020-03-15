@@ -108,6 +108,11 @@ p {
 	background-color: #085089;
 	color: #0B77CC;
 }
+.auto-style1 {
+	background-color: #085089;
+	color: #0B77CC;
+	text-align: center;
+}
 </style>
 </head>
 
@@ -140,22 +145,22 @@ p {
 				<td class="menu-bg">
 				<table align="left" cellpadding="5" cellspacing="0">
 					<tr>
-						<td style="width: 14px" class="header-bluebutton">&Uuml;</td>
+						<td style="width: 14px" class="auto-style1">&Uuml;</td>
 						<td><a href="?to=uberuns" target="_self">&Uuml;ber Uns</a></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="header-bluebutton">M</td>
+						<td style="width: 15px" class="auto-style1">M</td>
 						<td> <span class="color-fff">
 						<a href="?to=medien" target="_self">Medien</a></span></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="header-bluebutton">I</td>
+						<td style="width: 15px" class="auto-style1">I</td>
 						<td>
 				<a href="?to=info" target="_self">Info</a></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="header-bluebutton">I</td>
+						<td style="width: 15px" class="auto-style1">I</td>
 						<td>
 				<a href="?to=impressum" target="_self">Impressum</a></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="header-bluebutton">K</td>
+						<td style="width: 15px" class="auto-style1">K</td>
 						<td>
 				<a href="?to=kontakt" target="_self">Kontakt</a></td>
 					</tr>
