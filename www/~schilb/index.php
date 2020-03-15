@@ -145,7 +145,7 @@ p {
 						<td style="width: 15px">&nbsp;</td>
 						<td style="width: 15px" class="header-bluebutton">M</td>
 						<td> <span class="color-fff">
-						<a href="?to=media" target="_self">Medien</a></span></td>
+						<a href="?to=medien" target="_self">Medien</a></span></td>
 						<td style="width: 15px">&nbsp;</td>
 						<td style="width: 15px" class="header-bluebutton">I</td>
 						<td>
@@ -176,7 +176,7 @@ p {
 $to = $_GET['to'];
 # include given
 if ($to == "start")       			{include("content/start.html");}
-elseif ($to == "media")  			{include("content/media.html");}
+elseif ($to == "medien")  			{include("content/medien.html");}
 elseif ($to == "kontakt")  			{include("content/kontakt.php");}
 elseif ($to == "uberuns")  			{include("content/uberuns.html");}
 elseif ($to == "impressum")  		{include("content/impressum.html");}
