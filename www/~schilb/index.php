@@ -19,8 +19,8 @@
 <meta name="revisit" content="2 Days"> 
 <meta name="revisit-after" content="2 Days"> 
 <meta name="alexa" content="100">
+<meta content="de" http-equiv="Content-Language">
 <base target="_blank">
-<title>Familie | Schilb</title>
 <link href="https://fonts.googleapis.com/css?family=Inter:300" rel="stylesheet">
 
 <style type="text/css">
