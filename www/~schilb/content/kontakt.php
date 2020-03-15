@@ -145,10 +145,10 @@ button:hover {
 	font-size: 15pt;
 }
 
-.auto-style1 {
+.text-align-center {
 	text-align: center;
 }
-.auto-style2 {
+.text-align-center-font-15pt {
 	text-align: center;
 	font-size: 15pt;
 	font-family: Inter, sans-serif;
@@ -157,10 +157,6 @@ button:hover {
 	color: #FFFFFF;
 }
 
-.auto-style4 {
-	font-size: 15pt;
-	font-family: Inter, sans-serif;
-}
 .auto-style5 {
 	text-align: center;
 	font-size: 15pt;
@@ -175,10 +171,6 @@ button:hover {
 	font-family: Inter, sans-serif;
 	background-color: #000000;
 }
-.auto-style7 {
-	color: #FFFFFF;
-	background-color: #000000;
-}
 
 </style>
 </head>
@@ -189,10 +181,10 @@ button:hover {
 <p class="auto-style5">Anliegen, Fragen, Vorschläge?</p>
 <p class="auto-style5">
 <a href="mailto:info@schilb.family">info@schilb.family</a></p>
-<p class="auto-style2">&nbsp;</p>
-<p class="auto-style1"><span class="auto-style7">&nbsp;</span><span class="header-bluebutton"><span class="contact-title-0">Beschwerde?</span></span></p>
-<p class="auto-style1"><a href="mailto:abuse@schilb.family">
-<span class="auto-style4">abuse@schilb.family</span></a></p>
+<p class="text-align-center-font-15pt">&nbsp;</p>
+<p class="text-align-center"><span class="auto-style5">&nbsp;Beschwerde?</span></p>
+<p class="text-align-center"><a href="mailto:abuse@schilb.family">
+<span class="text-align-center-font-15pt">abuse@schilb.family</span></a></p>
 <p class="copyright">&nbsp;</p>
 
 </body>
