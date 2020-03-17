@@ -189,24 +189,72 @@ a:hover {
 	color: #000000;
 	text-align: center;
 }
-.auto-style5 {
-	/*font-family: 'Open Sans', sans-serif;*/
-												 font-size: 13pt;
-	color: #000000;
-	text-align: center;
-	background-color: #4D4D4D;
-}
-.auto-style6 {
-	font-size: 50pt;
-}
-.auto-style7 {
-	font-size: 21pt;
-}
 .auto-style8 {
 	/*font-family: 'Open Sans', sans-serif;*/
 												 font-size: 13pt;
 	color: #808080;
 	text-align: center;
+}
+.auto-style9 {
+	font-size: 25pt;
+	color: #808080;
+}
+.auto-style10 {
+	/*font-family: 'Open Sans', sans-serif;*/
+												 font-size: 13pt;
+	color: #000000;
+	text-align: right;
+}
+.auto-style11 {
+	/*font-family: 'Open Sans', sans-serif;*/
+												 font-size: 25pt;
+	color: #808080;
+	text-align: left;
+}
+.auto-style12 {
+	/*font-family: 'Open Sans', sans-serif;*/
+												 font-size: 25pt;
+	color: #FFFFFF;
+	text-align: left;
+	background-color: #4D4D4D;
+	font-family: Abel, sans-serif;
+}
+.auto-style13 {
+	font-family: Abel, sans-serif;
+}
+.auto-style17 {
+	font-size: 25pt;
+}
+.auto-style19 {
+	/*font-family: 'Open Sans', sans-serif;*/
+												 font-size: 25pt;
+	color: #000000;
+	text-align: center;
+}
+.auto-style21 {
+	/*font-family: 'Open Sans', sans-serif;*/
+												 font-size: 13pt;
+	color: #FFFFFF;
+	text-align: left;
+	background-color: #555555;
+}
+.auto-style22 {
+	/*font-family: 'Open Sans', sans-serif;*/
+												 font-size: 25pt;
+	color: #FFFFFF;
+	text-align: left;
+	font-family: Abel, sans-serif;
+	background-color: #555555;
+}
+.auto-style23 {
+	/*font-family: 'Open Sans', sans-serif;*/
+												 font-size: 13pt;
+	color: #000000;
+	text-align: left;
+}
+.auto-style24 {
+	font-family: Abel, sans-serif;
+	color: #00FF00;
 }
 </style>
 <title>OpenFTPd</title>
@@ -215,31 +263,58 @@ a:hover {
 <font>
 <table cellpadding="13" cellspacing="0" style="width: 100%">
 	<tr>
-		<td class="footer-13pt"></td>
+		<td class="auto-style10">
+<font>
+		<span class="auto-style9">v0.1rev3-ftp</span></font></td>
 	</tr>
 	<tr>
 		<td class="auto-style3"><span class="color-green">Open</span><span class="auto-style2">FTPd</span></td></tr>
 	<tr>
-		<td class="footer-13pt"></td>
+		<td class="auto-style11">
+		&nbsp; &nbsp;</td>
 	</tr>
 	<tr>
-		<td class="auto-style5"></td>
+		<td class="auto-style21">
+		<font class="auto-style17">
+		Welcome to OpenFTPd.com FTP Service,</font></td>
 	</tr>
-	<tr><td class="auto-style5"><font class="auto-style6"><span class="gray"><a href="ftp://ftp.openftpd.com">ftp.openftpd.com</a></span></font></td></tr></font>
+	<tr><td class="auto-style23"><font class="auto-style17">
+		<span class="color-green"><br>URL</span><span class="gray"> |
+		<a href="ftp://ftp.openftpd.com">ftp.openftpd.com</a><br><br></span>
+		<span class="color-green">Port</span><span class="gray"> | 21<br><br></span>
+		<span class="color-green">Anonymous</span><span class="gray"> | On<br>&nbsp;</span></font></td></tr></font>
 	<tr>
-		<td class="auto-style5"></td>
+		<td class="auto-style22"><font>
+		<font class="auto-style17">
+		Index of /</font></font></td>
 	</tr>
 	<tr>
-		<td class="footer-13pt"></td>
+		<td class="auto-style11"><span class="auto-style13"><br>
+		<span class="color-green">/pub</span></span><br class="auto-style13">
+		<span class="auto-style13"><em>Documents, Music, Software</em></span><br class="auto-style13">
+		<br class="auto-style13"><span class="auto-style24">/incoming</span><br class="auto-style13">
+		<span class="auto-style13"><em>Upload your Files &amp; Folders here</em></span><br class="auto-style13">
+		<br class="auto-style13"><span class="auto-style24">welcome.msg</span><br class="auto-style13">
+		<span class="auto-style13"><em>Welcome Message</em></span></td>
+	</tr>
+	<tr>
+		<td class="auto-style11">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="auto-style12">No.&nbsp; <?php include('c.php'); ?></td>
+	</tr>
+	<tr>
+		<td class="auto-style19">&nbsp;&nbsp;</td>
 	</tr>
 	<tr>
 		<td class="auto-style8">
-		<font class="auto-style7">&copy; 2020 OpenFTPd. All Rights Reserved.</font></td>
+		<font class="auto-style17">&copy; 2020 OpenFTPd. All Rights Reserved.</font></td>
 	</tr>
 	<tr>
-		<td class="footer-13pt"></td>
+		<td class="auto-style19">&nbsp;&nbsp;</td>
 	</tr>
 		</table>
 	</head>
+
 	</body>
 </html>

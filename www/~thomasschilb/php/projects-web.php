@@ -131,7 +131,7 @@ a:hover {
 		<span class="auto-style5"><em>Project, 
 		Service, Linklist, Contact, About</em></span></td>
 		<td valign="top">Develope &amp; Network / Private Forge</td>
-		<td valign="top">2020.v7.1rev73</td>
+		<td valign="top">2020.v7.1rev75</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://thomasschilb.network/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
@@ -141,7 +141,7 @@ a:hover {
 		<td valign="top">SCHILB</td>
 		<td valign="top">About: Family<br><br><span class="auto-style5"><em>Informations &amp; Media</em></span><br></td>
 		<td valign="top">Family / Private</td>
-		<td valign="top">2020.v0.1rev3</td>
+		<td valign="top">2020.v0.3rev7</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://schilb.family" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
@@ -167,7 +167,7 @@ be visited without any reservation!"</font></em></p>
 		Media<br><br><span class="auto-style5"><em>We are Legions of Anonymous, Chaos Computer 
 		Club, Hitler, Illuminati, Ku-Klux-Klan &amp; UNO</em></span></td>
 		<td class="auto-style3" valign="top">Clansite / Official</td>
-		<td class="auto-style3" valign="top">2020.v0.1rev0</td>
+		<td class="auto-style3" valign="top">2020.v0.1rev1</td>
 		<td class="text-align-right" valign="top">
 		<a href="http://kukuxclan.xyz" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
@@ -178,7 +178,7 @@ be visited without any reservation!"</font></em></p>
 		<td class="auto-style3" valign="top">Open FTP Server: Anonymous<br><br>
 		<span class="auto-style5"><em>HttpsFileIndexer / FtpFileServer</em></span></td>
 		<td class="auto-style3" valign="top">File-Sharing / FTP</td>
-		<td class="auto-style3" valign="top">2020.v0.1rev2</td>
+		<td class="auto-style3" valign="top">2020.v0.1rev3</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://openftpd.com/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
@@ -202,7 +202,7 @@ be visited without any reservation!"</font></em></p>
 		<span class="auto-style5"><em>Anonym!ze, BBS, DC, Emule, FTP, Onion, Torrent, Usenet, 
 		WEB, XDCC</em></span></td>
 		<td class="auto-style3" valign="top">Linklist</td>
-		<td class="auto-style3" valign="top">2020.v5.1rev57</td>
+		<td class="auto-style3" valign="top">2020.v5.1rev58</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://prescene.xyz" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
