@@ -108,10 +108,48 @@ p {
 	background-color: #085089;
 	color: #0B77CC;
 }
-.auto-style1 {
+.text-center {
 	background-color: #085089;
 	color: #0B77CC;
 	text-align: center;
+}
+.text-center-15pt {
+	text-align: center;
+	font-size: 15pt;
+}
+.text-left-15pt {
+	background-color: #333333;
+	font-size: 15pt;
+	text-align: left;
+}
+.auto-css1 {
+	text-align: center;
+	font-size: 18pt;
+}
+.auto-css2 {
+	background-color: #333333;
+	font-size: 18pt;
+	text-align: left;
+}
+.auto-css3 {
+	font-size: 18pt;
+}
+.auto-css4 {
+	background-color: #333333;
+	font-size: 18pt;
+}
+.auto-css5 {
+	font-size: 18pt;
+	text-align: right;
+}
+.auto-css6 {
+	border-width: 0px;
+	font-size: 18pt;
+}
+.counter-18pt {
+	text-align: right;
+	background-color: #333333;
+	font-size: 18pt;
 }
 </style>
 </head>
@@ -123,14 +161,15 @@ p {
 		<td class="title-header">
 		<table cellpadding="0" cellspacing="18" size="100%" style="width: 100%">
 			<tr>
-				<td style="width: 115px">&nbsp;</td>
-				<td class="font-15pt-right" valign="top">
+				<td style="width: 115px" class="auto-css3">&nbsp;</td>
+				<td class="auto-css5" valign="top">
 				&nbsp;</td>
 			</tr>
 			<tr>
-				<td style="width: 115px"><font size="3">
-				<a href="?to=start" target="_self"><img class="border-null" height="128" src="img/schilb-logo.png" width="134"></a></font></td>
-				<td class="font-15pt-right" valign="top">
+				<td style="width: 115px">
+				<a href="?to=start" target="_self">
+				<img class="auto-css6" height="128" src="img/schilb-logo.png" width="134"></a></td>
+				<td class="auto-css5" valign="top">
 				&nbsp;</td>
 			</tr>
 		</table>
@@ -142,31 +181,31 @@ p {
 		<td class="menu">
 		<table cellpadding="15" cellspacing="0" style="width: 100%">
 			<tr>
-				<td class="menu-bg">
+				<td class="auto-css4">
 				<table align="left" cellpadding="5" cellspacing="0">
 					<tr>
-						<td style="width: 14px" class="auto-style1">&Uuml;</td>
+						<td style="width: 14px" class="text-center">&Uuml;</td>
 						<td><a href="?to=uberuns" target="_self">&Uuml;ber Uns</a></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="auto-style1">M</td>
+						<td style="width: 15px" class="text-center">M</td>
 						<td> <span class="color-fff">
 						<a href="?to=medien" target="_self">Medien</a></span></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="auto-style1">I</td>
+						<td style="width: 15px" class="text-center">I</td>
 						<td>
 				<a href="?to=info" target="_self">Info</a></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="auto-style1">I</td>
+						<td style="width: 15px" class="text-center">I</td>
 						<td>
 				<a href="?to=impressum" target="_self">Impressum</a></td>
 						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="auto-style1">K</td>
+						<td style="width: 15px" class="text-center">K</td>
 						<td>
 				<a href="?to=kontakt" target="_self">Kontakt</a></td>
 					</tr>
 				</table>
 				</td>
-				<td class="counter"><?php include('counter.php'); ?></td>
+				<td class="counter-18pt">&nbsp;&nbsp;<?php include('counter.php'); ?></td>
 			</tr>
 		</table>
 		</td>
@@ -175,7 +214,7 @@ p {
 		<td class="font-family">
 		<table cellpadding="15" cellspacing="0" style="width: 100%">
 			<tr>
-			<td>
+			<td class="auto-css3">
 <?php
 # get
 $to = $_GET['to'];
@@ -200,14 +239,31 @@ include("content/start.html");
 	<tr>
 		<td class="font-15pt-center">		<table cellpadding="15" cellspacing="0" style="width: 100%">
 			<tr>
-				<td class="menu-bg">Copyright &copy; 2020 SCHILB. Alle Rechte 
-				Vorbehalten.</td>
+				<td class="auto-css2">
+				<table cellpadding="23" cellspacing="0" style="width: 391px">
+					<tr>
+						<td style="width: 154px" valign="top">
+						<strong>Index</strong><br><br>
+						<a href="?to=uberuns" target="_self">Über Uns</a><br>
+						<a href="?to=medien" target="_self">Medien</a><br>
+						<a href="?to=info" target="_self">Info</a><br>
+						<br>
+						<a href="?to=impressum" target="_self">Impressum</a><br>
+						<a href="?to=kontakt" target="_self">Kontakt</a></td>
+						<td valign="top"><strong>Kontakt</strong><br>
+						<br><a href="mailto:info@schilb.family">
+						info@schilb.family</a></td>
+						<td valign="top">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
 			</tr>
 		</table>
 </td>
 	</tr>
 	</table>
-
+<p class="auto-css1">Copyright &copy; 2020 SCHILB. Alle Rechte 
+				Vorbehalten.</p>
 </body>
 
 </html>
