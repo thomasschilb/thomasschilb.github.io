@@ -136,7 +136,7 @@ F T P</p>
 		<td valign="top">Read-Only</td>
 		<td valign="top">/pub</td>
 		<td valign="top">
-		<a href="ftp://anonymous:syndicate@ftp.syndicate.live/pub/">
+		<a href="ftp://anonymous:syndicate@ftp.openftpd.com/pub/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
 	</tr>
 	<tr>
@@ -145,7 +145,7 @@ F T P</p>
 		<td valign="top">Read-Write</td>
 		<td valign="top">/incoming</td>
 		<td valign="top">
-		<a href="ftp://anonymous:syndicate@ftp.syndicate.live/incoming/">
+		<a href="ftp://anonymous:syndicate@ftp.openftpd.com/incoming/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
 	</tr>
 	</table>
@@ -161,30 +161,30 @@ FTPd. "</em></font></p>
 	<tr>
 		<td style="width: 184px" class="auto-style13">pub</td>
 		<td class="auto-style13">
-		Demoscene, Design, Documents, Erotic, Music, Programming, Software</td>
+		Documents, Music, Software</td>
 		<td>
-		<a href="ftp://anonymous:syndicate@ftp.syndicate.live/pub/">
+		<a href="ftp://anonymous:syndicate@ftp.openftpd.com/pub/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
 	</tr>
 	<tr>
 		<td style="width: 184px" class="auto-style13">incoming</td>
 		<td class="auto-style13">
-		Your Uploads</td>
+		Upload your Files &amp; Folders here</td>
 		<td>
-		<a href="ftp://anonymous:syndicate@ftp.syndicate.live/incoming/">
+		<a href="ftp://anonymous:syndicate@ftp.openftpd.com/incoming/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
 	</tr>
 	<tr>
-		<td style="width: 184px" class="auto-style13">releases</td>
+		<td style="width: 184px" class="auto-style13">welcome.msg</td>
 		<td class="auto-style13">
-		Our Re-Scene Releases</td>
+		Welcome Message</td>
 		<td>
-		<a href="ftp://anonymous:syndicate@ftp.syndicate.live/releases/tds/">
+		<a href="ftp://anonymous:syndicate@ftp.openftpd.com/">
 		<img height="16" src="img/folder.png" style="float: right" width="16"></a></td>
 	</tr>
 	</table>
-<p class="auto-style1"><font size="2"><em>Comment: "Download our Stuff or 
-Upload your Files!"</em></font></p>
+<p class="auto-style1"><font size="2"><em>Comment: "Download Stuff or 
+Upload your Files &amp; Folders!"</em></font></p>
 <p class="auto-style1">&nbsp;</p>
 <p class="auto-style6">FTP Indexer / Search Engine</p>
 <table id="tstable" cellpadding="15" cellspacing="0" style="width: 100%" class="auto-style12">

@@ -258,8 +258,6 @@ li.dropdown {
   <li class="dropdown">
     <a target="_self" href="javascript:void(0)" class="dropbtn">Service</a>
     <div class="dropdown-content">
-      <a target="_self" href="?to=service:ftp">FTP</a>
-      <a target="_self" href="?to=service:email">Email</a>
       <a target="_self" href="?to=service:irc">IRC</a>
       <a target="_self" href="?to=service:repository">Repository</a>
     </div>

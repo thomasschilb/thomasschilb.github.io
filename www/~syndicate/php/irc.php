@@ -140,7 +140,7 @@ I R C</p>
 	</tr>
 	<tr class="auto-style10">
 		<td class="auto-style9">
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td class="auto-style9">
 		#syndicate</td>
 		<td class="auto-style9">
@@ -152,12 +152,12 @@ I R C</p>
 		<td class="auto-style9">
 		tsc</td>
 		<td>
-		<a href="irc://irc.openirc.xyz:6667/syndicate">
+		<a href="irc://irc.openircd.com:6667/syndicate">
 		<img height="16" src="img/www.png" width="16" style="float: right"></a></td>
 	</tr>
 	<tr class="auto-style10">
 		<td class="auto-style9">
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td class="auto-style9">
 		#syndicate</td>
 		<td class="auto-style9">
@@ -169,12 +169,12 @@ I R C</p>
 		<td class="auto-style9">
 		tsc</td>
 		<td>
-		<a href="irc://irc.openirc.xyz:6667/syndicate">
+		<a href="irc://irc.openircd.com:6667/syndicate">
 		<img height="16" src="img/www.png" width="16" style="float: right"></a></td>
 	</tr>
 	<tr class="auto-style10">
 		<td class="auto-style9">
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td class="auto-style9">
 		#syndicate</td>
 		<td class="auto-style9">
@@ -186,12 +186,12 @@ I R C</p>
 		<td class="auto-style9">
 		tsc</td>
 		<td>
-		<a href="irc://irc.openirc.xyz:+6697/syndicate">
+		<a href="irc://irc.openircd.com:+6697/syndicate">
 		<img height="16" src="img/www.png" width="16" style="float: right"></a></td>
 	</tr>
 	<tr class="auto-style10">
 		<td class="auto-style9">
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td class="auto-style9">
 		#syndicate</td>
 		<td class="auto-style9">
@@ -203,7 +203,7 @@ I R C</p>
 		<td class="auto-style9">
 		tsc</td>
 		<td>
-		<a href="irc://irc.openirc.xyz:+6697/syndicate">
+		<a href="irc://irc.openircd.com:+6697/syndicate">
 		<img height="16" src="img/www.png" width="16" style="float: right"></a></td>
 	</tr>
 	</table>
@@ -231,7 +231,7 @@ register."</em></p>
 		HexChat is an IRC client based on XChat, but unlike XChat it’s 
 		completely free for both Windows and Unix-like systems. Since XChat is 
 		open source, it’s perfectly legal. For more info, please read the 
-		Shareware background.<br><br><em>/server -ssl irc.openirc.xyz 6697</em></td>
+		Shareware background.<br><br><em>/server -ssl irc.openircd.com 6697</em></td>
 		<td valign="top">
 		<a href="https://hexchat.github.io/downloads.html">
 		<img height="16" src="img/www.png" width="16" style="float: right" align="top"></a></td>
@@ -242,7 +242,7 @@ register."</em></p>
 		<td class="auto-style9" valign="top">
 		mIRC is a popular Internet Relay Chat client used by individuals and 
 		organizations to communicate, share, play and work with each other on 
-		IRC networks around the world.<br><br><em>/server -m irc.openirc.xyz:+6697</em></td>
+		IRC networks around the world.<br><br><em>/server -m irc.openircd.com:+6697</em></td>
 		<td valign="top">
 		<a href="https://portapps.io/app/mirc-portable/">
 		<img height="16" src="img/www.png" width="16" style="float: right" align="top"></a>&nbsp;</td>
@@ -252,7 +252,7 @@ register."</em></p>
 		Irssi</td>
 		<td class="auto-style9" valign="top">
 		Your text mode chatting application since 1999.<br><br><em>/SERVER 
-		CONNECT irc.openirc.xyz 6697</em></td>
+		CONNECT irc.openircd.com 6697</em></td>
 		<td valign="top">
 		<a href="https://github.com/q3aql/irssi-win">
 		<img height="16" src="img/www.png" width="16" style="float: right" align="top"></a>&nbsp;</td>

@@ -258,7 +258,7 @@ font-10pt-797979 {
 	<span class="table-footer-center">
 	<tr class="text-left-color-gray">
 		<td>
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td>
 		#thomasschilb</td>
 	</span>
@@ -269,12 +269,12 @@ font-10pt-797979 {
 		tsc</td>
 <font color="white">
 		<td class="text-right">
-		<a href="irc://irc.openirc.xyz:6667/thomasschilb" title="IrcClientURL">
+		<a href="irc://irc.openircd.com:6667/thomasschilb" title="IrcClientURL">
 		<img height="16" src="img/irc.png" width="16"></a></td>
 	</tr>
 	<tr class="text-left-color-gray">
 		<td>
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td>#thomasschilb</td>
 		<td>6667</td>
 		<td>No</td>
@@ -282,7 +282,7 @@ font-10pt-797979 {
 		<td>tsc</td>
 		<td class="text-right">
 <font color="white"><span class="table-footer-center">
-		<a href="irc://irc.openirc.xyz:6667/thomasschilb" title="IrcClientURL">
+		<a href="irc://irc.openircd.com:6667/thomasschilb" title="IrcClientURL">
 		<img height="16" src="img/irc.png" width="16"></a></span></font></td>
 	</tr>
 	</font>
@@ -290,7 +290,7 @@ font-10pt-797979 {
 	</span>
 	<tr class="text-left-color-gray">
 		<td>
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td>
 		#thomasschilb</td>
 		<td>6697</td>
@@ -299,12 +299,12 @@ font-10pt-797979 {
 		<td>tsc</td>
 		<td class="text-right">
 <font color="white"><span class="table-footer-center">
-		<a href="irc://irc.openirc.xyz:+6697/thomasschilb" title="IrcClientURL">
+		<a href="irc://irc.openircd.com:+6697/thomasschilb" title="IrcClientURL">
 		<img height="16" src="img/irc.png" width="16"></a></span></font></td>
 	</tr>
 	<tr class="text-left-color-gray">
 		<td>
-		irc.openirc.xyz</td>
+		irc.openircd.com</td>
 		<td>
 		#thomasschilb</td>
 		<td>6697</td>
@@ -313,7 +313,7 @@ font-10pt-797979 {
 		<td>tsc</td>
 		<td class="text-right">
 <font color="white"><span class="table-footer-center">
-		<a href="irc://irc.openirc.xyz:+6697/thomasschilb" title="IrcClientURL">
+		<a href="irc://irc.openircd.com:+6697/thomasschilb" title="IrcClientURL">
 		<img height="16" src="img/irc.png" width="16"></a></span></font></td>
 	</tr>
 	</table>
@@ -340,7 +340,7 @@ font-10pt-797979 {
 		HexChat is an IRC client based on XChat, but unlike XChat it’s 
 		completely free for both Windows and Unix-like systems. Since XChat is 
 		open source, it’s perfectly legal. For more info, please read the 
-		Shareware background.<br><br><em>/server -ssl irc.openirc.xyz 6697</em></span></td>
+		Shareware background.<br><br><em>/server -ssl irc.openircd.com 6697</em></span></td>
 		<td valign="top">
 		<a href="https://hexchat.github.io/downloads.html" class="auto-style3">
 		<img height="16" src="img/www.png" width="16" style="float: right" align="top"></a></td>
@@ -351,7 +351,7 @@ font-10pt-797979 {
 		<td class="auto-style4" valign="top">
 		mIRC is a popular Internet Relay Chat client used by individuals and 
 		organizations to communicate, share, play and work with each other on 
-		IRC networks around the world.<br><br><em>/server -m irc.openirc.xyz:+6697</em></span></td>
+		IRC networks around the world.<br><br><em>/server -m irc.openircd.com:+6697</em></span></td>
 		<td valign="top">
 		<a href="https://portapps.io/app/mirc-portable/" class="auto-style3">
 		<img height="16" src="img/www.png" width="16" style="float: right" align="top"></a><span class="auto-style3">&nbsp;</span></td>
@@ -361,7 +361,7 @@ font-10pt-797979 {
 		Irssi</td>
 		<td class="auto-style4" valign="top">
 		Your text mode chatting application since 1999.<br><br><em>/SERVER 
-		CONNECT irc.openirc.xyz 6697</em></span></td>
+		CONNECT irc.openircd.com 6697</em></span></td>
 		<td valign="top">
 		<a href="https://github.com/q3aql/irssi-win" class="auto-style3">
 		<img height="16" src="img/www.png" width="16" style="float: right" align="top"></a><span class="auto-style3">&nbsp;</span></td>

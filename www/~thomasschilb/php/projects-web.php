@@ -141,7 +141,7 @@ a:hover {
 		<td valign="top">SCHILB</td>
 		<td valign="top">About: Family<br><br><span class="auto-style5"><em>Informations &amp; Media</em></span><br></td>
 		<td valign="top">Family / Private</td>
-		<td valign="top">2020.v0.3rev7</td>
+		<td valign="top">2020.v0.3rev9</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://schilb.family" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
@@ -178,7 +178,7 @@ be visited without any reservation!"</font></em></p>
 		<td class="auto-style3" valign="top">Open FTP Server: Anonymous<br><br>
 		<span class="auto-style5"><em>HttpsFileIndexer / FtpFileServer</em></span></td>
 		<td class="auto-style3" valign="top">File-Sharing / FTP</td>
-		<td class="auto-style3" valign="top">2020.v0.1rev3</td>
+		<td class="auto-style3" valign="top">2020.v0.3rev5</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://openftpd.com/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>

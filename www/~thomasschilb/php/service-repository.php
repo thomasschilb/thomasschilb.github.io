@@ -153,12 +153,12 @@ a:hover {
 
 <body style="margin: 0; color: #808080; background-color: #000000">
 <p class="table-footer-center">S E R V I C E : R E P O S I T O R Y&nbsp; |&nbsp; 
-3</p>
-<p class="auto-style6">Connection Data [3]</p>
+5</p>
+<p class="auto-style6">Connection Data [5]</p>
 <table id="tstable" cellpadding="15" cellspacing="0" style="width: 100%">
 	<tr>
 		<th class="auto-style11" style="width: 73px">Service</th>
-		<th class="auto-style13" style="width: 116px">&nbsp;</th>
+		<th class="auto-style13" style="width: 159px">&nbsp;</th>
 		<th class="auto-style11" style="width: 87px">Password</th>
 		<th class="auto-style11">Permission</th>
 		<th class="auto-style11">Folder</th>
@@ -167,8 +167,51 @@ a:hover {
 		<th class="auto-style11">&nbsp;</th>
 	</tr>
 	<tr>
+		<td valign="top" class="auto-style12" style="width: 73px">CLOUD</td>
+		<td valign="top" class="auto-style12" style="width: 159px">repository-ts</td>
+		<td valign="top" style="width: 87px">-</td>
+		<td valign="top">Read-Only</td>
+		<td valign="top">/</td>
+		<td valign="top">
+		80, 443</td>
+		<td valign="top">
+		microsoft-cloud</td>
+		<td valign="top">
+		<a href="https://1drv.ms/u/s!AjwlBTgLspToi7coGplB5ID7gRggJw?e=zX4kuE" target="_blank">
+		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style12" style="width: 73px">FTP</td>
+		<td valign="top" class="auto-style12" style="width: 159px">
+		repository-openftpd</td>
+		<td valign="top" style="width: 87px">-</td>
+		<td valign="top">Read-Only</td>
+		<td valign="top">/</td>
+		<td valign="top">
+		21</td>
+		<td valign="top">
+		openftpd-ftp</td>
+		<td valign="top">
+		<a href="ftp://ftp.openftpd.com/" target="_blank">
+		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style12" style="width: 73px">GIT</td>
+		<td valign="top" class="auto-style12" style="width: 159px">repository-sites</td>
+		<td valign="top" style="width: 87px">-</td>
+		<td valign="top">Read-Only</td>
+		<td valign="top">/thomasschilb.github.io/</td>
+		<td valign="top">
+		80, 443</td>
+		<td valign="top">
+		github-git</td>
+		<td valign="top">
+		<a href="https://thomasschilb.github.io/" target="_blank">
+		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
+	</tr>
+	<tr>
 		<td valign="top" class="auto-style12" style="width: 73px">HTTPS</td>
-		<td valign="top" class="auto-style12" style="width: 116px">repository-ts</td>
+		<td valign="top" class="auto-style12" style="width: 159px">repository-ts</td>
 		<td valign="top" style="width: 87px">-</td>
 		<td valign="top">Read-Only</td>
 		<td valign="top">/opt/lampp/htdocs/~thomasschilb/dl</td>
@@ -182,7 +225,7 @@ a:hover {
 	</tr>
 	<tr>
 		<td valign="top" class="auto-style12" style="width: 73px">HTTPS</td>
-		<td valign="top" class="auto-style12" style="width: 116px">
+		<td valign="top" class="auto-style12" style="width: 159px">
 		repository-tds</td>
 		<td valign="top" style="width: 87px">-</td>
 		<td valign="top">Read-Only</td>
@@ -193,20 +236,6 @@ a:hover {
 		lamp-index</td>
 		<td valign="top">
 		<a href="https://syndicate.live/tds-releases/" target="_blank">
-		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
-	</tr>
-	<tr>
-		<td valign="top" class="auto-style12" style="width: 73px">GIT</td>
-		<td valign="top" class="auto-style12" style="width: 116px">repository-sites</td>
-		<td valign="top" style="width: 87px">-</td>
-		<td valign="top">Read-Only</td>
-		<td valign="top">/thomasschilb.github.io/</td>
-		<td valign="top">
-		80, 443</td>
-		<td valign="top">
-		github-git</td>
-		<td valign="top">
-		<a href="https://thomasschilb.github.io/" target="_blank">
 		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
 	</table>
