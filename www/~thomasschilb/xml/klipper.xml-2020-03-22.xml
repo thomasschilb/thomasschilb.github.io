@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <network name="1andallirc.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.1andallirc.net" port="6667" ssl="false" />
+    <channel name="#cosmic" key="" autojoin="1" exclude="0" />
+    <channel name="#viet-power" key="" autojoin="1" exclude="0" />
+    <channel name="#xboxland-mp3" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="abandoned-irc" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.abandoned-irc.net" port="6667" ssl="false" />
+    <channel name="#porn-chat" key="" autojoin="1" exclude="1" />
+    <channel name="#porn-hq" key="" autojoin="1" exclude="0" />
+    <channel name="#sport-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#zombie-warez" key="" autojoin="1" exclude="0" />
+    <channel name="#zw-chat" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="abandoned-irc.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.abandoned-irc.net" port="6667" ssl="false" />
+    <channel name="#porn-chat" key="" autojoin="1" exclude="1" />
+    <channel name="#porn-hq" key="" autojoin="1" exclude="0" />
+    <channel name="#sport-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#warez" key="" autojoin="1" exclude="0" />
+    <channel name="#zombie-warez" key="" autojoin="1" exclude="0" />
+    <channel name="#zw-chat" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="abjects.org" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.abjects.us" port="6667" ssl="false" />
+    <server name="irc.abjects.com" port="6667" ssl="false" />
+    <server name="irc.abjects.org" port="6667" ssl="false" />
+    <channel name="#1warez" key="" autojoin="1" exclude="0" />
+    <channel name="#airborne" key="" autojoin="1" exclude="0" />
+    <channel name="#beast-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#beast-xdcc" key="" autojoin="1" exclude="0" />
+    <channel name="#elitemusic" key="" autojoin="1" exclude="0" />
+    <channel name="#evil" key="" autojoin="1" exclude="0" />
+    <channel name="#krautz-warez" key="" autojoin="1" exclude="0" />
+    <channel name="#liberty" key="" autojoin="1" exclude="0" />
+    <channel name="#mexicanmafia" key="" autojoin="1" exclude="0" />
+    <channel name="#mg-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#moviegods" key="" autojoin="1" exclude="0" />
+    <channel name="#overflow" key="" autojoin="1" exclude="0" />
+    <channel name="#tmd-moviez" key="" autojoin="1" exclude="0" />
+    <channel name="#tmd-music" key="" autojoin="1" exclude="0" />
+    <channel name="#tmd-tvrips" key="" autojoin="1" exclude="0" />
+    <channel name="#xdcc" key="" autojoin="1" exclude="0" />
+    <channel name="#[rm]rolys-movies" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="alphairc.com" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.alphairc.com" port="6667" ssl="false" />
+    <channel name="#masterwarez" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="artikanet.org" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.artikanet.org" port="6667" ssl="false" />
+    <channel name="#astar" key="" autojoin="1" exclude="0" />
+    <channel name="#bloomone" key="" autojoin="1" exclude="0" />
+    <channel name="#dimension" key="" autojoin="1" exclude="0" />
+    <channel name="#exclusive" key="" autojoin="1" exclude="0" />
+    <channel name="#galaxy" key="" autojoin="1" exclude="0" />
+    <channel name="#ipermega" key="" autojoin="1" exclude="0" />
+    <channel name="#new_download" key="" autojoin="1" exclude="0" />
+    <channel name="#planetario" key="" autojoin="1" exclude="0" />
+    <channel name="#solasy.cr3w" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="crocmax.net" autoconnect="1" reconnect="1" nickservenabled="1" nickservpass="b0r5yrUCAtLpitA2Qrw=" nickservname="NickServ">
+    <server name="irc.crocmax.net" port="6667" ssl="false" />
+    <channel name="#cm-plus" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="frozyn.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.frozyn.net" port="6667" ssl="false" />
+    <channel name="#future-chat" key="" autojoin="1" exclude="1" />
+    <channel name="#future-pre" key="" autojoin="1" exclude="1" />
+    <channel name="#the-future" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="futureshell.org" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.futureshell.org" port="6667" ssl="false" />
+    <channel name="#mercatino-di-natale" key="" autojoin="1" exclude="0" />
+    <channel name="#planetario" key="" autojoin="1" exclude="0" />
+    <channel name="#serenity" key="" autojoin="1" exclude="0" />
+    <channel name="#start-game" key="" autojoin="1" exclude="0" />
+    <channel name="#stella^nascente" key="" autojoin="1" exclude="0" />
+    <channel name="#the_pub" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="globalirc.it" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.globalirc.it" port="6667" ssl="false" />
+    <channel name="#doublevi" key="" autojoin="1" exclude="0" />
+    <channel name="#full_music" key="" autojoin="1" exclude="0" />
+    <channel name="#global-crew" key="" autojoin="1" exclude="0" />
+    <channel name="#holland-hardcore" key="" autojoin="1" exclude="0" />
+    <channel name="#software" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="greekirc.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.greekirc.net" port="6667" ssl="false" />
+    <channel name="#downloads" key="" autojoin="1" exclude="0" />
+    <channel name="#greekirc" key="" autojoin="1" exclude="1" />
+    <channel name="#mp3" key="" autojoin="1" exclude="0" />
+    <channel name="#sex" key="" autojoin="1" exclude="0" />
+    <channel name="#share" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="irc-files.org" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.irc-files.org" port="6667" ssl="false" />
+    <channel name="#anime" key="" autojoin="1" exclude="0" />
+    <channel name="#escapeworld" key="" autojoin="1" exclude="0" />
+    <channel name="#fantasyland" key="" autojoin="1" exclude="0" />
+    <channel name="#film" key="" autojoin="1" exclude="0" />
+    <channel name="#il-paese-dei-balocchi" key="" autojoin="1" exclude="0" />
+    <channel name="#irc-hd" key="" autojoin="1" exclude="0" />
+    <channel name="#magic" key="" autojoin="1" exclude="0" />
+    <channel name="#maripapera" key="" autojoin="1" exclude="0" />
+    <channel name="#musicstyle" key="" autojoin="1" exclude="0" />
+    <channel name="#rippers" key="" autojoin="1" exclude="0" />
+    <channel name="#scambio-mania" key="" autojoin="1" exclude="0" />
+    <channel name="#serie-tv" key="" autojoin="1" exclude="0" />
+    <channel name="#silvestro" key="" autojoin="1" exclude="0" />
+    <channel name="#world-house" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="irchighway.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.irchighway.net" port="6667" ssl="false" />
+    <channel name="#survivor-central" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="mircphantom" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.mircphantom.net" port="6667" ssl="false" />
+    <channel name="#abstract" key="" autojoin="1" exclude="0" />
+    <channel name="#firestorm-mp3s" key="" autojoin="1" exclude="0" />
+    <channel name="#oldskool-xdcc" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="openjoke.org" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.openjoke.org" port="6667" ssl="false" />
+    <channel name="#0dayz" key="" autojoin="1" exclude="0" />
+    <channel name="#100tb" key="" autojoin="1" exclude="0" />
+    <channel name="#a-r-e-s" key="" autojoin="1" exclude="0" />
+    <channel name="#dimmer" key="" autojoin="1" exclude="0" />
+    <channel name="#divinity" key="" autojoin="1" exclude="0" />
+    <channel name="#enjoy" key="" autojoin="1" exclude="0" />
+    <channel name="#equalizer" key="" autojoin="1" exclude="0" />
+    <channel name="#fantasy" key="" autojoin="1" exclude="0" />
+    <channel name="#ferrari" key="" autojoin="1" exclude="0" />
+    <channel name="#free" key="" autojoin="1" exclude="0" />
+    <channel name="#future_games" key="" autojoin="1" exclude="0" />
+    <channel name="#intersect" key="" autojoin="1" exclude="0" />
+    <channel name="#invisibile" key="" autojoin="1" exclude="0" />
+    <channel name="#loele" key="" autojoin="1" exclude="0" />
+    <channel name="#magic" key="" autojoin="1" exclude="0" />
+    <channel name="#mega_fantasy" key="" autojoin="1" exclude="0" />
+    <channel name="#meraviglia" key="" autojoin="1" exclude="0" />
+    <channel name="#millennium" key="" autojoin="1" exclude="0" />
+    <channel name="#porn-hq" key="" autojoin="1" exclude="0" />
+    <channel name="#snake" key="" autojoin="1" exclude="0" />
+    <channel name="#tilt" key="" autojoin="1" exclude="0" />
+    <channel name="#universo-stellato" key="" autojoin="1" exclude="0" />
+    <channel name="#v3l0x" key="" autojoin="1" exclude="0" />
+    <channel name="#william&amp;carola" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="phc-crew" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="beastpty.sytes.net" port="6667" ssl="false" />
+    <channel name="#future-chat" key="" autojoin="1" exclude="1" />
+    <channel name="#future-pre" key="" autojoin="1" exclude="1" />
+    <channel name="#monsterchat" key="" autojoin="1" exclude="0" />
+    <channel name="#monsterfilez" key="" autojoin="1" exclude="0" />
+    <channel name="#the-future" key="" autojoin="1" exclude="1" />
+  </network>
+  <network name="quartznet.org" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="hub.quartznet.org" port="6667" ssl="false" />
+    <channel name="#powell" key="" autojoin="1" exclude="0" />
+    <channel name="#r3volution" key="" autojoin="1" exclude="0" />
+    <channel name="#r3volution-series" key="" autojoin="1" exclude="0" />
+    <channel name="#upz-crew" key="" autojoin="1" exclude="0" />
+    <channel name="#warspeed" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="relaxedirc.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.relaxedirc.net" port="6667" ssl="false" />
+    <channel name="#bmxvids" key="" autojoin="1" exclude="0" />
+    <channel name="#freedom-zone" key="" autojoin="1" exclude="0" />
+    <channel name="#tv-caps" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="rizon.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.rizon.net" port="6667" ssl="false" />
+    <server name="irc.eu.rizon.net" port="6667" ssl="false" />
+    <channel name="#1warez" key="" autojoin="1" exclude="0" />
+    <channel name="#asthenia" key="" autojoin="1" exclude="0" />
+    <channel name="#batcave" key="" autojoin="1" exclude="0" />
+    <channel name="#batcave-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#elite-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#elitewarez" key="" autojoin="1" exclude="0" />
+    <channel name="#gabbermp3" key="" autojoin="1" exclude="0" />
+    <channel name="#gabbermp3-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#highfidelity" key="" autojoin="1" exclude="0" />
+    <channel name="#housepackz" key="" autojoin="1" exclude="0" />
+    <channel name="#infidel" key="" autojoin="1" exclude="0" />
+    <channel name="#master-chat" key="" autojoin="1" exclude="0" />
+    <channel name="#masterwarez" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="scenep2p.net" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.scenep2p.net" port="6667" ssl="false" />
+    <channel name="#0day-mp3s" key="" autojoin="1" exclude="0" />
+    <channel name="#idle" key="" autojoin="1" exclude="1" />
+    <channel name="#the.lounge" key="" autojoin="1" exclude="0" />
+    <channel name="#the.source" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="terrachat.cl" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.terrachat.cl" port="6667" ssl="false" />
+    <channel name="#mp3zone" key="" autojoin="1" exclude="0" />
+    <channel name="#terrachat" key="" autojoin="1" exclude="1" />
+  </network>
+  <network name="undernet.org" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.undernet.org" port="6667" ssl="false" />
+    <channel name="#all-metal" key="" autojoin="1" exclude="0" />
+    <channel name="#mp3-best-of" key="" autojoin="1" exclude="0" />
+    <channel name="#mp3-warez" key="" autojoin="1" exclude="0" />
+    <channel name="#mp3romania" key="" autojoin="1" exclude="0" />
+    <channel name="#warez-divx" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="williamgattone.it" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.williamgattone.it" port="6667" ssl="false" />
+    <channel name="#amici_game" key="" autojoin="1" exclude="0" />
+    <channel name="#bosco-delle-fragole" key="" autojoin="1" exclude="0" />
+    <channel name="#byhorror" key="" autojoin="1" exclude="0" />
+    <channel name="#cinemania" key="" autojoin="1" exclude="0" />
+    <channel name="#creativi" key="" autojoin="1" exclude="0" />
+    <channel name="#dimension" key="" autojoin="1" exclude="0" />
+    <channel name="#future_serietv" key="" autojoin="1" exclude="0" />
+    <channel name="#galacxy" key="" autojoin="1" exclude="0" />
+    <channel name="#high_voltage" key="" autojoin="1" exclude="0" />
+    <channel name="#horror" key="" autojoin="1" exclude="0" />
+    <channel name="#il-paese-dei-balocchi" key="" autojoin="1" exclude="0" />
+    <channel name="#italian-dvdrip" key="" autojoin="1" exclude="0" />
+    <channel name="#magic-world" key="" autojoin="1" exclude="0" />
+    <channel name="#mistero_del_canale" key="" autojoin="1" exclude="0" />
+    <channel name="#new-music" key="" autojoin="1" exclude="0" />
+    <channel name="#planetsc" key="" autojoin="1" exclude="0" />
+    <channel name="#sky-fall" key="" autojoin="1" exclude="0" />
+    <channel name="#the-ghost-castle" key="" autojoin="1" exclude="0" />
+    <channel name="#thesound" key="" autojoin="1" exclude="0" />
+    <channel name="#ultra-max" key="" autojoin="1" exclude="0" />
+    <channel name="#universo-stellato" key="" autojoin="1" exclude="0" />
+    <channel name="#warnull" key="" autojoin="1" exclude="0" />
+    <channel name="#william&amp;gattone" key="" autojoin="1" exclude="0" />
+    <channel name="#wonderland" key="" autojoin="1" exclude="0" />
+  </network>
+  <network name="xeromem.com" autoconnect="1" reconnect="1" nickservenabled="0" nickservpass="" nickservname="NickServ">
+    <server name="irc.xeromem.com" port="6667" ssl="false" />
+    <channel name="#crackerjack" key="" autojoin="1" exclude="0" />
+    <channel name="#latinwarez" key="" autojoin="1" exclude="0" />
+    <channel name="#porn-hq" key="" autojoin="1" exclude="0" />
+  </network>
+</root>

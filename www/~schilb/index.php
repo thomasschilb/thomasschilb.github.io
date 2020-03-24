@@ -243,6 +243,12 @@ include("content/start.html");
 				<table cellpadding="23" cellspacing="0" style="width: 391px">
 					<tr>
 						<td style="width: 154px" valign="top">
+						&nbsp;</td>
+						<td valign="top">&nbsp;</td>
+						<td valign="top">&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="width: 154px" valign="top">
 						<strong>Index</strong><br><br>
 						<a href="?to=uberuns" target="_self">Über Uns</a><br>
 						<a href="?to=medien" target="_self">Medien</a><br>
