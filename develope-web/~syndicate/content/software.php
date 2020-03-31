@@ -68,13 +68,16 @@ a:hover {
 	text-align: left;
 	font-weight: normal;
 	color: #FFFFFF;
+	font-family: "Share Tech Mono";
 }
 .auto-style7 {
 	text-align: center;
+	font-family: "Share Tech Mono";
 }
 .auto-style8 {
 	text-align: center;
 	color: #FFFFFF;
+	font-family: "Share Tech Mono";
 }
 
 #tstable0 {
@@ -84,6 +87,7 @@ a:hover {
 
 .auto-style10 {
 	color: #FF0000;
+	font-family: "Share Tech Mono";
 }
 .auto-style11 {
 	text-align: left;
@@ -93,6 +97,21 @@ a:hover {
 .auto-style12 {
 	text-align: right;
 	font-size: 12pt;
+	font-family: "Share Tech Mono";
+}
+
+.auto-style13 {
+	font-family: "Share Tech Mono";
+}
+.auto-style14 {
+	font-size: 10pt;
+	text-align: center;
+	font-family: "Share Tech Mono";
+}
+.auto-style15 {
+	text-align: left;
+	font-size: 12pt;
+	font-family: "Share Tech Mono";
 }
 
 </style>
@@ -110,50 +129,50 @@ S O F T W A R E</p>
 	</tr>
 	<tr>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:audio" target="_self">Audio</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:audio" target="_self">Audio</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:burn" target="_self">Burn</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:burn" target="_self">Burn</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:chat" target="_self">Chat</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:chat" target="_self">Chat</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:code" target="_self">Code</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:code" target="_self">Code</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:corporate" target="_self">Corporate</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:corporate" target="_self">Corporate</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:design" target="_self">Design</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:design" target="_self">Design</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:editor" target="_self">Editor</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:editor" target="_self">Editor</a></span></td>
 	</tr>
 	<tr>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:emulate" target="_self">Emulate</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:emulate" target="_self">Emulate</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:ftp" target="_self">FTP/SFTP/SCP</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:ftp" target="_self">FTP/SFTP/SCP</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:miscellaneous" target="_self">Miscellaneous</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:miscellaneous" target="_self">Miscellaneous</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:office" target="_self">Office</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:office" target="_self">Office</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:os" target="_self">OS</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:os" target="_self">OS</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:packer" target="_self">Packer</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:packer" target="_self">Packer</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:portable" target="_self">Portable</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:portable" target="_self">Portable</a></span></td>
 	</tr>
 	<tr>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:recovery" target="_self">Recovery</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:recovery" target="_self">Recovery</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:security" target="_self">Security</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:security" target="_self">Security</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:sourcecode" target="_self">Sourcecode</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:sourcecode" target="_self">Sourcecode</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:system" target="_self">System</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:system" target="_self">System</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:tv" target="_self">TV</a></td>
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:tv" target="_self">TV</a></span></td>
 		<td class="auto-style11">
-		<span class="auto-style10">&bull;&nbsp;</span><a href="?to=syndicate:software:video" target="_self">Video</a></td>
-		<td class="auto-style11">
+		<span class="auto-style10">&bull;&nbsp;</span><span class="auto-style13"><a href="?to=syndicate:software:video" target="_self">Video</a></span></td>
+		<td class="auto-style15">
 		&nbsp;</td>
 	</tr>
 	<tr>
@@ -162,9 +181,9 @@ S O F T W A R E</p>
 	</tr>
 </table>
 </p>
-<p class="auto-style2"><em>Comment: "Search out of 20 Categories for Win64 
+<p class="auto-style14"><em>Comment: "Search out of 20 Categories for Win64 
 Software."</em></p>
-<p>&nbsp;</p>
+<p class="auto-style13">&nbsp;</p>
 </body>
 
 </html>
