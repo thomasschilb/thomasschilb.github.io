@@ -321,73 +321,73 @@ li.dropdown {
 		# get
 		$to = $_GET['to'];
 		# include given
-		if ($to == "welcome")      										{include("php/welcome.php");}
+		if ($to == "welcome")      										{include("content/welcome.php");}
 		
-		elseif ($to == "syndicate:api:whatsapp")  							{include("php/api.whatsapp.php");}
+		elseif ($to == "syndicate:api:whatsapp")  							{include("content/api.whatsapp.php");}
 
-		elseif ($to == "syndicate:irc")  							{include("php/irc.php");}
-		elseif ($to == "syndicate:ftp")  							{include("php/ftp.php");}
-		elseif ($to == "syndicate:vote")  						{include("php/vote.php");}
-		elseif ($to == "syndicate:news")  						{include("php/news.php");/*include("php/ycombinator.php");*/}
-		elseif ($to == "syndicate:games")  						{include("php/games.php");}
-		elseif ($to == "syndicate:tools")  						{include("php/tools.php");}
-		elseif ($to == "syndicate:tutorials")  				{include("php/tutorials.php");}
-		elseif ($to == "syndicate:tc")  							{include("php/tc.php");}
-		elseif ($to == "syndicate:pp")  							{include("php/pp.php");}
-		elseif ($to == "syndicate:links")							{include("php/links.php");}
-		elseif ($to == "syndicate:releases")						{include("php/releases.php");}
-		elseif ($to == "syndicate:software")					{include("php/software.php");}
-		elseif ($to == "syndicate:aboutus")  					{include("php/aboutus.php");}
+		elseif ($to == "syndicate:irc")  							{include("content/irc.php");}
+		elseif ($to == "syndicate:ftp")  							{include("content/ftp.php");}
+		elseif ($to == "syndicate:vote")  						{include("content/vote.php");}
+		elseif ($to == "syndicate:news")  						{include("content/news.php");/*include("content/ycombinator.php");*/}
+		elseif ($to == "syndicate:games")  						{include("content/games.php");}
+		elseif ($to == "syndicate:tools")  						{include("content/tools.php");}
+		elseif ($to == "syndicate:tutorials")  				{include("content/tutorials.php");}
+		elseif ($to == "syndicate:tc")  							{include("content/tc.php");}
+		elseif ($to == "syndicate:pp")  							{include("content/pp.php");}
+		elseif ($to == "syndicate:links")							{include("content/links.php");}
+		elseif ($to == "syndicate:releases")						{include("content/releases.php");}
+		elseif ($to == "syndicate:software")					{include("content/software.php");}
+		elseif ($to == "syndicate:aboutus")  					{include("content/aboutus.php");}
     # links:category
-		elseif ($to == "syndicate:links:audio")				{include("php/links.php");include("php/links/l.audio.html");}
-		elseif ($to == "syndicate:links:code")				{include("php/links.php");include("php/links/l.code.html");}
-		elseif ($to == "syndicate:links:design")			{include("php/links.php");include("php/links/l.design.html");}
-		elseif ($to == "syndicate:links:develope")		{include("php/links.php");include("php/links/l.develope.html");}
-		elseif ($to == "syndicate:links:document")		{include("php/links.php");include("php/links/l.document.html");}
-		elseif ($to == "syndicate:links:emulate")			{include("php/links.php");include("php/links/l.emulate.html");}
-		elseif ($to == "syndicate:links:erotic")			{include("php/links.php");include("php/links/l.erotic.html");}
-		elseif ($to == "syndicate:links:ftp")					{include("php/links.php");include("php/links/l.ftp.html");}
-		elseif ($to == "syndicate:links:games")				{include("php/links.php");include("php/links/l.games.html");}
-		elseif ($to == "syndicate:links:intern")			{include("php/links.php");include("php/links/l.intern.html");}
-		elseif ($to == "syndicate:links:irc")					{include("php/links.php");include("php/links/l.irc.html");}
-		elseif ($to == "syndicate:links:link")				{include("php/links.php");include("php/links/l.link.html");}
-		elseif ($to == "syndicate:links:music")				{include("php/links.php");include("php/links/l.music.html");}
-		elseif ($to == "syndicate:links:os")					{include("php/links.php");include("php/links/l.os.html");}
-		elseif ($to == "syndicate:links:portable")		{include("php/links.php");include("php/links/l.portable.html");}
-		elseif ($to == "syndicate:links:scene")				{include("php/links.php");include("php/links/l.scene.html");}
-		elseif ($to == "syndicate:links:security")		{include("php/links.php");include("php/links/l.security.html");}
-		elseif ($to == "syndicate:links:share")				{include("php/links.php");include("php/links/l.share.html");}
-		elseif ($to == "syndicate:links:storage")			{include("php/links.php");include("php/links/l.storage.html");}
-		elseif ($to == "syndicate:links:torrent")			{include("php/links.php");include("php/links/l.torrent.html");}
-		elseif ($to == "syndicate:links:tv")					{include("php/links.php");include("php/links/l.tv.html");}
-		elseif ($to == "syndicate:links:unlock")			{include("php/links.php");include("php/links/l.unlock.html");}
-		elseif ($to == "syndicate:links:webmaster")		{include("php/links.php");include("php/links/l.webmaster.html");}
-		elseif ($to == "syndicate:links:xdcc")				{include("php/links.php");include("php/links/l.xdcc.html");}
+		elseif ($to == "syndicate:links:audio")				{include("content/links.php");include("content/links/l.audio.html");}
+		elseif ($to == "syndicate:links:code")				{include("content/links.php");include("content/links/l.code.html");}
+		elseif ($to == "syndicate:links:design")			{include("content/links.php");include("content/links/l.design.html");}
+		elseif ($to == "syndicate:links:develope")		{include("content/links.php");include("content/links/l.develope.html");}
+		elseif ($to == "syndicate:links:document")		{include("content/links.php");include("content/links/l.document.html");}
+		elseif ($to == "syndicate:links:emulate")			{include("content/links.php");include("content/links/l.emulate.html");}
+		elseif ($to == "syndicate:links:erotic")			{include("content/links.php");include("content/links/l.erotic.html");}
+		elseif ($to == "syndicate:links:ftp")					{include("content/links.php");include("content/links/l.ftp.html");}
+		elseif ($to == "syndicate:links:games")				{include("content/links.php");include("content/links/l.games.html");}
+		elseif ($to == "syndicate:links:intern")			{include("content/links.php");include("content/links/l.intern.html");}
+		elseif ($to == "syndicate:links:irc")					{include("content/links.php");include("content/links/l.irc.html");}
+		elseif ($to == "syndicate:links:link")				{include("content/links.php");include("content/links/l.link.html");}
+		elseif ($to == "syndicate:links:music")				{include("content/links.php");include("content/links/l.music.html");}
+		elseif ($to == "syndicate:links:os")					{include("content/links.php");include("content/links/l.os.html");}
+		elseif ($to == "syndicate:links:portable")		{include("content/links.php");include("content/links/l.portable.html");}
+		elseif ($to == "syndicate:links:scene")				{include("content/links.php");include("content/links/l.scene.html");}
+		elseif ($to == "syndicate:links:security")		{include("content/links.php");include("content/links/l.security.html");}
+		elseif ($to == "syndicate:links:share")				{include("content/links.php");include("content/links/l.share.html");}
+		elseif ($to == "syndicate:links:storage")			{include("content/links.php");include("content/links/l.storage.html");}
+		elseif ($to == "syndicate:links:torrent")			{include("content/links.php");include("content/links/l.torrent.html");}
+		elseif ($to == "syndicate:links:tv")					{include("content/links.php");include("content/links/l.tv.html");}
+		elseif ($to == "syndicate:links:unlock")			{include("content/links.php");include("content/links/l.unlock.html");}
+		elseif ($to == "syndicate:links:webmaster")		{include("content/links.php");include("content/links/l.webmaster.html");}
+		elseif ($to == "syndicate:links:xdcc")				{include("content/links.php");include("content/links/l.xdcc.html");}
 	  #links:view
-		elseif ($to == "syndicate:links:view-all")		{include("php/links.php");include("php/links/view.php");}
+		elseif ($to == "syndicate:links:view-all")		{include("content/links.php");include("content/links/view.php");}
     # software:category
-		elseif ($to == "syndicate:software:audio")						{include("php/software.php");include("php/software/s.audio.html");}
-		elseif ($to == "syndicate:software:burn")							{include("php/software.php");include("php/software/s.burn.html");}
-		elseif ($to == "syndicate:software:chat")							{include("php/software.php");include("php/software/s.chat.html");}
-		elseif ($to == "syndicate:software:code")							{include("php/software.php");include("php/software/s.code.html");}
-		elseif ($to == "syndicate:software:corporate")				{include("php/software.php");include("php/software/s.corporate.html");}
-		elseif ($to == "syndicate:software:design")						{include("php/software.php");include("php/software/s.design.html");}
-		elseif ($to == "syndicate:software:editor")						{include("php/software.php");include("php/software/s.editor.html");}
-		elseif ($to == "syndicate:software:emulate")					{include("php/software.php");include("php/software/s.emulate.html");}
-		elseif ($to == "syndicate:software:ftp")							{include("php/software.php");include("php/software/s.ftp.html");}
-		elseif ($to == "syndicate:software:miscellaneous")		{include("php/software.php");include("php/software/s.miscellaneous.html");}
-		elseif ($to == "syndicate:software:office")						{include("php/software.php");include("php/software/s.office.html");}
-		elseif ($to == "syndicate:software:os")								{include("php/software.php");include("php/software/s.os.html");}
-		elseif ($to == "syndicate:software:packer")						{include("php/software.php");include("php/software/s.packer.html");}
-		elseif ($to == "syndicate:software:portable")					{include("php/software.php");include("php/software/s.portable.html");}
-		elseif ($to == "syndicate:software:recovery")					{include("php/software.php");include("php/software/s.recovery.html");}
-		elseif ($to == "syndicate:software:security")					{include("php/software.php");include("php/software/s.security.html");}
-		elseif ($to == "syndicate:software:sourcecode")				{include("php/software.php");include("php/software/s.sourcecode.html");}
-		elseif ($to == "syndicate:software:system")						{include("php/software.php");include("php/software/s.system.html");}
-		elseif ($to == "syndicate:software:tv")								{include("php/software.php");include("php/software/s.tv.html");}
-		elseif ($to == "syndicate:software:video")						{include("php/software.php");include("php/software/s.video.html");}
+		elseif ($to == "syndicate:software:audio")						{include("content/software.php");include("content/software/s.audio.html");}
+		elseif ($to == "syndicate:software:burn")							{include("content/software.php");include("content/software/s.burn.html");}
+		elseif ($to == "syndicate:software:chat")							{include("content/software.php");include("content/software/s.chat.html");}
+		elseif ($to == "syndicate:software:code")							{include("content/software.php");include("content/software/s.code.html");}
+		elseif ($to == "syndicate:software:corporate")				{include("content/software.php");include("content/software/s.corporate.html");}
+		elseif ($to == "syndicate:software:design")						{include("content/software.php");include("content/software/s.design.html");}
+		elseif ($to == "syndicate:software:editor")						{include("content/software.php");include("content/software/s.editor.html");}
+		elseif ($to == "syndicate:software:emulate")					{include("content/software.php");include("content/software/s.emulate.html");}
+		elseif ($to == "syndicate:software:ftp")							{include("content/software.php");include("content/software/s.ftp.html");}
+		elseif ($to == "syndicate:software:miscellaneous")		{include("content/software.php");include("content/software/s.miscellaneous.html");}
+		elseif ($to == "syndicate:software:office")						{include("content/software.php");include("content/software/s.office.html");}
+		elseif ($to == "syndicate:software:os")								{include("content/software.php");include("content/software/s.os.html");}
+		elseif ($to == "syndicate:software:packer")						{include("content/software.php");include("content/software/s.packer.html");}
+		elseif ($to == "syndicate:software:portable")					{include("content/software.php");include("content/software/s.portable.html");}
+		elseif ($to == "syndicate:software:recovery")					{include("content/software.php");include("content/software/s.recovery.html");}
+		elseif ($to == "syndicate:software:security")					{include("content/software.php");include("content/software/s.security.html");}
+		elseif ($to == "syndicate:software:sourcecode")				{include("content/software.php");include("content/software/s.sourcecode.html");}
+		elseif ($to == "syndicate:software:system")						{include("content/software.php");include("content/software/s.system.html");}
+		elseif ($to == "syndicate:software:tv")								{include("content/software.php");include("content/software/s.tv.html");}
+		elseif ($to == "syndicate:software:video")						{include("content/software.php");include("content/software/s.video.html");}
     #software:view
-		elseif ($to == "syndicate:software:view-all")					{include("php/software.php");include("php/software/view.php");}
+		elseif ($to == "syndicate:software:view-all")					{include("content/software.php");include("content/software/view.php");}
 /*
 elseif ($to == "in")
 {
@@ -402,7 +402,7 @@ elseif ($to == "in")
 	else {
 #	$username = '$_POST[username]';$password = '$_POST[password]';
 	if ($nosession_username = $_POST['username']=="tsc" && $_POST['password']=="0001355") {
-	include("php/member-start.php");}
+	include("content/member-start.php");}
 	else {
 		echo '<meta target="_self" http-equiv="refresh" content="0; URL=?to=login">';
 		}
@@ -413,7 +413,7 @@ elseif ($to == "in")
 }
  */
 		# secure
-		else {include("php/welcome.php");}
+		else {include("content/welcome.php");}
 		?>
 	</td>
 	</tr>

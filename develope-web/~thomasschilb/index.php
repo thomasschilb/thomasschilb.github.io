@@ -285,26 +285,26 @@ li.dropdown {
 		# get
 		$to = $_GET['to'];
 		# include given
-		if ($to == "welcome")      								{include("php/welcome.php");}
-		elseif ($to == "projects:archive")  					{include("php/projects-archive.php");}
-		elseif ($to == "projects:podcast")  					{include("php/projects-podcast.php");}
-		elseif ($to == "projects:web")  						{include("php/projects-web.php");}
-		elseif ($to == "service:email")  						{include("php/service-email.php");}
-		elseif ($to == "service:ftp")  							{include("php/service-ftp.php");}
-		elseif ($to == "service:repository")					{include("php/service-repository.php");}
-		elseif ($to == "service:irc")							{include("php/service-irc.php");}
-		elseif ($to == "linklist:darknet")  					{include("php/linklist-darknet.php");}
-		elseif ($to == "linklist:exploits")  					{include("php/linklist-exploits.php");}
-		elseif ($to == "linklist:file-sharing")  				{include("php/linklist-filesharing.php");}
-		elseif ($to == "money")  								{include("php/money.php");}
-		elseif ($to == "contact")  								{include("php/contact.php");}
-		elseif ($to == "about")   								{include("php/about.php");}
+		if ($to == "welcome")      								{include("content/welcome.php");}
+		elseif ($to == "projects:archive")  					{include("content/projects-archive.php");}
+		elseif ($to == "projects:podcast")  					{include("content/projects-podcast.php");}
+		elseif ($to == "projects:web")  						{include("content/projects-web.php");}
+		elseif ($to == "service:email")  						{include("content/service-email.php");}
+		elseif ($to == "service:ftp")  							{include("content/service-ftp.php");}
+		elseif ($to == "service:repository")					{include("content/service-repository.php");}
+		elseif ($to == "service:irc")							{include("content/service-irc.php");}
+		elseif ($to == "linklist:darknet")  					{include("content/linklist-darknet.php");}
+		elseif ($to == "linklist:exploits")  					{include("content/linklist-exploits.php");}
+		elseif ($to == "linklist:file-sharing")  				{include("content/linklist-filesharing.php");}
+		elseif ($to == "money")  								{include("content/money.php");}
+		elseif ($to == "contact")  								{include("content/contact.php");}
+		elseif ($to == "about")   								{include("content/about.php");}
 		elseif ($to == "login")   								{include("login.php");}
 		elseif ($to == "logout")   								{include("logout.php");}
-		elseif ($to == "member")   								{include("php/member-welcome.php");}
+		elseif ($to == "member")   								{include("content/member-welcome.php");}
 		elseif ($to == "register")   							{include("registration.php");}
-		elseif ($to == "tac")   								{include("php/tac.php");}
-		elseif ($to == "privacy")  								{include("php/privacy.php");}
+		elseif ($to == "tac")   								{include("content/tac.php");}
+		elseif ($to == "privacy")  								{include("content/privacy.php");}
 elseif ($to == "in")
 {
 	$login = $_GET['login'];
@@ -318,7 +318,7 @@ elseif ($to == "in")
 	else {
 #	$username = '$_POST[username]';$password = '$_POST[password]';
 	if ($nosession_username = $_POST['username']=="tsc" && $_POST['password']=="0001355") {
-	include("php/member-start.php");}
+	include("content/member-start.php");}
 	else {
 		echo '<meta target="_self" http-equiv="refresh" content="0; URL=?to=login">';
 		}
@@ -328,7 +328,7 @@ elseif ($to == "in")
 				}
 }
 		# secure
-		else {include("php/welcome.php");}
+		else {include("content/welcome.php");}
 		?>
 	</td>
 	</tr>

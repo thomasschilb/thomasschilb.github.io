@@ -171,13 +171,13 @@ a:hover {
 		<td valign="top" class="auto-style12" style="width: 159px">repository-ts</td>
 		<td valign="top" style="width: 87px">-</td>
 		<td valign="top">Read-Only</td>
-		<td valign="top">/</td>
+		<td valign="top">/Eigene Dateien</td>
 		<td valign="top">
 		80, 443</td>
 		<td valign="top">
 		microsoft-cloud</td>
 		<td valign="top">
-		<a href="https://1drv.ms/u/s!AjwlBTgLspToi7coGplB5ID7gRggJw?e=zX4kuE" target="_blank">
+		<a href="https://1drv.ms/u/s!AjwlBTgLspTojfpzr5TUnl26-qSX6w?e=eWQsbi" target="_blank">
 		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
 	<tr>
@@ -200,7 +200,7 @@ a:hover {
 		<td valign="top" class="auto-style12" style="width: 159px">repository-sites</td>
 		<td valign="top" style="width: 87px">-</td>
 		<td valign="top">Read-Only</td>
-		<td valign="top">/thomasschilb.github.io/</td>
+		<td valign="top">/thomasschilb.github.io</td>
 		<td valign="top">
 		80, 443</td>
 		<td valign="top">
