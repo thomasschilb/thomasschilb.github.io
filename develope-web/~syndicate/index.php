@@ -27,20 +27,19 @@
 <meta name="revisit-after" content="2 Days"> 
 <meta name="alexa" content="100">
 <meta name="viewport" content="width=device-width, height=device-height">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-<style>
+<link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet"><style>
 
 /* BODY */
 
 body {
-			font-family: 'Open Sans', sans-serif;
+			font-family: 'Share Tech Mono';
 			margin: 0;
 			color: #808080;
 			background-color: #000000
 }
 
 font {
-				font-family: 'Open Sans', sans-serif;
+				font-family: 'Share Tech Mono';
 				font-size: 11pt;
 	}
 

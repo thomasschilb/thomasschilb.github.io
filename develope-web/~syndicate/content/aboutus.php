@@ -10,7 +10,7 @@
 /* BODY */
 
 body {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Share Tech Mono';
 	}
 
 /* HYPERLINKS */
@@ -32,7 +32,7 @@ a:hover {
 /* TABLE */
 
 #tstable {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Share Tech Mono';
   border-collapse: collapse;
 }
 
@@ -79,7 +79,7 @@ a:hover {
 }
 
 #tstable0 {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Share Tech Mono';
   border-collapse: collapse;
 }
 
@@ -89,7 +89,7 @@ a:hover {
 }
 
 #tstable0 {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Share Tech Mono';
   border-collapse: collapse;
 }
 
@@ -101,7 +101,7 @@ a:hover {
 }
 
 #tstable0 {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Share Tech Mono';
   border-collapse: collapse;
 }
 
@@ -111,7 +111,7 @@ a:hover {
 }
 
 #tstable0 {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Share Tech Mono';
   border-collapse: collapse;
 }
 
