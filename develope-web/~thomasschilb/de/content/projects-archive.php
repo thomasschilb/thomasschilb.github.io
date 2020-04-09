@@ -130,7 +130,7 @@ a:hover {
 </head>
 
 <body style="margin: 0; color: #808080; background-color: #000000">
-<p class="table-footer-center">P R O J E K T E : A R C H I V E&nbsp; |&nbsp; 
+<p class="table-footer-center">P R O J E K T E : A R C H I V&nbsp; |&nbsp; 
 1 0</p>
 <p class="auto-style7">Offiziell [3]<br></p>
 <table cellspacing="0" id="tstable" width="100%">

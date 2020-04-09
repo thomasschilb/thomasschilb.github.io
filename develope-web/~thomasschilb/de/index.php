@@ -239,7 +239,7 @@ li.dropdown {
 		<td class="font-small" style="height: 35px"></td>
 	</tr>
 	<tr>
-		<td class="font-small"><font size="3">&nbsp;</font><a target="_self" href="?to=welcome" target="_self"><img height="78" src="img/ts.png" width="161" class="font-12pt-boder-null"></a></td>
+		<td class="font-small"><font size="3">&nbsp;</font><a target="_self" href="?to=willkommen" target="_self"><img height="78" src="img/ts.png" width="161" class="font-12pt-boder-null"></a></td>
 	</tr>
 	<tr>
 		<td class="font-small" style="height: 23px"></td>
@@ -250,7 +250,7 @@ li.dropdown {
   <li class="dropdown">
     <a target="_self" href="javascript:void(0)" class="dropbtn">Projekte</a>
     <div class="dropdown-content">
-      <a target="_self" href="?to=projekte:archive">Archive</a>
+      <a target="_self" href="?to=projekte:archiv">Archiv</a>
       <a target="_self" href="?to=projekte:podcast">Podcast</a>
       <a target="_self" href="?to=projekte:web">Web</a>
     </div>
@@ -285,8 +285,8 @@ li.dropdown {
 		# get
 		$to = $_GET['to'];
 		# include given
-		if ($to == "welcome")      								{include("de/content/welcome.php");}
-		elseif ($to == "projekte:archive")  					{include("de/content/projects-archive.php");}
+		if ($to == "willkommen")      							{include("de/content/welcome.php");}
+		elseif ($to == "projekte:archiv")  						{include("de/content/projects-archive.php");}
 		elseif ($to == "projekte:podcast")  					{include("de/content/projects-podcast.php");}
 		elseif ($to == "projekte:web")  						{include("de/content/projects-web.php");}
 		elseif ($to == "service:email")  						{include("de/content/service-email.php");}
@@ -303,8 +303,8 @@ li.dropdown {
 		elseif ($to == "logout")   								{include("logout.php");}
 		elseif ($to == "member")   								{include("de/content/member-welcome.php");}
 		elseif ($to == "register")   							{include("registration.php");}
-		elseif ($to == "tac")   								{include("de/content/tac.php");}
-		elseif ($to == "privacy")  								{include("de/content/privacy.php");}
+		elseif ($to == "impressum")								{include("de/content/impressum.php");}
+		elseif ($to == "datenschutz")							{include("de/content/datenschutz.php");}
 		# secure
 		else {include("de/content/welcome.php");}
 		?>
@@ -317,7 +317,8 @@ li.dropdown {
 		Alle Rechte Vorbehalten.<br>
 		</td>
 		<td class="bar-footer-right">
-		<a href="?to=tac" target="_self">Impressum</a> | Privatsphäre</td>
+		<a href="?to=impressum" target="_self">Impressum</a> | 
+		<a href="?to=datenschutz">Datenschutz &amp; Bedingungen</a></td>
 	</tr>
 </table>
 </font>

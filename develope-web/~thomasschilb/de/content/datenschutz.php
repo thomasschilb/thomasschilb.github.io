@@ -4,7 +4,7 @@
 <head>
 <meta content="de" http-equiv="Content-Language">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<title>TS | Privatssphäre</title>
+<title>TS | Datenschutz &amp; Bedingungen</title>
 <style>
 
 /* BODY */
@@ -84,21 +84,21 @@ a:hover {
 </head>
 
 <body style="margin: 0; color: #808080; background-color: #000000">
-<p class="text-underline">D A T E N S C H U T Z</p>
+<p class="text-underline">D A T E N S C H U T Z&nbsp; &amp;&nbsp; B E D I N G U N G 
+E N</p>
 <p class="table-footer-center">&nbsp;</p>
 <table cellspacing="0" id="tstable-privacy" width="100%">
 	<tr>
 		<th class="auto-style1">Datenschutz-Bestimmungen</th>
 	</tr>
 	<tr>
-		<td>Bei thomasschilb.net, das über http://thomasschilb.net zugänglich 
-		ist, ist die Privatsphäre unserer Besucher eine unserer 
-		Hauptprioritäten. Dieses Datenschutzdokument enthält Arten von 
-		Informationen, die von thomasschilb.net gesammelt und aufgezeichnet 
-		werden, und wie wir sie verwenden.<br><br>Wenn Sie weitere Fragen haben 
-		oder weitere Informationen zu unserer Datenschutzrichtlinie benötigen,<br>
-		Zögern Sie nicht, uns per E-Mail unter thomas.schilb {at} live.de zu 
-		kontaktieren</td>
+		<td>Bei thomasschilb.de, das über https://thomasschilb.de zugänglich ist, 
+		ist die Privatsphäre unserer Besucher eine unserer Hauptprioritäten. 
+		Dieses Datenschutzdokument enthält Arten von Informationen, die von 
+		thomasschilb.de gesammelt und aufgezeichnet werden, und wie wir sie 
+		verwenden.<br><br>Wenn Sie weitere Fragen haben oder weitere 
+		Informationen zu unserer Datenschutzrichtlinie benötigen,<br>Zögern Sie 
+		nicht, uns per E-Mail unter thomas.schilb{at}live.de zu kontaktieren</td>
 	</tr>
 	</table>
 
@@ -107,7 +107,7 @@ a:hover {
 		<th class="auto-style1">Protokolldateien</th>
 	</tr>
 	<tr>
-		<td>thomasschilb.net folgt einem Standardverfahren zur Verwendung von 
+		<td>thomasschilb.de folgt einem Standardverfahren zur Verwendung von 
 		Protokolldateien. Diese Dateien protokollieren Besucher, wenn sie 
 		Websites besuchen. Alle Hosting-Unternehmen tun dies und sind Teil der 
 		Analyse der Hosting-Services. Die von Protokolldateien gesammelten 
@@ -125,17 +125,16 @@ a:hover {
 	</tr>
 	<tr>
 		<td>In dieser Liste finden Sie die Datenschutzbestimmungen für jeden 
-		Werbepartner von thomasschilb.net.<br><br>Ad-Server oder Ad-Netzwerke 
-		von Drittanbietern verwenden Technologien wie Cookies, JavaScript oder 
-		Web Beacons, die in ihren jeweiligen Anzeigen und Links auf 
-		thomasschilb.net verwendet werden und direkt an den Browser der Benutzer 
-		gesendet werden. In diesem Fall erhalten sie automatisch Ihre 
-		IP-Adresse. Diese Technologien werden verwendet, um die Effektivität 
-		ihrer Werbekampagnen zu messen und / oder um den Werbeinhalt zu 
-		personalisieren, den Sie auf den von Ihnen besuchten Websites sehen.<br>
-		<br>Beachten Sie, dass thomasschilb.net keinen Zugriff auf oder keine 
-		Kontrolle über diese Cookies hat, die von Werbekunden Dritter verwendet 
-		werden.</td>
+		Werbepartner von thomasschilb.de.<br><br>Ad-Server oder Ad-Netzwerke von 
+		Drittanbietern verwenden Technologien wie Cookies, JavaScript oder Web 
+		Beacons, die in ihren jeweiligen Anzeigen und Links auf thomasschilb.de 
+		verwendet werden und direkt an den Browser der Benutzer gesendet werden. 
+		In diesem Fall erhalten sie automatisch Ihre IP-Adresse. Diese 
+		Technologien werden verwendet, um die Effektivität ihrer Werbekampagnen 
+		zu messen und / oder um den Werbeinhalt zu personalisieren, den Sie auf 
+		den von Ihnen besuchten Websites sehen.<br><br>Beachten Sie, dass 
+		thomasschilb.de keinen Zugriff auf oder keine Kontrolle über diese 
+		Cookies hat, die von Werbekunden Dritter verwendet werden.</td>
 	</tr>
 	</table>
 <table cellspacing="0" id="tstable-privacy" width="100%">
@@ -143,7 +142,7 @@ a:hover {
 		<th class="auto-style1">Datenschutzrichtlinien von Drittanbietern</th>
 	</tr>
 	<tr>
-		<td>Die Datenschutzbestimmungen von thomasschilb.net gelten nicht für 
+		<td>Die Datenschutzbestimmungen von thomasschilb.de gelten nicht für 
 		andere Werbetreibende oder Websites. Wir empfehlen Ihnen daher, die 
 		jeweiligen Datenschutzrichtlinien dieser Ad-Server von Drittanbietern zu 
 		konsultieren, um detailliertere Informationen zu erhalten. Es kann ihre 
@@ -162,7 +161,7 @@ a:hover {
 	<tr>
 		<td>Diese Datenschutzrichtlinie gilt nur für unsere Online-Aktivitäten 
 		und gilt für Besucher unserer Website in Bezug auf die Informationen, 
-		die sie auf thomasschilb.net geteilt und / oder gesammelt haben. Diese 
+		die sie auf thomasschilb.de geteilt und / oder gesammelt haben. Diese 
 		Richtlinie gilt nicht für Informationen, die offline oder über andere 
 		Kanäle als diese Website gesammelt werden.</td>
 	</tr>
