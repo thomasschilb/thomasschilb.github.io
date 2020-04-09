@@ -1,0 +1,192 @@
+     __ __    ____ ____ ___  ___      __ __   __ ____
+  __/ // /_  /   /     /\   \/  /    /_//  | / /  __ ' /                                                  
+ /_  _  __/_/   /  /  /  \     /    __ /   |/ /  / /  /
+/_  _  __/ __  /  /  /   /     \   / //  \   /\___,  /
+ /_//_/ /_____/_____/   /___/\__\ /_//__/ \_//______/
+                                                       
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/--/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-Pre-Information-/-/-/-/-/-/-/-/-/-/-/-/-/--/-/-/-/-/-/-/-/-/-/-/-/-/--/-/-
+
+Dox- search for and publish private or identifying information about (a particular individual) on the Internet, typically with malicious intent.
+
+"Remember, having the tools or even knowing the common techniques won’t make you a doxer. You must pay attention to the details and follow the leads specific to your target. Your own ability to do this will determine the outcome of your results and if you are new to this, it takes practice."  - Anonymous
+
+This guide is set up in a very simple fashion. We supply you with information, websites and tools that help you dox from all angles. It will start with how to find a basic piece of information, how to use it to find more information and what to do from there. As long as you know how to type, then this guide will help you get the dox.
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/--/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-Anonymity-/-/-/-/-/-/-/-/-/-/-/-/-/--/-/-/-/-/-/-/-/-/-/-/-/-/--/-/-
+
+Before you start your dox, you first have to ensure that you are not using any personal information. If you are social engineering, then you will have to make fake email accounts and fake social media to keep your identity safe. Even if you are just doing a simple dox, you must always take into consideration what bread crumbs you are leaving behind. This section will help keep you safe and off the radar. 
+
+-[10minutemail] This is exactly as it sounds. It is a free email you get for 10 minutes. You can also extended the time if you need to. My personal favorite is my10minutemail, however you are free to use whatever you like best.
+
+ -[YopMail] An alternative to 10minutemail. The only difference is that the messages is kept for 8 days instead of 10 minutes. Depends on the time interval needed to complete your mission. 
+
+-[Phones] You can call using multiple platforms. These include http://knctr.com/free-phone-calls/ and any other you want to find on the internet. For texting, I recommended http://www.textem.net/. Please note, you cannot receive texts back. You can easily google for many other ones as well. There are free receiving online texts, but the normally fail hard. These are all unreliable, so I would suggest using a disposable phone.
+
+-[Fake Name] If you have to create a fake profile to get a dox, I would recommend using [http://www.fakenamegenerator.com]. It is very useful, giving you everything from a fake name, to a fake social security number, to a fake blood type. I would suggest checking it out even if you are not doxing anyone at the moment. 
+
+-[http://www.elfqrin.com/hacklab/pages/discard.php] This site allows you to see if a credit card number is legit. Some sites might require one, and a real one, so this lets you see if it actually exists.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/Google-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+I am dedicating an entire section to Google because it is by far your most useful tool. There are a million different uses for it, and I am here to list a few.
+
+-[Quotations ("")] So when you type something into Google, you will be given a million different results. This complicates things because it is impossible it look through every single one. That is why quotations are so useful. To use them, simply do "(#)" and then put any unwanted words afterwards with a - before it. For example, if I am trying to look up a phone number and don't want any reverse phone number BS, I do "(#)" -reverse, -lookup, -results, -directory, -area. Then i might find a Facebook post of where they put up their phone number or a Craigslist add. Using this will narrow down results quickly and is a huge time saver.  
+
+-[http://www.googleguide.com/] If you think the quotations were useful, then this will blow your mind. Everything that will help you narrow down your results are in here. I found quotations the most useful, so I wrote up about them. However, there are an unbelievable amount of tools here that can make your search results that much better. 
+
+-[Picture Lookup] If you have a picture of the person you are looking for, then you can upload and use the following google search code to lookup other places where the picture might be located.
+CODE:
+https://www.google.com/searchbyimage?hl=en&safe=off&biw=1920&bih=1080&site=search&image_url=(image location)
+
+-[Email] Obtain the targets e-mail address. Google the user and put @ at the end. Example: 'username' @. This will pull up any POSTS ONLINE by this person if there are any. Sometimes you can social engineer someones e-mail address just by asking for it, or getting it from a friend. 
+
+-[Google Search] By entering your targets name, you can easily search for them through google rather than each site individual.
+CODE: 
+https://www.google.dk/search?hl=en&pb=r&q=NAME+HERE+%28first+or+last+or+both%29+optional:+state/zipcode/city/etc.&gws_rd=cr&ei=wEjiVezgNISF7Qalp4boDA
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/Social Media-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+-ANY form of Social Media (Facebook, Twitter, Google+ etc). Read through all of their posts. There can be address posts, phone numbers etc. Look at their personal information. If they are a minor, then you will need their parents name to look anything up. Be sure to look at their friends who post on their wall or retweet them a lot. This will help because if the person is cautious, their friends walls/pages might be of more value. 
+
+-[Facebook] You can look up their email in Facebook search and find the person's Facebook Page. May contain information such as Phone Numbers, Family Members, and if you are lucky, License plate Numbers (If you find a picture of their car)
+
+-[Twitter] There is a lot of personal information that can be found on Twitter. You can find other sites they are linked to. You can find stuff they like and record it down for future notice. 
+
+-[Google+] Yes it can be useful. Many people do not realize it, but they are posting on Google+ often. Every YouTube account is linked to Google+, and unless the user changes the setting, every YouTube comment is posted on their Google+ page.
+
+-[Instagram] Not as useful. However, if you have their pictures, and are having difficulty finding out their Facebook, you can run their pictures through a facial recognizer and might be able to find their Facebook.
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/Address Lookup-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+-[whitepages.com] Yellow pages of the internet. Requires their first and last name. Having a location helps narrow down the options. Some of the information may be out of date, but is a good starting tool to look up peoples information. However, it is free.
+
+-[http://www.zabasearch.com] A backup if White Pages fails. Normally doesn't work as well as White Pages, but is worth a shot if White Pages doesn't return the results 
+
+-[http://www.411.com] Another good address lookup. Has other functions as well, such as reverse phone number lookup and Find a Business. 
+
+-[PayPal]{RISKY} When you have the e-mail of your target, login to PayPal. Transfer .01 USD to the e-mail of your slave. When sent, you will have all of the information on the PayPal account. (Name, address, phone, etc.) But this also looks 
+rather suspicious and gives them all you account info. 
+
+-[https://www.advancedbackgroundchecks.com] Another address search tool. Can tell you who they might know. You can pay for telephone and email information as well.
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/Email Address-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+Having an email address is very helpful. It can easily help you find countless information such as IP address, social media, 
+
+-[http://www.lullar.com/] An extremely useful site. If you have their email, then you can use this to find what else the persons email is attached to (i.e. Facebook, Twitter, etc). You can also search using their usernames for whatever game or device they are using. Also works for names, but not very well.
+
+-[Facebook] You can search peoples emails in the Facebook bar, and if they put in their email, it will give you their Facebook page. 
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/Ip Address Searching-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+Having someones IP address is one of the most useful information out there. With all of these 1337 hackers, their Ip address is their life. If you obtain their Ip address, then they will pretty much be your bitch. You are going to need information on them, an email address is the most helpful, to pull the rest. If you can take their IP address, then you are going to be sailing for the rest of the dox. 
+
+..::How To Get Their IP::..
+
+-[http://whatstheirip.com] "Step 1: Enter your email address below and click "Get Link" Step 2: Send your friend the innocent looking link we provide you Step 3: When your friend, or anyone for that matter, clicks the link, a hidden script will email you their IP address and geo targeting location!" Very useful site. BE AWARE. It will tell them the email it sends the IP too.
+
+-[https://www.robtex.com/] Gives information about IP addresses and DNS. Very useful, a good secondary for who.is.
+
+-[http://ipaddress.com] Once you get their Ip using http://whatstheirip.com, you can use this to find their Zip, Location and Operating System. 
+
+-[http://ns.myip.ms/] Another good tool to look up Ips with. Can also give you phone numbers, OS, Browser and a few other interesting information
+
+-[who.is] IP lookup. There is more information about it below.
+
+-[http://www.ip-adress.com/ip_tracer/] Gives the longitude and latitude of and IP address. Is fairly accurate from my findings.
+
+-Please realize that if they are using a VPN or proxy when they open the email, it will give you an incorrect place. Also, crosscheck the IP using multiple sources to ensure the location is right.
+
+-This is not super accurate. It will most likely get you within a 100 mile radius. This is more of a starting place to find the State they live in, rather than the exact city.
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/General Searches-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+-[pipl.com] Name, Email, Username, Phone look up. VERY USEFUL. Can look up Key Words and link them to twitter posts. Relatively Free 
+
+-[spokeo.com] An extremely good lookup for email, Name, Address and Phone Number. It works well but costs money. 
+
+-[http://intelius.com] A very nice free search engine. Gives education, previous job details, people who are related to him. If you are willing to pay you get much more. 
+
+-[Who.is] Domain name and Ip search. Only works if they are stupid enough to put all of their information into a domain name. 
+
+-[http://checkusernames.com] Can search across many platforms to lookup usernames. Looks up usernames on 160 different Social Networks. Does not include PSN or Xbox Live
+
+-[http://knowem.com] Username and Domain Name search. If you want a extent of information you are going to have to sign up for an account, which is extremely expensive. Little complicated to get the hang of it. 
+
+-[http://www.zoominfo.com/-professional] Here you can lookup any persons past career and employment records. Not as useful in the over scheme of things, but never hurts to have more information on someone
+
+-[http://www.jailbase.com] Jail Records. It can be useful for blackmail, but as for finding information such as address and phone number is useless. Also costs $$
+
+-[http://skipease.com/] Sort of a cheat site. Uses several search engine and links you directly to them.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/--/-/-/-Picture Lookup-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+-[www.tineye.com] Picture recognition website. It can see if the picture you found was posted elsewhere (Like another social media website). It can also tell you if the picture is false. 
+
+-[Codes] If the person you are looking up has an Instagram, then a easy search method (using webstagram) is 
+CODE :
+http://web.stagram.com/n/(username)
+http://(username).imgur.com/
+
+-[Google] If you are using Google Chrome you can simply right click on this avatar and chose the option “Search Google for this image.”, you will then be taken to a Google search result page where you will find links to other websites where the exact or a very similar image has been used, most of the time people have a single “profile picture” that they use everywhere.
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/Phone Number Lookup-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+-[http://www.fonefinder.net] Exactly as it sounds. Works Internationally. Will not give you the name of the person, but can narrow it down to a city using the area code. Will also tell you the if it is a land line or mobile phone. 
+
+-[http://www.isearch.com] Not very reliable, doesn't always come back with results. But it is worth a shot.
+
+-[www.spydialer.com] Interesting little tool that you give you a good hand when needed. Can supply the name from a phone number or give you their voicemail.
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-Skype Resolvers/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+Enter their Skype username and it feeds back their last used IP:
+
+-[http://skypegrab.net/resolver.php] The best one of the bunch. The rest are back ups in case this one fails for a reason.
+-[https://mostwantedhf.info/]
+-[http://skresolver.com/]
+-[https://resolvethem.com/]
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/EXIF Data-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+Metadata from images, can be useful for location and camera/cellphone type and much more:
+
+-[http://regex.info/exif.cgi] Tells you a variety of information, though not also useful.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/[Lat/Long-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Enter where they live and you will get the latitude and longitude.
+
+-[http://www.latlong.net/] Normally prints it out pretty well, not as vital for a dox
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/MAC Address Search-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+
+If you managed to get their MAC, then this will just tell you the brand of NIC or laptop.
+
+-[http://coffer.com/mac_find/]
+-[http://www.macvendorlookup.com/]
+-[http://macaddresslookup.org/]
+-[http://aruljohn.com/mac.pl]
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+/-/-/-/
+
+Good Articles to Read up on:
+https://en.wikipedia.org/wiki/Doxing
+https://www.hackthissite.org/articles/read/1107
+https://ctrlaltnarwhal.wordpress.com/2012/10/21/how-to-dox-anyone/
+http://hacksociety.net/Thread-Tutorial-TuT-Advanced-Doxing-Tutorial-TuT
+
+Tor only articles:
+http://kpynyvym6xqi7wz2.onion/links.html
+http://deepwikizpkrt67e.onion/index.php/How_to_Exit_the_Matrix
+
+Special Thanks To:
+    Gh0stersec

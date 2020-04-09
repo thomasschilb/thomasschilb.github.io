@@ -1,0 +1,410 @@
+Let’s start with the Basics
+
+Introduction to Carding and Key Points
+
+There are multiple definitions available per different views.
+Carding itself is defined as the illegal use of the card (Credit/Debit) by unauthorized people (carder) to buy a product. For educational purposes, I will now show how a carder is able to go about their illicit activities. Remember – carding is highly illegal, and should not be attempted under any circumstances.
+
+1. 1 Key points in carding method
+
+
+2. Let start to understand each point one by one
+
+2.1 Computer (PC):
+For doing carding always use a computer. I know some methods using a mobile device, but it is less secure and involves more risk.
+2.2 SOCKS:
+SOCKS stands for SOCKet Secure. It is internet protocol which allows client and server traffic pass through a proxy server, so real IP is getting hidden and proxy IP get reflected.
+This is useful while carding because carder wants to use the credit card holder’s location while doing it.
+Users can buy SOCKS.
+2.3 Mac Address Changer:
+MAC stands for Media Access Control. It is the unique address of every Network Interface Card (NIC).
+A MAC address changer allows you to change the MAC address of NIC instantly. It is required to be anonymous and safe J
+2.4 CCleaner:
+It is very useful tool help in cleaning your browsing history, cookies, temp files, etc.
+Many people ignore this part and get caught, so be careful and don’t forget to use it J
+2.5 RDP (Remote Desktop Protocol):
+RDP allows one computer to connect to another computer within the network. It is protocol developed by Microsoft.
+Basically, carders use it to connect to computers of the geolocation of the person whose credit card carder want to use. It is used for safety and stay anon. Here carders using others’ PC for doing carding instead of their own.
+2.6 DROP:
+DROP is an address which the carder uses for the shipping address in the carding process.
+Let me explain in details with an example:
+If I am carding with US credit card, then I use USA address as shipping address then my order will be shipped successfully, and I will be safe. If you have relatives/friends, then no problem, otherwise use sites who provide drop services only we have to pay extra for shipping it.
+2.7 credit card (Credit Card):
+This part is very much important so read it carefully. Any credit card it is in the following format:
+| credit card Number |Exp Date| CVV2 code | Name on the Card | Address | City | State | Country | Zip code | Phone # (sometimes not included depending on where you get your credit card from)|
+e.g.: (randomly taken number/details)
+| 4305873969346315 | 05 | 2018 | 591 | UNITED STATES | John Mechanic | 201
+Stone Wayne Lane | Easternton | MA | 01949 |
+Types of Credit Card:
+Every Credit card company starts their credit card number with a unique number to identify individually like shown below
+American Express (AMEX Card) – 3
+Visa Card – 4
+Master Card – 5
+Discover (Disco) – 6
+
+
+Company wise credit card details:
+
+Visa
+
+1. Classic: The Card is used worldwide in any locations designated by Visa, including ATMs, real and virtual Stores, and shops offering goods and services by mail and telephone.
+
+2. Gold – This card has a higher limit capacity. Most used card and adopted worldwide.
+
+3. Platinum – Card is having limits over $10,000.
+
+4. Signature – No preset spending limit – great bin to get
+
+5. Infinite – Most prestigious card with having virtually no limit. There is less in circulation so be alert when buying these. Use only with reputable sellers!
+
+6. Business – it can be used for small to medium sized businesses, usually has a limit.
+
+7. Corporate – it can be used with medium to large size businesses, having more limit than a Business card.
+
+8. Black – It has limited membership. It has no limit only having $500 annual fee, high-end card.
+MasterCard
+1. Standard – it is same as classic visa card.
+2. Gold – it is same as visa gold card.
+3. Platinum – it is same as visa platinum card
+4. World – it has a very high limit.
+5. World Elite – it is virtually no limit, high-end card.
+Amex Card
+1. Gold – it usually has around a 10k limit.
+2. Platinum- is usually has a higher limit (around 35k).
+3. Centurion – it has a High limit (75k+). It is also known as the black card, note: do not confuse with visa black card.
+ 
+ 
+Q1. What is BIN?
+It is known as Bank Identification Number (BIN). It is a 6-digit number e.g.: 431408.
+ 
+ 
+Some of the reference sites which give BIN info which I also refer:
+www.bins.pro
+www.binlists.com
+www.exactbins.com
+Simply go to the site (www.bins.pro)àenter BIN number and click on find to get the details. I have added first 4 digits only.
+You can filter out the option as per requirement shown below
+ 
+We got most of the information from the site. Now the question is how to know the balance of CC. is it possible? and answer is Yes, I will let you know step by step using normal as well as Skype method J
+Q2. What is the meaning of VBV, NON VBV and MSC?
+VBV (Verified by Visa) – Extra level protection is added by Visa to protect the Card from fraud.
+Like DOB, password, Social Security Number and Mother’s name, etc. also sending OTP (one-time password) as extra security level to card owner mobile number to validate the transaction.
+NON VBV (Verified by Visa) –Handy to use. No need extra information as specified in VBV card while doing the transaction.
+Note it down (IMP)- Carders mainly buy and use NON VBV cards for carding.
+MSC (MasterCard Secure Code) – security level same as VBV card.
+Q3. What is AVS?
+It stands for Address Verification System
+It is the system which is used to identify the credit card holder original address with billing address provided by the user while shopping or online transaction.
+The system is used to identify the online fraud over the internet.
+Q4. How to check credit card is live or dead?
+There are many sites available on the internet to verify credit card is live or dead, but they charge for it approx. $0.001 (price may vary). Also, 80% websites kill the credit card so never use it.
+There are tools also available on the internet to check the credit card status, but most of them are a backdoor or Trojan so prefer not to use it.
+As such there is no easy method to check it. Carder uses own ways to find it out. One of the ways is…
+Most carder go to Porn sites, buy a membership and confirm the credit card is live and proceed with carding.
+Q5. How to check the credit card is live or dead? (Skype Method)
+(Note: method is posted on March 16)
+Login into Skype account and call on Magic number +18005xx5633 (masked). You will connect to voice mail (lady’s voice). Start by entering the credit card number, and voice mail lady will stop automatically.
+After that enter Expiry date of a card like 01 16 (mm: yy format).
+If your credit card is live then voice mail lady will speak like “Thank you for calling, we really appreciate your business, since u are a 1st-time caller we would like to connect you .. blah blah” then just hang the call.
+But if the credit card is used and voice mail lady speak like “Ohh I’m sorry please re-enter your credit card number now” then the card is dead. You can repeat the same process as many time you want.
+Note: You need a good internet connection for Skype calls.
+Q6. What is Bill=ship/Bill=CC/Ship=your Address?
+Kindly pay attention here as it is also the main portion in carding process. Any mistake will cancel the order and id get blocked.
+BILL=SHIP (Billing address: Shipping address)
+Take a scenario of normal online shopping scenario, when you are doing carding you will use billing address and shipping address are same. Means in both u will use your address. No need to use credit card address.
+Bill=Shipping address, Ship=your address
+When you are doing carding, you will use credit card holder address as your billing address, and shipping address will be your address. Most sites use this method.
+Now we cleared basic concepts and start with the actual process of carding.
+Setup SOCKS proxy in Firefox:
+Follow the steps à open Firefox à go to options àadvanced options à network à
+A pop-up will come. It will show options
+No proxy    2. Auto Detect    3. Use system proxy    4. Manual proxy configuration
+Select manual proxy configuration. Enter socks host: <<proxy ip>> and port: <<proxy port>>    e.g.: 141.141.141.141: 8080. Press ok and restart Firefox. Now you are connected to secure Socks5 J
+ 
+ 
+ 
+Note: when you buy a socks always match with credit card holder address. If credit card holder is from California, USA then try to get SOCKS5 at least matching state, country J
+Guys now time to start the Carding process. Kindly follow the steps:
+1. Create the email id matching with credit card holder name. If his name is John Cena (the random name was taken), then email id should be johncena92@gmail.com or near about.
+2. Now Run RDP and connect to the credit card holder location system to proceed. If you didn’t have RDP, then follow following steps.
+3. Open MAC changer and change the address randomly.
+4. Run CCleaner and clean all the unwanted data (cookies/history/temp data etc.).
+5. Setup SOCKS5 proxy in Firefox. <<Already explained>>.
+6. Be sure to use SOCK5 is matching to the location of credit card holder and be aware not to use blacklisted IP. Check with www.check2ip.com
+7. Open the site for shopping. I want to recommend a website shop from your country because you don`t need to wait a lot for your package.
+8. Register with credit card holder information (John Cena), name, country, city, address, and email.
+9. Shop and choose your item and add to cart. Precaution: Select item not more than $500 at first step.
+10. In shipping address add your address or drop address where the product is going to deliver.
+11. Then go to the payment page and choose payment method like a credit card.
+12. Enter all details of credit card manually because most of site having copy paste detector script.
+13. Finally, in billing address add credit card owner address info and then proceed with the payment process.
+14. If everything all right then the order will get successfully placed.
+15. Once the order arrives at the shipping address, receive it from delivery boy.
+16. (Few carder arrange fake id if delivery boy ask for proof).
+Carding method using mobile:
+Extra pro carder uses mobile for doing carding. If you followed steps carefully, you would also do that.
+Basic requirement:
+1. Require rooted Android mobile.
+2. Install few application require for carding (proxy apps, CCleaner, IMEI changer, Photo and Android ID changer).
+3. You can use any VPN for carding I recommend HMA or Zen mate.
+4. You can use SOCKS5 proxy with proxy droid apps.
+5. Also, proceed with IMEI and Android ID changer and do it.
+6. Now connect with proxy droid with SOCKS5 proxy and connect it.
+7. Now follow all the steps explained above J
+Reference sites:
+CC from shop à www.validcc.su
+Buy SOCKS from à www.vip72.com
+Download CCleaner software à www.piriform.com/ccleaner
+Download MAC address changer à www.zokali.com/win7-mac-addresschanger
+Download SOCKS checker à www.socksproxychecker.com
+* Acronyms:
+    * BIN: Bank Identification Number
+    * CC: Credit Card
+    * CCN: Credit Card Number
+    * CVV/CVV2: Credit Verification Value (Card Security Code)
+    * SSN: Social Security Number
+    * MMN: Mother Maiden Name
+    * DOB: Date Of Birth
+    * COB: Change of Billing
+    * VBV: Verified by Visa
+    * MCSC: MasterCard Secure Code
+    * POS: Point of Sale
+    * VPN: Virtual Private Network
+    * BTC: Bitcoin
+* Personal Advice:
+1. Normal users: Keep your credit card safe hands. Keep changing the credit card PIN on a monthly basis. Do not make the online transaction from unknown system/mobile.
+2. Who want to learn carding – I observed many of the newcomers try to be smart and got ripped multiple times. Don’t do it, it’s finally your loss.
+3. Carding is Illegal activity. Do not do it. If get caught, then, you will be in trouble.
+4. Be safe and have fun
+ 
+ 
+ 
+Chapter 2 : Ebay , Paypal.com
+Ebay
+As you will probably know , ebay.com is an online auction site where goods can be sold and bought by people over the world.
+This site is one of the most visited shopping sites , because of its large variety of goods and prices , which can be lower then store prices.
+Now the question is : how to contact the seller and arrange the fraudulent deal.
+Well , to contact the seller you will need an ebay buyer account.This means you have to register yourself athttp://www.ebay.com , and do NOT use your real information , because
+they will ask you to provide a creditcard and that one has to match with the adress on the card , so just use thecardholder’s info.
+Also use a valid email adress , a yahoo or hotmail one for example , because you have to confirm your registration , and also the seller(s) will reply to you on that email adress.
+If you see an item and you want to buy it , first ask the seller a question.
+A question which will work well is the following one :
+Hi there,
+i am from USA and i am interested in purchasing this item from you .
+i would like to pay this item with my paypal
+But the item is a gift for my cousin in Belgium
+can you gift wrap the package and calculate shipping costs for 2-3 days delivery?
+please reply me with a total price and your paypal adress.
+With this message i received alot of items , including cellphones , a PDA , shoes , a laptop , software, etc.
+Paypal
+Now i will (finally) explain the meaning of the word Paypal.
+Paypal.com us an online payment method , which is used by alot of ebayers , and can be funded by bank transfers or creditcards (whoohoo)
+All you need for this is a USA cvv2 (see chapter 1) and a valid email adress.
+Visit http://www.paypal.com & click on Register/Sign up.
+Fill in the form with the creditcard info (name , adress, city, state, zipcode , country , etc) and the email adress you are using for Ebay.
+On the bottom of the page they will ask you to pick 2 security questions and give an answer on those questions , in case you forget your password.
+Pick any random question and fill it in with random info , paypal cannot verify it .
+After you have signed up , go to your email inbox & click on the paypal email .
+Inside you will find a link which you’ll have to click in order to confirm the registration. You’ll visit a page which will ask you to confirm your paypal password.
+Fill it in, click on submit , and paypal will ask you to add a bank account. We aren’t interested in this , so click on Skip.
+Then you’ll see your account overview. In the left menu , click on Add a Credit Card.
+On that page it’ll ask you the cardholder’s name , the ccnumber , type of creditcard (see chapter 1) , the expiry date and the Cvv2 (cfr. Chapter 1)
+If all information is valid , click on Submit and hopefully you’ll get a message saying : you have succesfully added acreditcard . Blablablaa…….
+If you are unlucky , you’ll get one of the following errors :
+* This creditcard has already been assigned to another paypal account , please use a different card.(no explenation needed)
+* You have entered an invalid or partial credit card number (cc number is incorrect)
+* Your card has been declined because we could not verify the 3-4 digit code on the back of your card . (cvv2 is invalid)
+* This card has been declined by your bank issuer . (card is invalid)
+After you have successfully added a card , look in your email inbox for some replies from sellers which will contain a full price for the item.
+Go to your paypal account, click on Send Money.Fill in the recipient (seller’s paypal email) , the amount , and pick Auction Goods (non Ebay)
+on the next page create a item number (10 digits maxium) , and a buyer ID (johndoe4852 for example). As auction site , select Other.
+Then click on Continue , it’ll bring you to a new screen to confirm the information you entered.
+As funding source , you’ll see that the credit card is selected .
+On bottom you ‘ll see that paypal automatically selects the credit card adress as shipping adress. Leave this indicated like this , it’ll give the transaction a very legit look.
+Then click on Confirm and hope for the best . If your purchase was succesfull , you’ll get a message saying you’ve sent cash or you paid for an online auction.
+Then return to your paypal account & Log Out . Go to your inbox , tell the seller the money has been sent and provide the shipping adress in the email.
+Also ask him to mail you back once the package is shipped .
+If everything is ok, you should have the package in 1 week (including the weekend and holidays) .
+After a while , the seller might mail you to tell you the payment has been reversed and asking you to send it again.
+Simply ignore these emails by marking them as spam.
+ 
+ 
+ 
+ 
+Chapter 3 Methods w/ carding
+ 
+ 
+Method 1:
+Following Sites Provide Free VPS:
+https://www.zettagri...ng...ree-trial/
+http://vpswala.org/
+http://ohosti.com/vpshosting.php
+https://gratisvps.net/
+https://my.letscloud.io/sign-up/
+https://developer.rackspace.com/
+https://www.vultr.com/
+https://www.ionos.co...al=profitbricks
+https://www.cloudsigma.com/
+https://www.digitalocean.com/
+http://ezywatch.com/freevps/
+https://yellowcircle.net/
+https://www.ctl.io/free-trial/
+https://www.ihor.ru/
+https://www.neuprime.com/l_vds3.php
+https://www.apponfly.com/en/
+https://www.skysilk.com/
+https://sadd.io/
+ 
+Method 2:
+Enter https://vps.apponfly.com/
+Press F12 and open Network
+Follow these Images: https://imgur.com/a/JgnUYqc
+Method: 3
+Requirements:
+- Google account
+- Credit Card (Can use Yandex VCC)
+1. Go to Google Cloud | https://cloud.google.com/free/
+2. Register and fill out all the details.
+Cool, Now you have 300$ free in a VPS which you can have 32 cores on, etc. enjoy)
+Method 4:
+Go to:
+https://turbo.net/
+Now Register an account:
+Select Program you want to use (Preferably Google Chrome)
+Enjoy Free RDP!
+Method 5:
+1. Go to: https://www.vpsserve...de=0e0f79a9d02f
+2. Register and verify your email
+3. Select what kind of OS you want - windows server/ubuntu
+4. Now Wait for 30 minutes for the server to build
+5. Now go to the control panel and get the user/pass for remote desktop
+6. Cool, Congratulations Now you have a free VPS
+Method 6:
+Get a Lifetime Free VPS:
+1. Order the 'BackupHD Classic Free' euserv.com/en/cloud/reinforcement HD-free.php
+2. Log in into client board and check if the contract has been made.
+3. Wait until the contract has been handled (this take a few hours). You will get an email when it's done.
+4. Click on select behind your contract
+5. Click on Innovation and Test-Center in the left menu
+6. Click on Requested Participation behind CBCI closed Betatest
+7. Wait for your contract has been handled (this can take few-hours). Presently you can install your server through customer panel, and you have a little backup space as well.
+Method 7:
+Get a Free VPS/RDP under 5 Minutes:
+1. Go to serveroffer.lt and peruse their site for one moment or so until you get a message like this https://gyazo.com/c4...b2a6f5b77cc9d68
+2. Answer them pleasantly.
+3. They will ask you on what bundle you need
+4. Pick one of their services, like VDS-10 It's excessive; I think VDS-3 or VDS-4 if possible
+5. Attempt with different servers on the off chance that you need
+6. They will likewise request an account, simply make it with fake data (fake info)
+7. They will also get some information about the OS, pick a Debian 9 since Windows commits to have an OS running and it's a waste of resources
+8. You will get your server info in your email
+Method 8:
+First, open the following Link and Sign Up to get your $10 credit.
+(For non-ref interface - > https://www.digitalocean.com/[This does not give you $10 credit]
+While filling your billing details, click on "Have a Promo Code?" at the bottom of the page.
+Enter any of the Promo codes to get additional credit:
+DOPRODUCT15 (Get $15 FREE)
+From the first step, you will get your first $10 credit, and by utilizing extra promotion codes, you can get up to $35 of all-out credits.
+Note: Some codes give more credit on higher plans.
+Note: If your code doesn't work at that point open a ticket and your issue ought to be solved.
+For Creditcard - > Utilize a VCC with low an incentive inside (For check), the rest you can utilize fakenamegenerator to fill in the details.
+Multi-month VPS = $5
+So you'll get 5 months VPS
+Method 9:
+1. Go to https://dash.hokoclo...login#/register
+2. Register and Confirm account from your email.
+3. Go to the VPS segment - FREE VPS
+4. Select Rule One - Rule One
+5. Select the free plan
+6. Select the Desired Server.
+7. Your FREE VPS is Ready
+ 
+From Collection of all these Free VPS/RDP Sources. Few may not work depending on altering their TOS with time.
+——————————————————————————————————————
+ 
+Disclaimer: Yes the setup does require some personal information, but the VCCs are anonymous and customizable.
+ 
+Privacy.com is a service that allows you to create multiple VCC's using any name and billing address that you'd like. For each account they offer the following customizable options for each VCC Created. Use any or all options to customize your VCC. 
+    • Merchant Cards: VCCs that can be used only with a specific merchant. 
+    • Single-Use Cards: Cards that self-destruct 2 minutes after the first charge to that particular card.
+    • Spending Limit Cards: Set a spending limit of as little as $1 to the card, and no further charges can be made to that card. 
+    • Cards will work with any name and billing address. 
+Follow these steps to create your account and VCCs:
+    1   Go to privacy.com
+    2   Sign up using a valid email address and password. 
+    3   Confirm email. Then fill out information page.
+    4   Verify your phone number. You can use textnow if you prefer a burner.
+    5   Connect your USA bank account. (I know, this part sucks). 
+    6   Once your account is created you are free to create as many VCC's as you'd like.
+    7   Just click on "New Card," pick a nickname for the card, and assign it the restrictions/customizations that suite your needs. 
+——————————————————————————————————————
+ 
+Requirements :-
+ 
+ HideMyAss! Pro VPN - Download
+ Mozilla Firefox - Download
+ Credit Card (Amex/Visa/Master Card)
+ 
+Steps To Card Amazon Using Android :-
+ 
+1. First of all connect your VPN to the Credit Card owner's country.
+2. Open Mozilla Firefox.
+3. Go to Gmail.
+4. Make a new account with CC owner's name.
+5. Don't put your number for verification.
+6. Now visit Amazon.com and Login Amazon.in
+7. Make new account with CC owner's name.
+8. Now add to cart any product Sign Out.
+9. Do not disconnect the vpn.
+10. Sign in after 15 minit.
+11. Proceed to checkout.
+12. Put the address of cc owner in the billing address and your address in the shipping address.
+13. But make sure the delivery of the product is available in India. If not then change the product.
+14. Check Gift option, if available.
+15. Place the order.
+16. Don't sign in again.
+17. You will get the shipping details in gmail so dont sign in through amazon.
+18. Wait for the product.
+19. Done.
+ 
+Reason If Product Not Shipped :-
+ 
+1. The Credit Card is dead.
+2. VPN not connected for 15 minit.
+3. Steps not followed correctly.
+ 
+Teaching Carding Selling Carding Tools
+ 
+ 
+Chapter 4 How to
+ 
+How to card:
+1. Make a email (gmail, hotmail, etc.) with CC matching name. For example If CC name is John Wild then make like johnwild1979@gmail.com
+2. Run Remote Desktop Connection and connect with your RDP Host. If u don’t use rdp then do the following steps in your pc.
+3. Run MAC address changer, change all MAC address.
+4. Run CCleaner. Analyze and clean.
+5. Set socks5 in Mozzila firefox. It was explained how to do it above.
+6. Restart Firefox and goto www.check2ip.com and check your ip is blacklisted or not and as same as CC holder address.
+7. Now open shopping site. We want to recommend a website shop from your country. Why? Because you dont need to wait a lot for your order to be shipped.
+8. Register with credit card holder information, name, country, city, address, and email you made one just for this order.
+9. Choose your item and add it to cart. Never choose big amount at start.
+Try to card small amount item first within not more than $500.
+10. In shipping address enter your address or your drop address, where you want to deliver product.
+11.Go to payment page, choose Credit Card as payment method
+12.Enter your CC details. Like CC Number, CC holder name, CVV/CVV, Exp. Date. Don’t copy-paste info. Type it one by one. Because most of sites have a copy-paste detector script.
+13. Enter CC holder address into Billing address. Now proceed to payment.
+14. We are sure if you do everything right then order will be successfully placed.
+15. Wait for order to arrive to your shipping address. When they will deliver the courier boy will call you. They ask for any ID card. If you can make a fake ID card then good. Otherwise show your any ID card (Adhar Card, Voter ID, College ID card).
+Basic reqirements for carding from Mobile :
+1. Mobile must be rooted. (offcourse ew recommend any Android smartphone)
+2. You must install few apps : IMEI changer, Phone ID changer, Android ID changer, Proxy Droid, CCleaner
+3. You can use HMA VPN for carding in mobile.
+4. You use SOCK5 proxy with Proxy Droid apps.
+5. You must change IMEI, Android ID etc evrything before starting carding.
+6. Now connect proxy droid with SOCKS5 proxy and connect it.
+7. Now follow all steps of carding that mentioned above…
+Ok, so you got your cc, your drop and try to be anonymous as you can make yourself.
+Now what sites are cardable?
+THE ANSWER IS: ANY AND ALL SITES ARE CARDABLE
+Why do We say that? because it’s true. Whatever you card, make sure that you have all your info prepared before carding it. If you don’t get success first time then you have to use other BIN CC and Others Method. Have use your brain & find different Logic for different site. You may Kill 2-3 CC's when trying any sites. But you will find out the working method for any site.
+RAW Paste Data

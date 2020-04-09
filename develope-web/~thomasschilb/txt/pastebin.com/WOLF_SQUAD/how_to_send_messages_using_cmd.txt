@@ -1,0 +1,51 @@
+JOIN OUR -PRIVATE TELEGRAM- CHANNEL
+ 
+HACKING -        https://t.me/Wolf_Squad
+Shopping Deals - https://t.me/Deal_Looters
+Movies -         https://t.me/GdriveMovie_Link
+18+ PORN -       https://t.me/Hot_PornVideos
+             ------OR------
+JUST SEARCH @Wolf_Squad / @Deal_Looters / @GdriveMovie_Link / @Hot_PornVideos In Telegram
+
+
+
+
+1. Because net send was no longer supported, we will use MSG.exe. We will find out the manual how to use MSG.exe by typing msg in our command prompt.
+
+2. The basic command to send message is as follows
+
+msg /SERVER:pc_name session_name your_message
+
+3. To find out pc_name, we can open RUN and type control system
+
+or you want other way more technical by using cmd script
+
+systeminfo | findstr /B /C:"Host Name"
+
+4. So if I want to send a message containing "Hello World" to my other computer named Win7-Pentest-PC
+
+msg /SERVER:Win7-Pentest-PC Win7-Pentest Hello World
+
+5. To send the message with wildcard to all session name we can add * in session name so it become like this:
+
+msg /SERVER:Win7-Pentest-PC * Hello World
+
+6. To make the message appear for a specific time:
+
+msg /SERVER:Win7-Pentest-PC Win7-Pentest /TIME:30 Hello World
+
+the message will appear for 30 seconds.
+
+1. If you found following error:
+
+Error 5 getting session names
+
+Open registry editor(RUN and type regedit), open HKLM\SYSTEM\CurrentControlSet\Control\Terminal Serve
+
+Then change the following value:
+
+Name : AllowRemoteRPC
+Type : REG_DWORD
+Value : 1
+
+Refresh regedit (click view > refresh) or restart PC.

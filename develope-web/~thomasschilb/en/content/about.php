@@ -358,10 +358,13 @@ with..."</em></p>
 		<td valign="top" class="auto-style4">
 		<span class="font-10pt"><span class="font-small">
 		<span class="table-footer-center">
-		<span class="auto-style6">Primary: <a href="http://thomasschilb.network">thomasschilb.network</a></span><br class="auto-style4">
+		<span class="auto-style6">Primary: 
+		<a href="https://thomasschilb.network/" target="_blank">
+		thomasschilb.network</a></span></span><span class="auto-style4">,
+		<a href="https://thomasschilb.de" target="_blank">thomasschilb.de</a></span><span class="table-footer-center"><br class="auto-style4">
 		<span class="auto-style5">
 		Secondary:
-		<a href="http://thomasschilb.us.to">thomasschilb.us.to</a></span></span></span></span></td>
+		<a href="https://thomasschilb.us.to" target="_blank">thomasschilb.us.to</a></span></span></span></span></td>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 148px">Founded</td>
@@ -369,7 +372,7 @@ with..."</em></p>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 148px">Last Update</td>
-		<td valign="top">2020-MARCH-08, 01:03am</td>
+		<td valign="top">2020-APRIL-09, 10:45pm</td>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 148px">Optimized for</td>
@@ -382,7 +385,7 @@ with..."</em></p>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 148px">Version</td>
-		<td valign="top">2020.v7.1rev75</tr>
+		<td valign="top">2020.v7.5rev81</tr>
 	</table>
 <p class="text-align-center"><em><font size="2">
 		<span class="text-align-left-10pt">Comment: "Local and Remote devices in technical Details 

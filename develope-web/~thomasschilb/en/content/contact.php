@@ -303,21 +303,6 @@ free!"</em></font></p>
 		<img align="top" class="picture-border-null" height="16" src="img/www.png" width="16" alt="mainhattan-webcam.de" longdesc="mainhattan-webcam.de"></a></td>
 	</tr>
 	<tr>
-		<td valign="top">MESSEFRANKFURT</td>
-		<td valign="top">
-		<a href="https://www.messefrankfurt.com/webcam/c003big.jpg" target="_blank">
-		<img alt="messefrankfurt.com" height="180" longdesc="messefrankfurt.com" src="https://www.messefrankfurt.com/webcam/c003big.jpg" width="320"></a></td>
-		<td valign="top">
-		JPG</td>
-		<td valign="top">
-		3072x1728px</td>
-		<td valign="top">
-		~1mb</td>
-		<td valign="top" class="auto-style1">
-		<a href="https://www.messefrankfurt.com" target="_blank">
-		<img align="top" class="picture-border-null" height="16" src="img/www.png" width="16" alt="messefrankfurt.com" longdesc="messefrankfurt.com"></a></td>
-	</tr>
-	<tr>
 		<td valign="top">SKYLINECAM</td>
 		<td valign="top">
 		<a href="https://skylinecam.de/picture/current.jpg">
@@ -335,10 +320,12 @@ free!"</em></font></p>
 	<tr>
 		<td valign="top">WEBCAMS</td>
 		<td valign="top">
+		<a href="https://www.mainhattan-webcam.de" target="_blank">
+		mainhattan-webcam</a><br>
+		<a href="http://camera.deckchair.com/sheraton-frankfurt-airport-hotel-germany">
+		sheraton-frankfurt-airport-hotel-germany</a><br><br>
 		<a href="http://www.frankfurt-webcams.de/" target="_blank">
 		frankfurt-webcams.de</a><br>
-		<a href="https://www.mainhattan-webcam.de" target="_blank">
-		mainhattan-webcam.de</a><br>
 		<a href="https://www.webcamgalore.com/search.php?s=frankfurt" target="_blank">
 		webcamgalore.com</a></td>
 		<td valign="top">

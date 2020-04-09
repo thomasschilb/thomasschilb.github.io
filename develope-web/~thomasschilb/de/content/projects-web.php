@@ -4,7 +4,7 @@
 <head>
 <meta content="de" http-equiv="Content-Language">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<title>TS | Projects</title>
+<title>TS | Projekte</title>
 <style>
 
 /* BODY */
@@ -112,13 +112,13 @@ a:hover {
 </head>
 
 <body style="margin: 0; color: #808080; background-color: #000000">
-<p class="table-footer-center">P R O J E C T S : W E B&nbsp; |&nbsp; 7</p>
-<p><font color="#31C8F9">Official [2]</font></p>
+<p class="table-footer-center">P R O J E K T E : W E B&nbsp; |&nbsp; 8</p>
+<p><font color="#31C8F9">Offiziell [3]</font></p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
 		<th class="auto-style4">i</th>
 		<th><span class="font-normal">Name</span></th>
-		<th><span class="font-normal">Description</span></th>
+		<th><span class="font-normal">Beschreibung</span></th>
 		<th><span class="font-normal">Category</span></th>
 		<th><span class="font-normal">VersionRevision</span></th>
 		<th><span class="font-normal"></span></th>
@@ -131,7 +131,7 @@ a:hover {
 		<span class="auto-style5"><em>Project, 
 		Service, Linklist, Contact, About</em></span></td>
 		<td valign="top">Develope &amp; Network / Private Forge</td>
-		<td valign="top">2020.v7.1rev75</td>
+		<td valign="top">2020.v7.5rev81</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://thomasschilb.network/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
@@ -145,11 +145,23 @@ a:hover {
 		<td class="text-align-right" valign="top">
 		<a href="https://schilb.family" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
+	<tr>
+		<td valign="top">
+		<img height="16" src="favicons/scs-favicon.png" width="16" align="top"></td>
+		<td valign="top">SCS</td>
+		<td valign="top">Dienstleistungen: Service Center Schilb<br><br>
+		<span class="auto-style5"><em>Industrie Mechanik, Montage Service, IT &amp; 
+		Computer</em></span></td>
+		<td valign="top">Dienstleistungen / Service Center</td>
+		<td valign="top">2020.v1.0rev5</td>
+		<td class="text-align-right" valign="top">
+		<a href="https://scs.company" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+	</tr>
 	</table>
 <p class="auto-style1"><em><font size="2">Comment: "My official sites which can 
 be visited without any reservation!"</font></em></p>
 <p>&nbsp;</p>
-<p><font color="#31C8F9">Unofficial [5]</font></p>
+<p><font color="#31C8F9">Unoffiziell [5]</font></p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
 		<th><span class="font-normal">i</span></th>
@@ -176,7 +188,8 @@ be visited without any reservation!"</font></em></p>
 		<img height="16" src="favicons/openftpd-favicon.png" width="16" align="top"></td>
 		<td class="auto-style3" valign="top">OPENFTPD</td>
 		<td class="auto-style3" valign="top">Open FTP Server: Anonymous<br><br>
-		<span class="auto-style5"><em>HttpsFileIndexer / FtpFileServer</em></span></td>
+		<span class="auto-style5"><em>FtpFileServer / Upload files in /incoming 
+		via Web</em></span></td>
 		<td class="auto-style3" valign="top">File-Sharing / FTP</td>
 		<td class="auto-style3" valign="top">2020.v0.3rev5</td>
 		<td class="text-align-right" valign="top">

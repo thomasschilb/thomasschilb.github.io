@@ -4,7 +4,7 @@
 <head>
 <meta content="de" http-equiv="Content-Language">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<title>Thomas Schilb | TS</title>
+<title>TS | MEMBER-AREA</title>
 <style>
 
 /* BODY */
@@ -61,13 +61,11 @@ a:hover {
 
 .auto-style1 {
 	color: #FFFFFF;
-	text-align: center;
 }
 
 .auto-style2 {
 	font-size: 10pt;
 	text-align: center;
-	color: #444444;
 }
 
 </style>
@@ -76,14 +74,11 @@ a:hover {
 <body style="margin: 0; color: #808080; background-color: #000000">
 <center>
 <p>&nbsp;</p>
+<p class="auto-style1">W E L C O M E&nbsp;&nbsp; M E M B E R</p>
+<p><font color="white">No. <? include ("php/counter.php"); ?></font></p>
 </center>
-<p class="auto-style1">A&nbsp;&nbsp; P R I V A T E&nbsp;&nbsp; F O R G E&nbsp;&nbsp; 
-S I N C E&nbsp;&nbsp; T H E&nbsp;&nbsp; Y 
-E A R&nbsp;&nbsp; 2 0 1 5</p>
-<center>
-<p><font color="white">No. <?php include "c.php"; ?></font></p>
-</center>
-<p class="auto-style2">[thomasschilb.*.2020.v7.1rev75]</p>
+<p class="auto-style2"><a href="~oldversion/" target="_self">&gt; Click here for 
+the old version &lt;</a></p>
 </body>
 
 </html>

@@ -148,13 +148,18 @@ a:hover {
 }
 
 
+.auto-style14 {
+	color: #444444;
+}
+
+
 </style>
 </head>
 
 <body style="margin: 0; color: #808080; background-color: #000000">
 <p class="table-footer-center">S E R V I C E : R E P O S I T O R Y&nbsp; |&nbsp; 
-5</p>
-<p class="auto-style6">Connection Data [5]</p>
+6</p>
+<p class="auto-style6">Connection Data [6]</p>
 <table id="tstable" cellpadding="15" cellspacing="0" style="width: 100%">
 	<tr>
 		<th class="auto-style11" style="width: 73px">Service</th>
@@ -162,7 +167,7 @@ a:hover {
 		<th class="auto-style11" style="width: 87px">Password</th>
 		<th class="auto-style11">Permission</th>
 		<th class="auto-style11">Folder</th>
-		<th class="auto-style11">Port</th>
+		<th class="auto-style11">Port[s]</th>
 		<th class="auto-style11">Type</th>
 		<th class="auto-style11">&nbsp;</th>
 	</tr>
@@ -170,8 +175,9 @@ a:hover {
 		<td valign="top" class="auto-style12" style="width: 73px">CLOUD</td>
 		<td valign="top" class="auto-style12" style="width: 159px">repository-ts</td>
 		<td valign="top" style="width: 87px">-</td>
-		<td valign="top">Read-Only</td>
-		<td valign="top">/Eigene Dateien</td>
+		<td valign="top">ReadOnly</td>
+		<td valign="top">/Eigene Dateien<br><span class="auto-style14"><em>SSL: 
+		On</em></span></td>
 		<td valign="top">
 		80, 443</td>
 		<td valign="top">
@@ -185,8 +191,11 @@ a:hover {
 		<td valign="top" class="auto-style12" style="width: 159px">
 		repository-openftpd</td>
 		<td valign="top" style="width: 87px">-</td>
-		<td valign="top">Read-Only</td>
-		<td valign="top">/</td>
+		<td valign="top">ReadWrite</td>
+		<td valign="top">/<br>/incoming - Upload your Files &amp; Folders here!<br>
+		/pub - Some public stuff<br>welcome.msg<br><span class="auto-style14">
+		<em>SSL: Off, Active Mode: On, Don't use Passive Mode!<br>Upload your 
+		Files&amp;Folders to Us!</em></span></td>
 		<td valign="top">
 		21</td>
 		<td valign="top">
@@ -199,8 +208,9 @@ a:hover {
 		<td valign="top" class="auto-style12" style="width: 73px">GIT</td>
 		<td valign="top" class="auto-style12" style="width: 159px">repository-sites</td>
 		<td valign="top" style="width: 87px">-</td>
-		<td valign="top">Read-Only</td>
-		<td valign="top">/thomasschilb.github.io</td>
+		<td valign="top">ReadOnly</td>
+		<td valign="top">/thomasschilb.github.io<br><span class="auto-style14">
+		<em>SSL: On, Clone all ProjectWebSite's to your Git</em></span></td>
 		<td valign="top">
 		80, 443</td>
 		<td valign="top">
@@ -213,14 +223,32 @@ a:hover {
 		<td valign="top" class="auto-style12" style="width: 73px">HTTPS</td>
 		<td valign="top" class="auto-style12" style="width: 159px">repository-ts</td>
 		<td valign="top" style="width: 87px">-</td>
-		<td valign="top">Read-Only</td>
-		<td valign="top">/opt/lampp/htdocs/~thomasschilb/dl</td>
+		<td valign="top">ReadOnly</td>
+		<td valign="top">/opt/lampp/htdocs/~thomasschilb/dl<br>
+		<span class="auto-style14"><em>SSL: On, Index of all Downloads of this 
+		Site</em></span></td>
 		<td valign="top">
-		80, 443</td>
+		80, 443<br></td>
 		<td valign="top">
-		lamp-index</td>
+		lampp-index</td>
 		<td valign="top">
 		<a href="https://thomasschilb.network/dl/" target="_blank">
+		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
+	</tr>
+	<tr>
+		<td valign="top" class="auto-style12" style="width: 73px">HTTPS</td>
+		<td valign="top" class="auto-style12" style="width: 159px">repository-ts</td>
+		<td valign="top" style="width: 87px">-</td>
+		<td valign="top">ReadOnly</td>
+		<td valign="top">/opt/lampp/htdocs/~thomasschilb/txt/pastebin.com/<br>
+		<span class="auto-style14"><em>SSL: On, Download some TextFiles of 
+		ts-pastebin.com</em></span></td>
+		<td valign="top">
+		80, 443<br></td>
+		<td valign="top">
+		lampp-index</td>
+		<td valign="top">
+		<a href="https://thomasschilb.network/txt/pastebin.com/" target="_blank">
 		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
 	<tr>
@@ -228,19 +256,20 @@ a:hover {
 		<td valign="top" class="auto-style12" style="width: 159px">
 		repository-tds</td>
 		<td valign="top" style="width: 87px">-</td>
-		<td valign="top">Read-Only</td>
-		<td valign="top">/var/www/ts/~syndicate/tds-releases</td>
+		<td valign="top">ReadOnly</td>
+		<td valign="top">/opt/lampp/htdocs/~syndicate/tds-releases<br>
+		<span class="auto-style14"><em>SSL: Yes, Repository of TDS-Release's</em></span></td>
 		<td valign="top">
 		80, 443</td>
 		<td valign="top">
-		lamp-index</td>
+		lampp-index</td>
 		<td valign="top">
-		<a href="https://syndicate.live/tds-releases/" target="_blank">
+		<a href="https://rls.syndicate.live/" target="_blank">
 		<img height="16" src="img/folder.png" width="16" align="top" style="float: right"></a></td>
 	</tr>
 	</table>
-<p class="auto-style1"><font size="2"><em>Comment: "Upload to Git. Download of 
-Sites."</em></font></p>
+<p class="auto-style1"><font size="2"><em>Comment: "Downloads of 
+the Site's. Upload your Files&amp;Folders for Us!"</em></font></p>
 <p>&nbsp;</p>
 <p class="auto-style6">Legende</p>
 <table id="tstable-privacy" cellpadding="15" cellspacing="0" style="width: 100%">
@@ -335,7 +364,7 @@ Sites."</em></font></p>
 
 	</table>
 <p class="auto-style1"><font size="2"><em>Comment: "A List of the most common 
-Files which are used."</em></font></p>
+FileExtensions which are used."</em></font></p>
 <p class="auto-style1">&nbsp;</p>
 
 </body>
