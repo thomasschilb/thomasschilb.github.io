@@ -1,0 +1,65 @@
+Options All
+
+SetEnv PHPRC /opt/lampp/etc/php.ini
+SetEnv SERVER_ADMIN info@experimental-techno.com
+
+AddDefaultCharset UTF-8
+DefaultLanguage en-US
+
+ServerSignature EMail
+
+
+# IndexOptions +FancyIndexing FoldersFirst SuppressIcon
+
+IndexOptions SuppressHTMLPreamble
+
+# INITIAL SITE
+
+#DirectoryIndex .index.php index.php index.shtml index.html
+DirectoryIndex .index.php
+
+# HEADER
+
+#HeaderName /.header.php
+
+# FOOTER
+
+#ReadmeName /.footer.php
+
+# ICON
+
+#AddIcon             /.icons/7z.gif    	.7z
+
+# DESCRIPTION: NFO
+
+AddDescription 		"AAC / 64kbps" 					.m4a
+AddDescription 		"MPEG LAYER3 / 320kbps" 		.mp3
+AddDescription 		"application/x-compressed-zip" 	.zip
+
+# SECURE: HTTPS & WWW
+
+#RewriteEngine On
+# ensure www.
+#RewriteCond %{HTTP_HOST} !^www\. [NC]
+#RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# ensure https
+#RewriteCond %{HTTP:X-Forwarded-Proto} !https 
+#RewriteCond %{HTTPS} off
+#RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# SERVER: SET AUDIO MIME-TYPES
+
+AddType application/octet-stream .avi .mpg .mov .pdf .xls .mp4 .7z .jpg .png .mp3 .m4a .ogg .wav
+
+# ERROR HANDLER
+
+ErrorDocument 400 /.error.php
+ErrorDocument 401 /.error.php
+ErrorDocument 403 /.error.php
+ErrorDocument 404 /.error.php
+ErrorDocument 405 /.error.php
+ErrorDocument 408 /.error.php
+ErrorDocument 414 /.error.php
+ErrorDocument 500 /.error.php
+ErrorDocument 502 /.error.php
+ErrorDocument 504 /.error.php

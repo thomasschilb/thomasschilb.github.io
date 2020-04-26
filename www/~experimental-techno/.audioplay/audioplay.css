@@ -1,0 +1,28 @@
+<style>
+
+.song {clear:left; margin:1 0;}
+.song input {margin: 0 1em .5em 0;float:left;padding:0;}
+.song p {margin:0 0 1.5em 0;}
+.song:after {
+	content : ".";
+	display : block;
+	height : 0;
+	clear : left;
+	visibility : hidden;
+}
+
+audio{ margin:0;min-width:0}
+
+@media only screen and (min-device-width:768px) {
+	audio{max-width:75%;}
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+	audio{max-width:10em;}
+}
+
+</style>

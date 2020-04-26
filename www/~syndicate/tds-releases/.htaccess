@@ -1,0 +1,63 @@
+Options All
+
+AddDefaultCharset UTF-8
+DefaultLanguage en-US
+
+ServerSignature EMail
+SetEnv SERVER_ADMIN thomas.schilb@live.de
+
+# IndexOptions +FancyIndexing FoldersFirst SuppressIcon
+
+IndexOptions FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=*
+
+# HEADER
+
+HeaderName /.header.html
+
+# FOOTER
+
+ReadmeName /.footer.html
+
+# ICON
+
+AddIcon             /.icons/7z.gif    	.7z
+AddIcon             /.icons/nfo.gif   	.nfo
+AddIcon             /.icons/nfo.gif   	.NFO
+AddIcon             /.icons/msg.gif   	.msg
+
+# DESCRIPTION: NFO
+
+AddDescription 		"Welcome Message" 	welcome.msg
+AddDescription 		"Initial ASCII" 	TDS.NFO
+
+# DESCRIPTION: RELEASES
+
+AddDescription 		"Advanced.SystemCare.Pro.v13.4.0.245-TDS" 				tds-asc.7z
+AddDescription 		"CCleaner.v5.58.7209-TDS" 								tds-ccleaner.7z
+AddDescription 		"Driver.Genius.Pro.v17.0.0.137-TDS" 					tds-drivergenius.7z
+AddDescription 		"EditPlus.v5.30.2542-TDS" 								tds-editplus.7z
+AddDescription 		"FlashFXP.v5.40.3970-TDS" 								tds-flashfxp.7z
+AddDescription 		"Goldwave.Editor.Pro.v10.5.5-TDS" 						tds-goldwave.7z
+AddDescription 		"Malwarebytes.Anti.Exploit.Premium.v1.13.1.117-TDS"		tds-mae.7z
+AddDescription 		"mIRC.v7.61-TDS" 										tds-mirc.7z
+AddDescription 		"Systemtools.for.Windows.10-TDS" 						tds-systemtools.7z
+AddDescription 		"TreeSize.v4.4.1.150-TDS" 								tds-treesize.7z
+AddDescription 		"uTorrent.Pro.v3.5.5.45608-TDS" 						tds-utorrent.7z
+AddDescription 		"VideoMeld.v1.62-TDS" 									tds-videomeld.7z
+AddDescription 		"Winamp.v5.8.3660.Beta-TDS" 							tds-winamp.7z
+AddDescription 		"WinHex.v19.9-TDS" 										tds-winhex.7z
+AddDescription 		"WinRAR.v5.90-TDS" 										tds-winrar.7z
+
+# DESCRIPTION: RELEASES: EXCLUSIVE
+
+AddDescription 		"<I>Exclusive: 7-Zip.v19.00-TDS</I>" 							tds-7zip.7z
+AddDescription 		"<I>Exclusive: BitchX.v1.0c11-TDS</I>" 							tds-bitchx.7z
+AddDescription 		"<I>Exclusive: Blackbox.Window.Manager.for.Windows-TDS</I>" 	tds-blackbox.7z
+AddDescription      "<I>Exclusive: jane.v1.74-TDS</I>"								tds-jane.7z
+AddDescription 		"<I>Exclusive: Windows.SysInternals.2020-TDS</I>"				tds-sysinternals.7z
+AddDescription 		"<I>Exclusive: XDCCCatcher.PRO.v2.6.Beta3-TDS</I>" 				tds-xdcccatcher.7z
+
+# DESCRITION: BIG FILE
+
+AddDescription 		"Autodesk.Autocad.2020-TDS" 									tds-autocad.7z
+AddDescription 		"FL.Studio.Producer.Edition.v20.6.0.1458.Signature.Bundle-TDS" 	tds-flstudio.7z

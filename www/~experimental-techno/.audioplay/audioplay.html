@@ -1,0 +1,27 @@
+<html>
+<head></head>
+<link rel="stylesheet" href="audioplay.css">
+<script src="audioplay-jquery.js"></script>
+<script src="audioplay.js"></script>
+<body>
+
+<div class="playlist_container">
+	<div class = "song" onclick="play(1)"> 
+		<input type="image" src="image1.png" width="120" height="55" alt="Stream: Radio Schizoid - Chillout">
+		<h3>Radio Bayern 1</h3>
+		<audio style="display:none" id ="1" src="radio_schizoid_chillout.m3u"  preload="none" >
+	    </audio>
+		<p> Das Ganze funktioniert natürlich auch mit einem Stream.
+	</div>	
+	
+	<div class = "song" onclick="play(2)"> 
+		<input type="image" src="image2.png" width="120" height="55" alt="Stream: Radio Schizoid - Dub Techno">
+		<h3>NDR 2</h3>
+		<audio style="display:none" id ="2" src="radio_schizoid_dubtechno.m3u"  preload="none" >
+	    </audio>
+		<p> ... und mit beliebig vielen Streams.
+	</div>	
+</div>
+<a href="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.0.min.js">here</a>
+</body>
+</html>

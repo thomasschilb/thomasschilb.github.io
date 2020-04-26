@@ -1,0 +1,78 @@
+<html>
+<title>Experimental Techno | ETEC</title>
+<head>
+<link rel="icon" type="image/png" href=".favicon.png">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<style type="text/css">
+font {
+	font-family: 'Open Sans', sans-serif;
+}
+.auto-style1 {
+	font-size: 18pt;
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+}
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFFFFF;
+}
+a:active {
+	color: #FFFFFF;
+}
+a:hover {
+	color: #0000FF;
+}
+.auto-style7 {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 48pt;
+	background-color: #000000;
+}
+.auto-style8 {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 23pt;
+	background-color: #000000;
+}
+.auto-style9 {
+	border-style: solid;
+	border-width: 23px;
+	border-color:black;
+	padding: 1px 4px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 23pt;
+}
+.auto-style10 {
+	color: #000000;
+}
+.auto-style11 {
+	font-size: 18pt;
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+	text-align: center;
+}
+</style>
+</head>
+
+<body style="color: #FFFFFF; margin: 23; background-image: url('.etec.jpg')">
+
+<p class="auto-style7">&nbsp;<br>Experimental Techno | ETEC<br>&nbsp;</p>
+<p class="auto-style8"><br>Listen to<br><br>
+<a href="media/m4a-64kbps/" target="_self">.m4a à 64kbps</a><br>
+<a href="media/mp3-320kbps/" target="_self">.mp3 à 320kbps</a><br><br>Download 
+of<br><br><a href="media/mp3-zip/">.zip à application/x-zip-compressed</a><br>&nbsp;<br></p>
+<p class="auto-style9">&nbsp;<br>Beginning:<br><strong> 
+<br>01. May 2020</strong><br><br><br>featuring<br><br><strong>
+AudioMedia.ET-WebShop<br></strong><em>[.flacc or .mp3 &agrave; 0.99&euro; ]<br>
+<br></em><strong>CreationMedia.Repository<em><br></em></strong><em>[ET-Sample.Libraries]<br><br></em><strong>
+SocialMedia.Integration<em><br></em></strong><em>[Facebook,Twitter,Pinterest]<br>&nbsp;</em>&nbsp;&nbsp;&nbsp;</p>
+<p class="auto-style11"><strong>&copy; 2015-2020 ETEC. All Rights Reserved.</strong></p>
+<p class="auto-style1"><em>Last Update on 2020-04-16 05:32am<br>//<a href="mailto:ts@experimental-techno.com"><span class="auto-style10">ts</span></a></em></p>
+
+
+
+</html>

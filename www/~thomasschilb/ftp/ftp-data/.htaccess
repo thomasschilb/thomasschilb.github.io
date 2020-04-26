@@ -1,0 +1,17 @@
+Options All
+
+AddDefaultCharset UTF-8
+DefaultLanguage en-US
+
+ServerSignature EMail
+SetEnv SERVER_ADMIN thomas.schilb@live.de
+
+# IndexOptions +FancyIndexing FoldersFirst SuppressIcon
+
+IndexOptions FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=*
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
