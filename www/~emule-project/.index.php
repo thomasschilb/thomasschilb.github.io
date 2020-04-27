@@ -8,7 +8,7 @@
 <meta content="eMule-Project.2020, emule-project.us.to" name="description" />
 <link rel="icon" type="image/x-icon" href=".favicon.ico">
 <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono" rel="stylesheet">
-<title>eMule-Project.2020</title>
+<title>eMule-Project | 2020</title>
 <style type="text/css">
 font {font-family: 'Share Tech Mono', monospace;}
 .header {font-size: 75pt;}
@@ -36,6 +36,13 @@ font {font-family: 'Share Tech Mono', monospace;}
 	text-align: left;
 	color: #C0C0C0;
 }
+.auto-style9 {
+	font-size: 18pt;
+	background-color: #C0C0C0;
+}
+.auto-style10 {
+	border-width: 0px;
+}
 </style>
 <base target="_blank" />
 </head>
@@ -49,13 +56,16 @@ font {font-family: 'Share Tech Mono', monospace;}
 		<p class="header">
 		<table cellpadding="23" cellspacing="0" style="width: 100%">
 			<tr>
-				<td rowspan="2" valign="top"><font><img alt="ep256" height="256" longdesc="EP2020_256P" src=".img/ep256.png" width="256" /></font></td>
+				<td rowspan="2" valign="top"><font>
+				<a href="https://emule-project.us.to/" target="_self" title="Link Us!">
+				<img alt="ep256" height="256" longdesc="EP2020_256P" src=".img/ep256.png" width="256" class="auto-style10" /></a></font></td>
 				<td class="auto-style4" valign="top"><font>eMule-Project.2020</font></td>
 			</tr>
 			<tr>
 				<td class="auto-style4" valign="bottom">
-<font>
-				<span class="auto-style3">Sites. IP-Filter. Serverlist. Nodes. Mods.</span></font></td>
+				<font>
+				<span class="auto-style3">Clients. IP-Filter. Mods. Nodes.dat.<br />
+				Serverlist. Server.met. Sites.</span></font></td>
 			</tr>
 		</table>
 		</p>
@@ -63,8 +73,116 @@ font {font-family: 'Share Tech Mono', monospace;}
 		</td>
 	</tr>
 	<tr>
-		<td class="text" valign="top"><strong>Category</strong></td>
-		<td class="text" valign="top"><strong>Link</strong></td>
+		<td class="auto-style9" valign="top"><strong>Category</strong></td>
+		<td class="auto-style9" valign="top"><strong>Description / Links</strong></td>
+	</tr>
+	<tr>
+		<td valign="top">
+<font>
+<p class="text"><strong>Clients</strong></p>
+</font>
+		</td>
+		<td valign="top">
+<font>
+		<p class="text">Official: aMule, beba, eMule, eMulePlus<br />
+		Mods: kMule, MorphXT, ScarAngel, StulleMule, Xtreme<br />
+		<br />
+		Includes:<br />
+		<br />
+		&bull; Extras<br />
+		<font>
+		&bull; Installer [x86]</font><br />
+		<font>
+		&bull; </font>
+		Manual [DE,EN]<br />
+		<font>
+		&bull; Portable [x86]</font><br />
+		<font>
+		&bull; </font>
+		Skins<br />
+		<font>
+		&bull;
+</font>
+		Sourcecode<br />
+		<br />
+		</p>
+		<p class="text">Download: <a href="dl/eMule-Project.2020-EP.7z">eMule-Project.2020-EP.7z</a> 
+		[105mb]<br />
+		UnPacker: <a href="https://7-zip.org">7-Zip</a></p>
+</font>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+<font>
+<p class="text"><strong>IP-Filter</strong></p>
+</font>
+		</td>
+		<td valign="top">
+<font>
+<p class="text"><a href="http://upd.emule-security.org/ipfilter.zip">upd.emule-security.org/ipfilter.zip</a></p>
+</font>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+<font>
+<p class="text"><strong>Mods</strong></p>
+</font>
+		</td>
+		<td valign="top">
+<font>
+<p class="text"><a href="http://www.emule-security.org/modb/">emule-security.org/modb</a></p>
+<p class="text"><a href="http://emulebase.de/">emulebase.de</a></p>
+</font>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+<font>
+<p class="text"><strong>Nodes.dat</strong></p>
+</font>
+		</td>
+		<td valign="top">
+<font>
+<p class="text"><a href="http://upd.emule-security.org/nodes.dat">upd.emule-security.org/nodes.dat</a></p>
+<p class="text"><a href="http://www.nodes-dat.com/">nodes-dat.com</a></p>
+<p class="text"><a href="http://www.nodes-dat.de/">nodes-dat.de</a></p>
+</font></td>
+	</tr>
+	<tr>
+		<td valign="top">
+<font>
+<p class="text"><strong>Serverlist</strong></p>
+</font>
+		</td>
+		<td valign="top">
+<font>
+<p class="text">
+<a href="https://edk.peerates.net/servers/online-servers-list">edk.peerates.net/servers/online-servers-list</a>
+</p>
+<p class="text"><a href="http://www.gruk.org/list">gruk.org/list</a> <a href="http://www.gruk.org/server.met.gz">gzip</a></p>
+<p class="text"><a href="http://www.emule-security.org/serverlist/">emule-security.org/serverlist</a></p>
+</font>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+<font>
+<p class="text"><strong>Server.met</strong></p>
+</font>
+		</td>
+		<td valign="top">
+<font>
+<p class="text">
+<a href="http://edk.peerates.net/servers.met">edk.peerates.net/servers.met</a></p>
+<p class="text"><a href="http://peerates.net/servers.php">peerates.net/servers.php</a></p>
+		<p class="text"><a href="http://www.server-met.de/">server-met.de</a></p>
+<p class="text"><a href="http://www.server-met.net/">server-met.net</a></p>
+<p class="text"><a href="http://shortypower.org/server.met">shortypower.org/server.met</a></p>
+<p class="text"><a href="http://upd.emule-security.org/server.met">upd.emule-security.org/server.met</a></p>
+</font>
+		</td>
 	</tr>
 	<tr>
 		<td valign="top">
@@ -85,65 +203,6 @@ font {font-family: 'Share Tech Mono', monospace;}
 </font></td>
 	</tr>
 	<tr>
-		<td valign="top">
-<font>
-<p class="text"><strong>IP-Filter</strong></p>
-</font>
-		</td>
-		<td valign="top">
-<font>
-<p class="text"><a href="http://upd.emule-security.org/ipfilter.zip">upd.emule-security.org/ipfilter.zip</a></p>
-</font>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top">
-<font>
-<p class="text"><strong>Serverlist</strong></p>
-</font>
-		</td>
-		<td valign="top">
-<font>
-<p class="text">
-<a href="https://edk.peerates.net/servers/online-servers-list">edk.peerates.net/servers/online-servers-list</a>
-<a href="http://edk.peerates.net/servers.met">server.met</a></p>
-<p class="text"><a href="http://upd.emule-security.org/server.met">upd.emule-security.org/server.met</a></p>
-<p class="text"><a href="http://peerates.net/servers.php">peerates.net/servers.php</a></p>
-<p class="text"><a href="http://www.gruk.org/list">gruk.org/list</a> <a href="http://www.gruk.org/server.met.gz">gzip</a></p>
-<p class="text"><a href="http://shortypower.org/server.met">shortypower.org/server.met</a></p>
-<p class="text"><a href="http://www.emule-security.org/serverlist/">emule-security.org/serverlist</a></p>
-<p class="text"><a href="http://www.server-met.de/">server-met.de</a></p>
-<p class="text"><a href="http://www.server-met.net/">server-met.net</a></p>
-</font>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top">
-<font>
-<p class="text"><strong>Notes.dat</strong></p>
-</font>
-		</td>
-		<td valign="top">
-<font>
-<p class="text"><a href="http://upd.emule-security.org/nodes.dat">upd.emule-security.org/nodes.dat</a></p>
-<p class="text"><a href="http://www.nodes-dat.com/">nodes-dat.com</a></p>
-<p class="text"><a href="http://www.nodes-dat.de/">nodes-dat.de</a></p>
-</font></td>
-	</tr>
-	<tr>
-		<td valign="top">
-<font>
-<p class="text"><strong>Mods</strong></p>
-</font>
-		</td>
-		<td valign="top">
-<font>
-<p class="text"><a href="http://www.emule-security.org/modb/">emule-security.org/modb</a></p>
-<p class="text"><a href="http://emulebase.de/">emulebase.de</a></p>
-</font>
-		</td>
-	</tr>
-	<tr>
 		<td valign="top" class="text"><strong>Link Us</strong></td>
 		<td valign="top" class="text">
 		<a href="https://emule-project.us.to" title="EMULE-PROJECT | EP">
@@ -159,7 +218,7 @@ font {font-family: 'Share Tech Mono', monospace;}
 		Total: 21</td>
 		<td valign="top" class="auto-style7">
 <font>
-		emule-project.*.2020.v0.1rev3</font></td>
+		emule-project.*.2020.v0.1rev5</font></td>
 	</tr>
 	<tr>
 		<td class="auto-style1" colspan="2" valign="top">
@@ -167,7 +226,7 @@ font {font-family: 'Share Tech Mono', monospace;}
 			<tr>
 				<td>
 <font>
-				Copyright &copy; 2020 EMULE-PROJECT. All Rights Reserved.</font></td>
+				Copyright &copy; 2020 EMULE-PROJECT. All Rights Reserved.<font></td>
 				<td class="auto-style5">No. <? include ".counter.php"; ?></td>
 			</tr>
 		</table>
