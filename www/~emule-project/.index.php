@@ -8,7 +8,7 @@
 <meta content="eMule-Project.2020, emule-project.us.to" name="description" />
 <link rel="icon" type="image/x-icon" href=".favicon.ico">
 <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono" rel="stylesheet">
-<title>EP.2020</title>
+<title>eMule-Project.2020</title>
 <style type="text/css">
 font {font-family: 'Share Tech Mono', monospace;}
 .header {font-size: 75pt;}
@@ -55,8 +55,7 @@ font {font-family: 'Share Tech Mono', monospace;}
 			<tr>
 				<td class="auto-style4" valign="bottom">
 <font>
-				<span class="auto-style3">Sites. IP-Filter. Serverlist. Nodes. 
-				Mod.</span></font></td>
+				<span class="auto-style3">Sites. IP-Filter. Serverlist. Nodes. Mods.</span></font></td>
 			</tr>
 		</table>
 		</p>
@@ -160,7 +159,7 @@ font {font-family: 'Share Tech Mono', monospace;}
 		Total: 21</td>
 		<td valign="top" class="auto-style7">
 <font>
-		emule-project.*.2020.v0.1rev2</font></td>
+		emule-project.*.2020.v0.1rev3</font></td>
 	</tr>
 	<tr>
 		<td class="auto-style1" colspan="2" valign="top">

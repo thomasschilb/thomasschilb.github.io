@@ -159,21 +159,21 @@ a:hover {
 	</tr>
 	<tr>
 		<td valign="top">
-		<img alt="ET" height="16" longdesc="../../en/content/Experimental Techno | ETEC" src="../../en/content/favicons/etec-favicon.png" width="16"></td>
+		<img alt="ET" height="16" longdesc="Experimental Techno | ETEC" src="favicons/etec-favicon.png" width="16"></td>
 		<td valign="top">ETEC</td>
 		<td valign="top">Repository: Experimental Techno<br><br>
 		<span class="auto-style5"><em>ETEC, Industrielles Techno</em></span></td>
 		<td valign="top">Audio Service / Repository</td>
-		<td valign="top">2020.v0.3rev9</td>
+		<td valign="top">2020.v0.5rev10</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://experimental-techno.com" target="_blank">
-		<img height="16" src="../../en/content/img/www.png" width="16" align="top"></a></td>
+		<img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	</table>
 <p class="auto-style1"><em><font size="2">Comment: "My official sites which can 
 be visited without any reservation!"</font></em></p>
 <p>&nbsp;</p>
-<p><font color="#31C8F9">Unoffiziell [5]</font></p>
+<p><font color="#31C8F9">Unoffiziell [6]</font></p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
 		<th><span class="font-normal">i</span></th>
@@ -182,6 +182,18 @@ be visited without any reservation!"</font></em></p>
 		<th><span class="font-normal">Category</span></th>
 		<th><span class="font-normal">VersionRevision</span></th>
 		<th><span class="font-normal"></span></th>
+	</tr>
+	<tr>
+		<td valign="top">
+		<img alt="" height="16" src="favicons/emuleproject-favicon.ico" width="16"></td>
+		<td class="auto-style3" valign="top">EMULEPROJECT</td>
+		<td class="auto-style3" valign="top">eMule-Project 2020<br><br>
+		<span class="auto-style5"><em>Sites, IP-Filter, Serverlist, Nodes, Mods</em></span></td>
+		<td class="auto-style3" valign="top">File-Sharing / Emule</td>
+		<td class="auto-style3" valign="top">v0.1rev3</td>
+		<td class="text-align-right" valign="top">
+		<a href="https://emule-project.us.to/" target="_blank">
+		<img height="16" src="../../en/content/img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">

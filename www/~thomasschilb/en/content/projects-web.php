@@ -112,7 +112,7 @@ a:hover {
 </head>
 
 <body style="margin: 0; color: #808080; background-color: #000000">
-<p class="table-footer-center">P R O J E C T S : W E B&nbsp; |&nbsp; 9</p>
+<p class="table-footer-center">P R O J E C T S : W E B&nbsp; |&nbsp; 1 0</p>
 <p><font color="#31C8F9">Official [4]</font></p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
@@ -164,7 +164,7 @@ a:hover {
 		<td valign="top">Repository: Experimental Techno<br><br>
 		<span class="auto-style5"><em>ETEC, Industrial Techno</em></span></td>
 		<td valign="top">Audio Service / Repository</td>
-		<td valign="top">2020.v0.3rev9</td>
+		<td valign="top">2020.v0.5rev10</td>
 		<td class="text-align-right" valign="top">
 		<a href="https://experimental-techno.com" target="_blank">
 		<img height="16" src="img/www.png" width="16" align="top"></a></td>
@@ -173,7 +173,7 @@ a:hover {
 <p class="auto-style1"><em><font size="2">Comment: "My official sites which can 
 be visited without any reservation!"</font></em></p>
 <p>&nbsp;</p>
-<p><font color="#31C8F9">Unofficial [5]</font></p>
+<p><font color="#31C8F9">Unofficial [6]</font></p>
 <table cellspacing="0" id="tstable" width="100%">
 	<tr>
 		<th><span class="font-normal">i</span></th>
@@ -185,6 +185,17 @@ be visited without any reservation!"</font></em></p>
 	</tr>
 	<tr>
 		<td valign="top">
+		<img alt="" height="16" src="favicons/emuleproject-favicon.ico" width="16"></td>
+		<td class="auto-style3" valign="top">EMULEPROJECT</td>
+		<td class="auto-style3" valign="top">eMule-Project 2020<br><br>
+		<span class="auto-style5"><em>Sites, IP-Filter, Serverlist, Nodes, Mods</em></span></td>
+		<td class="auto-style3" valign="top">File-Sharing / Emule</td>
+		<td class="auto-style3" valign="top">v0.1rev3</td>
+		<td class="text-align-right" valign="top">
+		<a href="https://emule-project.us.to/" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+	</tr>
+	<tr>
+		<td valign="top">
 		<img height="16" src="favicons/kkc-favicon.png" width="16" class="auto-style3" align="top"></td>
 		<td class="auto-style3" valign="top">KUKUXCLAN</td>
 		<td class="auto-style3" valign="top">Intro to 6 different: Frontlines &amp; 
@@ -193,7 +204,7 @@ be visited without any reservation!"</font></em></p>
 		<td class="auto-style3" valign="top">Clansite / Official</td>
 		<td class="auto-style3" valign="top">2020.v0.1rev1</td>
 		<td class="text-align-right" valign="top">
-		<a href="http://kukuxclan.xyz" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
+		<a href="https://kukuxclan.xyz" target="_blank"><img height="16" src="img/www.png" width="16" align="top"></a></td>
 	</tr>
 	<tr>
 		<td valign="top">
