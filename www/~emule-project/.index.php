@@ -29,12 +29,14 @@ font {font-family: 'Share Tech Mono', monospace;}
 .auto-style7 {
 	font-size: 18pt;
 	text-align: right;
-	color: #C0C0C0;
+	color: #808080;
+	background-color: #C0C0C0;
 }
 .auto-style8 {
 	font-size: 18pt;
 	text-align: left;
-	color: #C0C0C0;
+	color: #000000;
+	background-color: #C0C0C0;
 }
 .auto-style9 {
 	font-size: 18pt;
@@ -42,6 +44,27 @@ font {font-family: 'Share Tech Mono', monospace;}
 }
 .auto-style10 {
 	border-width: 0px;
+}
+.auto-style11 {
+	color: #0000FF;
+}
+a {
+	color: #0C7395;
+		text-decoration: none;
+	-moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+a:visited {
+	color: #0C7395;
+}
+a:active {
+	color: #0C7395;
+}
+a:hover {
+	color: #FF0000;
+	}
 }
 </style>
 <base target="_blank" />
@@ -59,7 +82,7 @@ font {font-family: 'Share Tech Mono', monospace;}
 				<td rowspan="2" valign="top"><font>
 				<a href="https://emule-project.us.to/" target="_self" title="Link Us!">
 				<img alt="ep256" height="256" longdesc="EP2020_256P" src=".img/ep256.png" width="256" class="auto-style10" /></a></font></td>
-				<td class="auto-style4" valign="top"><font>eMule-Project.2020</font></td>
+				<td class="auto-style4" valign="top"><font>eMule-Project | 2020</font></td>
 			</tr>
 			<tr>
 				<td class="auto-style4" valign="bottom">
@@ -79,12 +102,15 @@ font {font-family: 'Share Tech Mono', monospace;}
 	<tr>
 		<td valign="top">
 <font>
-<p class="text"><strong>Clients</strong></p>
+<p class="text"><strong>Clients<br />
+[9]</strong></p>
 </font>
 		</td>
 		<td valign="top">
 <font>
-		<p class="text">Official: aMule, beba, eMule, eMulePlus<br />
+		<p class="text"><strong>eMule-Project.2020-EP</strong><br />
+		<br />
+		Official: aMule, beba, eMule, eMulePlus<br />
 		Mods: kMule, MorphXT, ScarAngel, StulleMule, Xtreme<br />
 		<br />
 		Includes:<br />
@@ -106,16 +132,31 @@ font {font-family: 'Share Tech Mono', monospace;}
 		Sourcecode<br />
 		<br />
 		</p>
-		<p class="text">Download: <a href="dl/eMule-Project.2020-EP.7z">eMule-Project.2020-EP.7z</a> 
-		[105mb]<br />
-		UnPacker: <a href="https://7-zip.org">7-Zip</a></p>
+		<p class="text"><strong>Download:</strong> <a href="dl/eMule-Project.2020-EP.7z">
+		eMule-Project.2020-EP.7z<font color="#0000FF">*</font></a><br />
+		<strong>Mirror1: </strong>
+		<a href="https://mega.nz/file/nls0AYbB#bz1kCOKl6ZsVZHpnzVglRmLEDXOjiaJSOxvX4WwCh80">
+		MEGA.NZ</a><br />
+<font>
+		<strong>Mirror2: </strong>
+</font>
+		<a href="https://opendrive.xyz/s/9n3exDSgNDikDrA">OPENDRIVE.XYZ</a><br />
+		<br />
+		<font>
+		<strong>Size:</strong> 108mb packed, 255mb unpacked<strong><br />
+		CRC: </strong>8EB69D0B</font><br />
+		<br />
+		<span class="auto-style11"><em>*</em></span><em>You'll need </em>
+		<a href="https://7-zip.org/"><em>7-Zip</em></a><em> to unzip the above 
+		compressed filearchive!</em></p>
 </font>
 		</td>
 	</tr>
 	<tr>
 		<td valign="top">
 <font>
-<p class="text"><strong>IP-Filter</strong></p>
+<p class="text"><strong>IP-Filter<br />
+[1]</strong></p>
 </font>
 		</td>
 		<td valign="top">
@@ -127,7 +168,8 @@ font {font-family: 'Share Tech Mono', monospace;}
 	<tr>
 		<td valign="top">
 <font>
-<p class="text"><strong>Mods</strong></p>
+<p class="text"><strong>Mods<br />
+[2]</strong></p>
 </font>
 		</td>
 		<td valign="top">
@@ -140,7 +182,8 @@ font {font-family: 'Share Tech Mono', monospace;}
 	<tr>
 		<td valign="top">
 <font>
-<p class="text"><strong>Nodes.dat</strong></p>
+<p class="text"><strong>Nodes.dat<br />
+[3]</strong></p>
 </font>
 		</td>
 		<td valign="top">
@@ -153,7 +196,8 @@ font {font-family: 'Share Tech Mono', monospace;}
 	<tr>
 		<td valign="top">
 <font>
-<p class="text"><strong>Serverlist</strong></p>
+<p class="text"><strong>Serverlist<br />
+[3]</strong></p>
 </font>
 		</td>
 		<td valign="top">
@@ -169,7 +213,8 @@ font {font-family: 'Share Tech Mono', monospace;}
 	<tr>
 		<td valign="top">
 <font>
-<p class="text"><strong>Server.met</strong></p>
+<p class="text"><strong>Server.met<br />
+[6]</strong></p>
 </font>
 		</td>
 		<td valign="top">
@@ -187,7 +232,8 @@ font {font-family: 'Share Tech Mono', monospace;}
 	<tr>
 		<td valign="top">
 <font>
-<p class="text"><strong>Sites</strong></p>
+<p class="text"><strong>Sites<br />
+[7]</strong></p>
 </font>
 		</td>
 		<td valign="top">
@@ -203,7 +249,8 @@ font {font-family: 'Share Tech Mono', monospace;}
 </font></td>
 	</tr>
 	<tr>
-		<td valign="top" class="text"><strong>Link Us</strong></td>
+		<td valign="top" class="text"><strong>Link Us<br />
+		[1]</strong></td>
 		<td valign="top" class="text">
 		<a href="https://emule-project.us.to" title="EMULE-PROJECT | EP">
 		emule-project.us.to</a></td>
@@ -215,10 +262,11 @@ font {font-family: 'Share Tech Mono', monospace;}
 	</tr>
 	<tr>
 		<td valign="top" class="auto-style8">
-		Total: 21</td>
-		<td valign="top" class="auto-style7">
+		<strong>Total<br />
+		[32]</strong></td>
+		<td valign="bottom" class="auto-style7">
 <font>
-		emule-project.*.2020.v0.1rev5</font></td>
+		emule-project.*.2020.v0.1rev7</font></td>
 	</tr>
 	<tr>
 		<td class="auto-style1" colspan="2" valign="top">
@@ -226,7 +274,7 @@ font {font-family: 'Share Tech Mono', monospace;}
 			<tr>
 				<td>
 <font>
-				Copyright &copy; 2020 EMULE-PROJECT. All Rights Reserved.<font></td>
+				Copyright &copy; 2020 EMULE-PROJECT. All Rights Reserved.</td>
 				<td class="auto-style5">No. <? include ".counter.php"; ?></td>
 			</tr>
 		</table>

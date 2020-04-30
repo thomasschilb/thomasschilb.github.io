@@ -251,8 +251,8 @@ li.dropdown {
     <a target="_self" href="javascript:void(0)" class="dropbtn">Projects</a>
     <div class="dropdown-content">
       <a target="_self" href="?to=projects:archive">Archive</a>
+      <a target="_self" href="?to=projects:develope">Develope</a>
       <a target="_self" href="?to=projects:podcast">Podcast</a>
-      <a target="_self" href="?to=projects:web">Web</a>
     </div>
   </li>
   <li class="dropdown">
@@ -287,8 +287,8 @@ li.dropdown {
 		# include given
 		if ($to == "welcome")      								{include("en/content/welcome.php");}
 		elseif ($to == "projects:archive")  					{include("en/content/projects-archive.php");}
+		elseif ($to == "projects:develope")  					{include("en/content/projects-develope.php");}
 		elseif ($to == "projects:podcast")  					{include("en/content/projects-podcast.php");}
-		elseif ($to == "projects:web")  						{include("en/content/projects-web.php");}
 		elseif ($to == "service:email")  						{include("en/content/service-email.php");}
 		elseif ($to == "service:ftp")  							{include("en/content/service-ftp.php");}
 		elseif ($to == "service:repository")					{include("en/content/service-repository.php");}

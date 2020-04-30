@@ -170,8 +170,7 @@
 
 	    </tbody>
 	</table>
-
-	<h2><!-- <?php echo("<a href='$ahref'>$atext hidden files</a>"); ?></h2> -->
+	<!-- <h2><?php echo("<a href='$ahref'>$atext hidden files</a>"); ?></h2> -->
 </div>
 </body>
 </html>

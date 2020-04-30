@@ -252,7 +252,7 @@ li.dropdown {
     <div class="dropdown-content">
       <a target="_self" href="?to=projekte:archiv">Archiv</a>
       <a target="_self" href="?to=projekte:podcast">Podcast</a>
-      <a target="_self" href="?to=projekte:web">Web</a>
+      <a target="_self" href="?to=projekte:entwicklung">Entwicklung</a>
     </div>
   </li>
   <li class="dropdown">
@@ -288,7 +288,7 @@ li.dropdown {
 		if ($to == "willkommen")      							{include("de/content/welcome.php");}
 		elseif ($to == "projekte:archiv")  						{include("de/content/projects-archive.php");}
 		elseif ($to == "projekte:podcast")  					{include("de/content/projects-podcast.php");}
-		elseif ($to == "projekte:web")  						{include("de/content/projects-web.php");}
+		elseif ($to == "projekte:entwicklung")  				{include("de/content/projects-develope.php");}
 		elseif ($to == "service:email")  						{include("de/content/service-email.php");}
 		elseif ($to == "service:ftp")  							{include("de/content/service-ftp.php");}
 		elseif ($to == "service:repository")					{include("de/content/service-repository.php");}

@@ -3,7 +3,7 @@
 /* Connection Data */
 
 # server
-$db_location = "localhost";$db_username = "thomasschilb";$db_passwort = "1234";$db_name = "ts";
+$db_location = "127.0.0.1";$db_username = "thomasschilb";$db_passwort = "1234";$db_name = "ts";
 
 /* Counter Output */
 
