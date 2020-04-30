@@ -1,23 +1,23 @@
 ﻿* {
-	padding:23px;
+/*	padding:23px; */
 	margin:0;
 }
 
 body {
 	color: #FFFFFF;
-	font: 18px 'Share Tech Mono';
-	padding: 50px;
+	font: 23px 'Share Tech Mono';
+/*	padding: 50px;*/
 }
 
 h1 {
 	text-align: center;
-	padding: 20px 0 12px 0;
-	margin: 0;
+/*	padding: 20px 0 12px 0;
+	margin: 0; */
 }
 h2 {
-	font-size: 18px;
+	font-size: 23px;
 	text-align: center;
-	padding: 0 0 12px 0; 
+/*	padding: 0 0 12px 0; */
 }
 
 #container {
@@ -25,20 +25,21 @@ h2 {
 }
 
 table {
-	border-collapse: collapse;
+/*	border-collapse: collapse; */
 	width: 100%;
-	margin: 18px;
+/*	margin: 0; */
+	font-size: 23px;
 }
 
 th {
 	background-color: #333333;
 	color: #31C8F9;
 	cursor: pointer;
-	padding: 5px 10px;
+/*	padding: 5px 10px; */
 }
 
 th small {
-	font-size: 18px;
+	font-size: 23px;
 }
 
 td, th {
@@ -50,10 +51,10 @@ a {
 }
 td a {
 	display: block;
-	padding: 5px 10px;
+/*	padding: 5px 10px; */
 }
 th a {
-	padding-left: 0
+/*	padding-left: 0 */
 }
 
 
@@ -62,7 +63,7 @@ color: #31C8F9;
 }	
 
 th:first-of-type {
-	padding-left: 23px;
+/*	padding-left: 23px; */
 }
 
 td:not(:first-of-type) a {
@@ -76,21 +77,23 @@ tr:nth-of-type(odd) {
 
 /* icons for file types (icons by famfamfam) */
 
-/* images */
+/* icons */
 table tr td:first-of-type a[href$=".jpg"], 
 table tr td:first-of-type a[href$=".png"], 
 table tr td:first-of-type a[href$=".gif"], 
 table tr td:first-of-type a[href$=".svg"], 
 table tr td:first-of-type a[href$=".jpeg"]
-{background-image: url(./.images/image.png);}
+{background-image: url(./.icons/image.png);}
 
 /* zips */
 table tr td:first-of-type a[href$=".zip"] 
-{background-image: url(./.images/zip.png);}
+{background-image: url(./.icons/zip.png);}
+table tr td:first-of-type a[href$=".7z"] 
+{background-image: url(./.icons/7z.ico);}
 
 /* css */
 table tr td:first-of-type a[href$=".css"] 
-{background-image: url(./.images/css.png);}
+{background-image: url(./.icons/css.png);}
 
 /* docs */
 table tr td:first-of-type a[href$=".doc"],
@@ -101,7 +104,7 @@ table tr td:first-of-type a[href$=".pps"],
 table tr td:first-of-type a[href$=".ppsx"],
 table tr td:first-of-type a[href$=".xls"],
 table tr td:first-of-type a[href$=".xlsx"]
-{background-image: url(./.images/office.png)}
+{background-image: url(./.icons/office.png)}
 
 /* videos */
 table tr td:first-of-type a[href$=".avi"], 
@@ -109,27 +112,28 @@ table tr td:first-of-type a[href$=".wmv"],
 table tr td:first-of-type a[href$=".mp4"], 
 table tr td:first-of-type a[href$=".mov"], 
 table tr td:first-of-type a[href$=".m4a"]
-{background-image: url(./.images/video.png);}
+{background-image: url(./.icons/video.png);}
 
 /* audio */
+table tr td:first-of-type a[href$=".m4a"], 
 table tr td:first-of-type a[href$=".mp3"], 
 table tr td:first-of-type a[href$=".ogg"], 
 table tr td:first-of-type a[href$=".aac"], 
 table tr td:first-of-type a[href$=".wma"] 
-{background-image: url(./.images/audio.png);}
+{background-image: url(./.icons/audio.png);}
 
 /* web pages */
 table tr td:first-of-type a[href$=".html"],
 table tr td:first-of-type a[href$=".htm"],
 table tr td:first-of-type a[href$=".xml"]
-{background-image: url(./.images/xml.png);}
+{background-image: url(./.icons/xml.png);}
 
 table tr td:first-of-type a[href$=".php"] 
-{background-image: url(./.images/php.png);}
+{background-image: url(./.icons/php.png);}
 
 table tr td:first-of-type a[href$=".js"] 
-{background-image: url(./.images/script.png);}
+{background-image: url(./.icons/script.png);}
 
 /* directories */
 table tr.dir td:first-of-type a
-{background-image: url(./.images/folder.png);}
+{background-image: url(./.icons/folder.off);}

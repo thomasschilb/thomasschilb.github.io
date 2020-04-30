@@ -8,9 +8,9 @@
    <link rel="stylesheet" href="./.style.css">
    <script src="./.sorttable.js"></script>
    <style type="text/css">
-   .auto-style1 {
+   .repository-font {
 	   font-family: "Share Tech Mono";
-	   font-size: 18pt;
+	   font-size: 23pt;
    }
    a {
 	   color: #FFFFFF;
@@ -25,7 +25,8 @@
 </head>
 
 <body style="color: #FFFFFF">
-<div id="container" class="auto-style1">
+
+<div id="container" class="repository-font">
 
 	<table class="sortable">
 	    <thead>
@@ -35,6 +36,7 @@
 			<th>Size</th>
 			<th>Date Modified</th>
 		</tr>
+		<tr><th>&nbsp;</th></tr>
 	    </thead>
 	    <tbody><?php
 
@@ -97,8 +99,8 @@
 	// Separates directories, and performs operations on those directories
 		if(is_dir($dirArray[$index]))
 		{
-				$extn="&lt;Directory&gt;";
-				$size="&lt;Directory&gt;";
+				$extn="&lt;Dir&gt;";
+				$size="&lt;Dir&gt;";
 				$sizekey="0";
 				$class="dir";
 
@@ -126,7 +128,7 @@
 				case "jpeg": $extn="JPEG Image"; break;
 				case "svg": $extn="SVG Image"; break;
 				case "gif": $extn="GIF Image"; break;
-				case "ico": $extn="Windows Icon"; break;
+				case "ico": $extn="FavIcon"; break;
 
 				case "txt": $extn="Text File"; break;
 				case "log": $extn="Log File"; break;
@@ -138,13 +140,17 @@
 				case "js": $extn="Javascript File"; break;
 				case "css": $extn="Stylesheet"; break;
 
+				case "m4a": $extn="MPEG-4 Audio"; break;
+				case "mp3": $extn="MP3 Audio"; break;
+				case "7z": $extn="7-Zip Archive"; break;
+				case "zip": $extn="ZIP Archive"; break;
+
 				case "pdf": $extn="PDF Document"; break;
 				case "xls": $extn="Spreadsheet"; break;
 				case "xlsx": $extn="Spreadsheet"; break;
 				case "doc": $extn="Microsoft Word Document"; break;
 				case "docx": $extn="Microsoft Word Document"; break;
 
-				case "zip": $extn="ZIP Archive"; break;
 				case "htaccess": $extn="Apache Config File"; break;
 				case "exe": $extn="Windows Executable"; break;
 

@@ -9,9 +9,9 @@ DefaultLanguage en-US
 ServerSignature EMail
 
 
-# IndexOptions +FancyIndexing FoldersFirst SuppressIcon
+IndexOptions +FancyIndexing FoldersFirst SuppressIcon SuppressHTMLPreamble
 
-IndexOptions SuppressHTMLPreamble
+#IndexOptions SuppressHTMLPreamble
 
 # INITIAL SITE
 
@@ -32,9 +32,9 @@ DirectoryIndex .index.php
 
 # DESCRIPTION: NFO
 
-AddDescription 		"AAC / 64kbps" 					.m4a
-AddDescription 		"MPEG LAYER3 / 320kbps" 		.mp3
-AddDescription 		"application/x-compressed-zip" 	.zip
+#AddDescription 		"AAC / 64kbps" 					.m4a
+#AddDescription 		"MPEG LAYER3 / 320kbps" 		.mp3
+#AddDescription 		"application/x-compressed-zip" 	.zip
 
 # SECURE: HTTPS & WWW
 
@@ -49,7 +49,7 @@ AddDescription 		"application/x-compressed-zip" 	.zip
 
 # SERVER: SET AUDIO MIME-TYPES
 
-AddType application/octet-stream .avi .mpg .mov .pdf .xls .mp4 .7z .jpg .png .mp3 .m4a .ogg .wav
+AddType application/octet-stream .avi .mpg .mov .pdf .xls .mp4 .7z .jpg .png .mp3 .m4a .ogg .wav .zip .7z
 
 # ERROR HANDLER
 
