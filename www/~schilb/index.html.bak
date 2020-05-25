@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta content="de" http-equiv="Content-Language">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<!-- <link rel="shortcut icon" href="http://x.bplaced.com/x/favicon.ico" type="image/x-icon"> -->
+<meta name="author" content="Thomas Schilb">
+<meta name="publisher" content="Thomas Schilb">
+<meta name="copyright" content="© 2020 SCHILB.">
+<meta content="schilb, private, intern" name="keywords">
+<meta content="private homepage" name="description">
+<meta name="robots" content="all, index, follow"> 
+<meta name="googlebot" content="all, index, follow"> 
+<meta name="pagerank" content="10"> 
+<meta name="msnbot" content="all,index,follow"> 
+<meta name="revisit" content="2 Days"> 
+<meta name="revisit-after" content="2 Days"> 
+<meta name="alexa" content="100">
+<meta content="de" http-equiv="Content-Language">
+<base target="_blank">
+<link href="https://fonts.googleapis.com/css?family=Inter:300" rel="stylesheet">
+<head>
+<style type="text/css">
+a {
+	color: #808080;
+	text-decoration: none;
+}
+a:visited {
+	color: #808080;
+}
+a:active {
+	color: #808080;
+}
+a:hover {
+	color: #000000;
+}
+</style>
+<title>Familie | Schilb</title>
+<base target="_self">
+</head>
+
+<body style="color: #808080">
+
+<table align="center" cellpadding="5" cellspacing="0" style="width: 720px">
+	<tr>
+		<td style="width: 177px" valign="top">
+		<img align="top" alt="LOGO.PNG" height="128" longdesc="LOGO.PNG" src="logo.png" width="134"></td>
+		<td valign="top">|&nbsp;&nbsp; Über Uns<br>|&nbsp;&nbsp; Medien<br>|&nbsp;&nbsp; Info<br>|&nbsp;&nbsp; Impressum<br>
+		|&nbsp;&nbsp; Kontakt</td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top"><hr></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top"><hr></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top">©&nbsp;2020 Schilb. Alle Rechte Vorbehalten.</td>
+	</tr>
+</table>

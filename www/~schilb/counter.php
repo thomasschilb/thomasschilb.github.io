@@ -18,7 +18,7 @@ mysqli_query($con, "INSERT INTO `schilb-counter` SET ip='$ip'"); // else make db
 $count1 = mysqli_query($con, "SELECT cid FROM `schilb-counter`");
 $count = mysqli_num_rows($count1); // get entry rows to number
 $allyearscount = $count + 7000;
-echo 'No. '.$allyearscount.'';
+echo 'Nr. '.$allyearscount.'';
 
 mysqli_close($con);
 ?>

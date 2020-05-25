@@ -22,253 +22,125 @@
 <meta content="de" http-equiv="Content-Language">
 <base target="_blank">
 <link href="https://fonts.googleapis.com/css?family=Inter:300" rel="stylesheet">
-
+<head>
 <style type="text/css">
+font {font-family: 'Inter', sans-serif;}
 a {
-	color: #808080;
+	color: #959595;
 	text-decoration: none;
 }
 a:visited {
-	color: #808080;
+	color: #959595;
 }
 a:active {
-	color: #808080;
+	color: #959595;
 }
 a:hover {
-	-moz-transition: all .3s ease-in;
-	-o-transition: all .3s ease-in;
-	-webkit-transition: all .3s ease-in;
-	transition: all .3s ease-in;
-	color: #FFFFFF;
+	color: #000000;
 }
-.font-family {
-	font-family: 'Inter', sans-serif;
+.border-1px {
+	border-width: 1px;
 }
-.font-title {
-	font-family: 'Inter', sans-serif;
-	font-size: 72pt;
-	color: #808080;
-	background-color: #C0C0C0;
-}
-.menu {
-	font-family: 'Inter', sans-serif;
-	background-color: #000000;
-}
-.copyright {
-	font-family: 'Inter', sans-serif;
-	text-align: center;
-}
-.counter {
-	text-align: right;
-	background-color: #333333;
-	font-size: 15pt;
-}
-.menu-bg {
-	background-color: #333333;
-	font-size: 15pt;
-}
-.title-header {
-	font-family: 'Inter', sans-serif;
-	font-size: 72pt;
-	color: #808080;
-	background-color: #085089;
-	background-image: url('img/schilb-background.jpg');
-}
-.border-null {
-	border-width: 0px;
-}
-.font-15pt-center {
-	font-family: 'Inter', sans-serif;
-	text-align: center;
-	background-color: #333333;
-	font-size: 15pt;
-}
-.font-15pt-right {
-	font-size: 15pt;
+.text-align-right {
 	text-align: right;
 }
-.color-fff {
-	color: #FFFFFF;
+input textarea {
+color: #000000;
+background-color: #FFFFFF;
 }
-.title-header {
-	font-size: 31pt;
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	#font-family:Arial;
+	font-size:15px;
+	#font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
 }
-p {
-				font-family: 'Inter', sans-serif;
-	}
-.title-footer {
-	font-size: 15pt;
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
 }
-.footer-emptyspace {
-	font-family: 'Inter', sans-serif;
-	text-align: center;
-	font-size: 15pt;
-}
-.header-bluebutton {
-	background-color: #085089;
-	color: #0B77CC;
-}
-.text-center {
-	background-color: #085089;
-	color: #0B77CC;
-	text-align: center;
-}
-.text-center-15pt {
-	text-align: center;
-	font-size: 15pt;
-}
-.text-left-15pt {
-	background-color: #333333;
-	font-size: 15pt;
-	text-align: left;
-}
-.auto-css1 {
-	text-align: center;
-	font-size: 18pt;
-}
-.auto-css2 {
-	background-color: #333333;
-	font-size: 18pt;
-	text-align: left;
-}
-.auto-css3 {
-	font-size: 18pt;
-}
-.auto-css4 {
-	background-color: #333333;
-	font-size: 18pt;
-}
-.auto-css5 {
-	font-size: 18pt;
-	text-align: right;
-}
-.auto-css6 {
-	border-width: 0px;
-	font-size: 18pt;
-}
-.counter-18pt {
-	text-align: right;
-	background-color: #333333;
-	font-size: 18pt;
+.myButton:active {
+	position:relative;
+	top:1px;
 }
 </style>
+<title>Familie | Schilb</title>
+<base target="_self">
 </head>
 
-<body style="color: #808080; margin: 0; background-color: #000000">
-
-<table cellpadding="0" cellspacing="0" style="width: 100%">
+<body style="color: #909090">
+<font>
+<table align="center" cellpadding="5" cellspacing="0" style="width: 720px">
 	<tr>
-		<td class="title-header">
-		<table cellpadding="0" cellspacing="18" size="100%" style="width: 100%">
+		<td valign="top" style="width: 391px">
+		<table cellpadding="0" cellspacing="0" style="width: 100%">
 			<tr>
-				<td style="width: 115px" class="auto-css3">&nbsp;</td>
-				<td class="auto-css5" valign="top">
-				&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="width: 115px">
-				<a href="?to=start" target="_self">
-				<img class="auto-css6" height="128" src="img/schilb-logo.png" width="134"></a></td>
-				<td class="auto-css5" valign="top">
-				&nbsp;</td>
-			</tr>
-		</table>
-<!-- Logo Start -->
-<!-- Logo End -->
-		</td>
-	</tr>
-	<tr>
-		<td class="menu">
-		<table cellpadding="15" cellspacing="0" style="width: 100%">
-			<tr>
-				<td class="auto-css4">
-				<table align="left" cellpadding="5" cellspacing="0">
-					<tr>
-						<td style="width: 14px" class="text-center">&Uuml;</td>
-						<td><a href="?to=uberuns" target="_self">&Uuml;ber Uns</a></td>
-						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="text-center">M</td>
-						<td><a href="?to=medien" target="_self">Medien</a></span></td>
-						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="text-center">I</td>
-						<td>
-				<a href="?to=info" target="_self">Info</a></td>
-						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="text-center">I</td>
-						<td>
-				<a href="?to=impressum" target="_self">Impressum</a></td>
-						<td style="width: 15px">&nbsp;</td>
-						<td style="width: 15px" class="text-center">K</td>
-						<td>
-				<a href="?to=kontakt" target="_self">Kontakt</a></td>
-					</tr>
-				</table>
-				</td>
-				<td class="counter-18pt">&nbsp;&nbsp;<?php include('counter.php'); ?></td>
+				<td style="width: 177px">
+<font>
+		<a href="?link_id=0" target="_self">
+		<img align="top" alt="LOGO.PNG" height="128" longdesc="LOGO.PNG" src="logo.png" width="134" class="border-1px"></a></font></td>
+				<td>
+<font>
+		<a href="?link_id=1" target="_self"><strong>|&nbsp;&nbsp; </strong>Über Uns</a><br>
+		<a href="?link_id=2" target="_self"><strong>|&nbsp;&nbsp; </strong>Bilder</a><br>
+		<a href="?link_id=3" target="_self"><strong>|&nbsp;&nbsp; </strong>Info</a><br>
+		<a href="?link_id=6" target="_self"><strong>|&nbsp;&nbsp; </strong>Gästebuch</a><br>
+		<a href="?link_id=4" target="_self"><strong>|&nbsp;&nbsp; </strong>Impressum</a><br>
+		<a href="?link_id=5" target="_self"><strong>|&nbsp;&nbsp; </strong>Kontakt</a></font></td>
 			</tr>
 		</table>
 		</td>
+		<td valign="top">
+		&nbsp;</td>
 	</tr>
 	<tr>
-		<td class="font-family">
-		<table cellpadding="15" cellspacing="0" style="width: 100%">
+		<td colspan="2" valign="top"><hr></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top">
+		<table cellpadding="10" cellspacing="0" style="width: 100%">
 			<tr>
-			<td class="auto-css3">
-<?php
+				<td style="height: 39px">
+						<?php
 # get
-$to = $_GET['to'];
+$to = $_GET['link_id'];
 # include given
-if ($to == "start")       			{include("content/start.html");}
-elseif ($to == "medien")  			{include("content/medien.html");}
-elseif ($to == "kontakt")  			{include("content/kontakt.php");}
-elseif ($to == "uberuns")  			{include("content/uberuns.html");}
-elseif ($to == "impressum")  		{include("content/impressum.html");}
-elseif ($to == "info")  			{include("content/info.html");}
+if ($to == "1")       			{include("uberuns.html");}
+elseif ($to == "2")  			{include("bilder.html");}
+elseif ($to == "3")  			{include("info.html");}
+elseif ($to == "4")  			{include("impressum.html");}
+elseif ($to == "5")  			{include("kontakt.html");}
+elseif ($to == "0")  			{include("willkommen.html");}
+elseif ($to == "6")  			{include("gb.html");}
+elseif ($to == "7")				{include("eintragen.php");}
 # secure
 	else {
-include("content/start.html");
+include("willkommen.html");
 #else {echo '<meta target="_self" http-equiv="refresh" content="0; URL=/?to=login">';}
 }
 ?>
-			</td>
+				</td>
 			</tr>
 		</table>
 		</td>
 	</tr>
 	<tr>
-		<td class="font-15pt-center">		<table cellpadding="15" cellspacing="0" style="width: 100%">
-			<tr>
-				<td class="auto-css2">
-				<table cellpadding="23" cellspacing="0" style="width: 391px">
-					<tr>
-						<td style="width: 154px" valign="top">
-						&nbsp;</td>
-						<td valign="top">&nbsp;</td>
-						<td valign="top">&nbsp;</td>
-					</tr>
-					<tr>
-						<td style="width: 154px" valign="top">
-						<strong>Index</strong><br><br>
-						<a href="?to=uberuns" target="_self">Über Uns</a><br>
-						<a href="?to=medien" target="_self">Medien</a><br>
-						<a href="?to=info" target="_self">Info</a><br>
-						<br>
-						<a href="?to=impressum" target="_self">Impressum</a><br>
-						<a href="?to=kontakt" target="_self">Kontakt</a></td>
-						<td valign="top"><strong>Kontakt</strong><br>
-						<br><a href="mailto:info@schilb.family">
-						info@schilb.family</a></td>
-						<td valign="top">&nbsp;</td>
-					</tr>
-				</table>
-				</td>
-			</tr>
-		</table>
-</td>
+		<td colspan="2" valign="top">&nbsp;</td>
 	</tr>
-	</table>
-<p class="auto-css1">Copyright &copy; 2020 SCHILB. Alle Rechte 
-				Vorbehalten.</p>
-</body>
-
-</html>
+	<tr>
+		<td colspan="2" valign="top"><hr></td>
+	</tr>
+	<tr>
+		<td valign="top" style="width: 391px">©&nbsp;2020 Schilb. Alle Rechte Vorbehalten. </td>
+		<td valign="top" class="text-align-right">&nbsp;<?php include("counter.php"); ?></td>
+	</tr>
+</table></font>
