@@ -2,10 +2,10 @@
 
 /* Connection Data */
 
-# strato.de
 #$db_location='rdbms.strato.de';$db_username='U3924953';$db_passwort='!ah$d6m&H4#pY9R8s';$db_name='DB3924953';
+#$db_location = "127.0.0.1";$db_username = "thomasschilb";$db_password = "1234";$db_name = "ts";
+$db_location = "localhost";$db_username = "scene-listings";$db_password = "1234";$db_name = "scene-listings_counter";
 
-$db_location = "127.0.0.1";$db_username = "thomasschilb";$db_password = "1234";$db_name = "ts";
 
 /* Open Connection */
 
@@ -18,14 +18,14 @@ $ip = $_SERVER['REMOTE_ADDR'];
 
 /* Query DB */
 
-$test = mysqli_query($con, "SELECT * FROM `prescene-counter` WHERE ip='$ip'"); // test, if ip is already given
-if(mysqli_num_rows($test) != 1) {mysqli_query($con, "INSERT INTO `prescene-counter` SET ip='$ip'");} // else, make db entry
-$count1 = mysqli_query($con, "SELECT cid FROM `prescene-counter`"); // select, all ids in db
+$test = mysqli_query($con, "SELECT * FROM `prescene` WHERE ip='$ip'"); // test, if ip is already given
+if(mysqli_num_rows($test) != 1) {mysqli_query($con, "INSERT INTO `prescene` SET ip='$ip'");} // else, make db entry
+$count1 = mysqli_query($con, "SELECT cid FROM `prescene`"); // select, all ids in db
 $count = mysqli_num_rows($count1); // count, all ips in db
 
 /* Counter Output */
 
-$alltheyears = $count + 11000; // add counter state, exists before truncate the db
+$alltheyears = $count; // add counter state, exists before truncate the db
 echo $alltheyears;
 
 /* Close Connection */

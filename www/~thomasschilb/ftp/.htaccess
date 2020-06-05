@@ -1,3 +1,0 @@
-# Permanent URL redirect- by netgrade 
-RewriteEngine on
-Redirect 301 thomasschilb.eu https://ftp.thomasschilb.eu

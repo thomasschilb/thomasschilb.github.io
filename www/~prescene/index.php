@@ -3,6 +3,7 @@
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <meta content="en-us" http-equiv="Content-Language">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <!-- <link rel="shortcut icon" href="http://scenebb.bplaced.com/scenemusic/favicon.ico" type="image/x-icon"> -->
@@ -51,6 +52,9 @@ a:hover {
 	-webkit-transition: all .3s ease-in;
 	transition: all .3s ease-in;
 }
+hr {
+		color: #00FF00;
+	}
 .content {
 /*   font-family: 'Open Sans', sans-serif; */
 	font-size: 13pt;
@@ -164,7 +168,7 @@ a:hover {
 	text-align: left;
 	color: #808080;
 }
-.color-green {
+.color-green-header {
 	color: #00FF00;
 }
 .version {
@@ -182,6 +186,21 @@ a:hover {
 	color: #555555;
 	font-size: 13pt;
 }
+.font-8pt-00ff00 {
+	color: #00FF00;
+	font-size: 8pt;
+}
+.font-8pt-ff0000 {
+	color: #FF0000;
+	font-size: 8pt;
+}
+.font-8pt-808080 {
+	color: #808080;
+	font-size: 8pt;
+}
+.color-ff0000 {
+	color: #FF0000;
+}
 </style>
 <body>
 <font>
@@ -192,7 +211,7 @@ a:hover {
 	</tr>
 	<tr>
 		<td class="footer-13pt" colspan="2">
-		<a href="?to=start" target="_self" title="Link Us!">
+		<a href="http://prescene.us.to" target="_self" title="Link Us!">
 		<img src="img/prescene-title.png" class="border-with-null"></a></td>
 	</tr>
 	<tr>
@@ -203,20 +222,12 @@ a:hover {
 		- </strong></span>
 		<a class="gray" href="?to=site:section:bbs" target="_self"><strong>BBS</strong></a><span class="gray"><strong> 
 		- </strong></span>
-		<a href="?to=site:section:dc" target="_self"><strong>DC</strong></a><span class="gray"><strong> 
-		- </strong></span>
-		<a class="gray" href="?to=site:section:emule" target="_self">
-		<strong>EMULE</strong></span></a><span class="gray"><strong> 
-		- </strong></span></span>
 		<a class="gray" href="?to=site:section:ftp" target="_self">
 		<strong>FTP</strong></span></a><span class="gray"><strong> 
 		- </strong></span></span>
 		<a class="gray" href="?to=site:section:onion" target="_self">
 		<strong>ONION</strong></span></a><span class="gray"><strong> 
-		- </strong></span></span>
-		<a class="gray" href="?to=site:section:torrent" target="_self">
-		<strong>TORRENT</strong></span></a><span class="gray"><strong> 
-		- </strong></span>
+		- <a href="?to=site:section:p2p" target="_self">P2P</a> - </strong></span></span>
 		<a class="gray" href="?to=site:section:usenet" target="_self">
 		<strong>USENET</strong></span></a><span class="gray"><strong> 
 		- </strong></span>
@@ -224,10 +235,10 @@ a:hover {
 		<strong>WEB</strong></span></a><span class="gray"><strong> 
 		- </strong></span>
 		<a class="gray" href="?to=site:section:xdcc" target="_self">
-		<strong>XDCC</strong></a></span><br>&nbsp;<br></td>
+		<strong>XDCC</strong></a></span><br>&nbsp;</td>
 	</tr>
 	<tr><td style="height: 23px; width: 679px;" class="text-align-left-grey-13pt">
-		392 Entries</td><td style="height: 23px;" class="header">
+		&nbsp;427 Entries</td><td style="height: 23px;" class="header">
 		<font>
 		No. <?php include("c.php"); ?>
 		</td></tr>
@@ -248,11 +259,12 @@ elseif ($to == "site:indexer:live") {include("site-indexer-live.php");}
 #elseif ($to == "site:indexer:sections") {include("sections.php");}
 # sections
 elseif ($to == "site:section:bbs")  	{include("content/site-section-bbs.html");}
-elseif ($to == "site:section:dc")  		{include("content/site-section-dc.html");}
-elseif ($to == "site:section:emule")    {include("content/site-section-emule.html");}
+#elseif ($to == "site:section:dc")  		{include("content/site-section-dc.html");}
+#elseif ($to == "site:section:emule")    {include("content/site-section-emule.html");}
 elseif ($to == "site:section:ftp")  	{include("content/site-section-ftp.html");}
 elseif ($to == "site:section:onion")    {include("content/site-section-onion.html");}
-elseif ($to == "site:section:torrent")  {include("content/site-section-torrent.html");}
+elseif ($to == "site:section:p2p")    	{include("content/site-section-p2p.html");}
+#elseif ($to == "site:section:torrent")  {include("content/site-section-torrent.html");}
 elseif ($to == "site:section:usenet")   {include("content/site-section-usenet.html");}
 elseif ($to == "site:section:web")  	{include("content/site-section-web.html");}
 elseif ($to == "site:section:xdcc")   	{include("content/site-section-xdcc.html");}
@@ -288,33 +300,35 @@ else {include("content/welcome.html");}
 			</tr>
 			<tr>
 				<td style="width: 10px" valign="top">&nbsp;</td>
-				<td style="width: 84px" valign="top"><span class="color-green">
+				<td style="width: 84px" valign="top"><span class="color-green-header">
 				Index</span><br><br><a href="?to=anonym!ze" target="_self">
 				Anonym!ze</a><br><a href="?to=site:section:bbs" target="_self">
-				BBS</a><br><a href="?to=site:section:dc" target="_self">DC</a><br>
-				<a href="?to=site:section:emule" target="_self">Emule</a><br>
-				<a href="?to=site:section:ftp" target="_self">FTP</a></td>
-				<td style="width: 54px" valign="top"><br><br>
+				BBS</a><!-- <br><a href="?to=site:section:dc" target="_self">DC</a><br>
+				<a href="?to=site:section:emule" target="_self">Emule</a><br> --><br>
+				<a href="?to=site:section:ftp" target="_self">FTP</a><br>
+<font>
 				<a href="?to=site:section:onion" target="_self">Onion</a><br>
-				<a href="?to=site:section:torrent" target="_self">Torrent</a><br>
+				<a href="?to=site:section:p2p" target="_self">P2P</a></font></td>
+				<td style="width: 54px" valign="top"><br><br>
+				<!-- <a href="?to=site:section:torrent" target="_self">Torrent</a><br> -->
 				<a href="?to=site:section:usenet" target="_self">Usenet</a><br>
 				<a href="?to=site:section:web" target="_self">WEB</a><br>
 				<a href="?to=site:section:xdcc" target="_self">XDCC</a></td>
 				<td style="width: 66px" valign="top"><font>
-				<span class="color-green">Indexer</span><br class="color-green"><br>
+				<span class="color-green-header">Indexer</span><br class="color-green-header"><br>
 		<a href="?to=site:indexer:add" target="_self">Add Site</a><br>
 				<a href="?to=site:indexer:live" target="_self">View All</a></font></td>
 				<td style="width: 71px" valign="top"><font>
-				<span class="color-green">Site</span><br><br>
+				<span class="color-green-header">Site</span><br><br>
 				<a href="?to=site:info" target="_self">Info</a><br>
 				<a href="?to=site:info:changelog" target="_self">Changelog</a></font></td>
 				<td style="width: 57px" valign="top"><font>
-				<span class="color-green">Link Us<br><br>
+				<span class="color-green-header">Link Us<br><br>
 				<a href="?to=site:info:linkus:image" target="_self">Image</a><br>
 				<a href="?to=site:info:linkus:nfo" target="_self">Nfo</a><br>
 				<a href="?to=site:info:linkus:txt" target="_self">Txt</a><br>
 				<a href="?to=site:info:linkus:link" target="_self">Link</a></span></font></td>
-				<td valign="top" style="width: 54px"><span class="color-green">
+				<td valign="top" style="width: 54px"><span class="color-green-header">
 				<font>
 				Contact<br>
 				<br>
@@ -324,7 +338,7 @@ else {include("content/welcome.html");}
 				<a href="mailto:prescene@gmx.at">Email</a></font></span></td>
 				<td valign="top" style="width: 85px">
 <font>
-				<span class="color-green">Legal<br><br>
+				<span class="color-green-header">Legal<br><br>
 		<span class="gray"> 
 		<a href="?to=site:legalization:terms" target="_self">Terms and Conditions</a></span><br><br>
 		<a href="?to=site:legalization:privacy" target="_self">Privacy Policy</a></span></font></td>
@@ -337,7 +351,7 @@ else {include("content/welcome.html");}
 		</td>
 		</font>
 		<td class="version2" style="height: 23px" valign="bottom">
-		5.1rev59</td>
+		5.1rev60-rc1</td>
 	</tr>
 	</table><center><br>© 2020 <a href="http://prescene.us.to" target="_self">PRESCENE.</a> ALL RIGHTS RESERVED.<br>&nbsp;</center>
 	</head>

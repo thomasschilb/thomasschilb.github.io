@@ -34,4 +34,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://schilb.info/sitemap.xml
+Sitemap: https://schilb.family/sitemap.xml

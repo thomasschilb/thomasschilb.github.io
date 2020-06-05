@@ -86,7 +86,7 @@ background-color: #FFFFFF;
 			<tr>
 				<td style="width: 177px">
 <font>
-		<a href="?link_id=0" target="_self">
+				<a href="http://schilb.family.web.id" target="_self">
 		<img align="top" alt="LOGO.PNG" height="128" longdesc="LOGO.PNG" src="logo.png" width="134" class="border-1px"></a></font></td>
 				<td>
 <font>
@@ -140,7 +140,7 @@ include("willkommen.html");
 		<td colspan="2" valign="top"><hr></td>
 	</tr>
 	<tr>
-		<td valign="top" style="width: 391px">©&nbsp;2020 Schilb. Alle Rechte Vorbehalten. </td>
-		<td valign="top" class="text-align-right">&nbsp;<?php include("counter.php"); ?></td>
+		<td valign="top" style="width: 391px">&nbsp; ©&nbsp;2020 Schilb. Alle Rechte Vorbehalten. </td>
+		<td valign="top" class="text-align-right">&nbsp;<?php include("counter.php"); ?>&nbsp;&nbsp; </td>
 	</tr>
 </table></font>
